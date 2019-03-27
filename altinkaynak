@@ -1,0 +1,460 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="robots" content="index,follow" />
+    <meta name="author" content="Net Solutions">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" href="http://www.altinkaynak.com/apple-touch-icon-114x114-precomposed.png">
+    <meta name="format-detection" content="telephone=no">
+    <meta property="og:site_name" content="Altınkaynak Şirketler Grubu">
+    <meta property="og:image" content="http://www.altinkaynak.com/default-image.jpg">
+    <meta property="og:url" content="http://www.altinkaynak.com/">
+    <meta property="og:type" content="website">
+    <link rel="image_src" href="http://www.altinkaynak.com/default-image.jpg">
+    <link rel="stylesheet" href="/js/qTip/jquery.qtip.min.css">
+    <link rel="stylesheet" href="/js/royalslider/royalslider.css">
+    
+    <link rel="stylesheet" href="/css/main.css?t=130">
+    <script src="/js/modernizr.custom.68492.js"></script>
+    <!-- media query, borderradius-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+    <script src="/js/browser.mobile.js"></script>
+    <script src="/js/jquery.scrollTo-min.js"></script>
+    <script src="/js/royalslider/jquery.royalslider.min.js"></script>
+    
+    <script src="/js/qTip/jquery.qtip.min.js"></script>
+    <script src="/js/jquery.color.js"></script>
+    <script src="/js/respond.js"></script>
+    <script src="/js/plugins.js"></script>
+    <script src="/js/main.js?t=125"></script>
+
+    <!--[if (gte IE 6)&(lte IE 8)]>
+          <script type="text/javascript" src="js/selectivizr-min.js"></script>
+        <![endif]-->
+    
+    <title>Altınkaynak Şirketler Grubu - Dolar Euro Altın</title>
+    <meta name="description" content="Altınkaynak Şirketler Grubu - Dolar Euro Altın">
+    <meta property="og:title" content="Altınkaynak Şirketler Grubu - Dolar Euro Altın">
+    <meta property="og:description" content="Altınkaynak Şirketler Grubu - Dolar Euro Altın">
+
+</head>
+<body id="bdMain" class="home">
+    <form method="post" action="./" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzc1NTA5MDQ5D2QWAmYPZBYCAgMPFgIeBWNsYXNzBQRob21lFgICAQ9kFgQCBQ8WAh4HVmlzaWJsZWhkAgkPZBYMAgMPZBYCZg9kFgwCAQ8WAh8AZWQCAw8WAh4EVGV4dAUGNS43MjAwZAIFDxYCHwIFBjUuODAwMGQCBw8WAh8ABQJ1cGQCCQ8WAh8CBQY2LjQ2MDBkAgsPFgIfAgUGNi41NjAwZAIFD2QWAmYPZBYgAgEPFgIfAgUIMTMxMS4yNTVkAgMPFgIfAAUEZG93bmQCBQ8WAh8CBQgyMzkuNTgwMGQCBw8WAh8CBQgyNDUuNjEwMGQCCQ8WAh8ABQRkb3duZAILDxYCHwIFCDIzOC4zOTAwZAINDxYCHwIFCDI0NS42NDAwZAIPDxYCHwAFBGRvd25kAhEPFgIfAgUIMjE4LjUwMDBkAhMPFgIfAgUIMjI0LjAwMDBkAhUPFgIfAAUCdXBkAhcPFgIfAgUIMzgzLjM4MDBkAhkPFgIfAgUINDE5LjAwMDBkAhsPFgIfAAUCdXBkAh0PFgIfAgUGMi42MjUwZAIfDxYCHwIFBjMuMjEwMGQCBw9kFgJmD2QWFAIBDxYCHwIFBjEuMTI5M2QCAw8WAh8CBQYxLjMyMDFkAgUPFgIfAgUGMTEwLjA5ZAIHDxYCHwIFBjYuNjA4MWQCCQ8WAh8CBQY5LjI3MjhkAgsPFgIfAgUGMC45OTQzZAINDxYCHwIFBjguNTY0M2QCDw8WAh8CBQYzLjc0OTlkAhEPFgIfAgUGMC43MDc5ZAITDxYCHwIFBjEuMzQzMWQCCQ9kFgJmD2QWAgIBDxYCHwIFIzxwPjIzLjMuMjAxOSA8c3Bhbj4yMzoxNTwvc3Bhbj48L3A+ZAILDxYCHwIFkQI8YSBocmVmPSJodHRwczovL3d3dy5hbHRpbmtheW5ha3N0b3JlLmNvbS91cnVubGVyaW1pei5waHA/dG90YWw9OTAma2F0ZWdvcmlsZXI9JmF5YXJsYXI9JmZpeWF0bGFyPSZncnVwSUQ9MzMma2F0ZWdvcmlJRD0mYWx0a2F0ZWdvcmlJRD0mb3JkZXJieT1maXlhdCZvcmRlcmJ5dHlwZT1BU0MiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL3Jlc291cmNlcy9iYW5uZXJzL29ubGluZV9rdXl1bWN1bnV6X3Jla2xhbS5qcGciIHdpZHRoPSIzNjAiIGhlaWdodD0iMjAwIiAvPjwvYT5kAg0PFgIfAgX+AjxhIGhyZWY9Imh0dHBzOi8vd3d3Lmx1Y2lzcGlybGFudGEuY29tIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9yZXNvdXJjZXMvYmFubmVycy9MY3MwNDYuanBnIiB3aWR0aD0iMzYwIiBoZWlnaHQ9IjIwMCIgLz48L2E+PGEgaHJlZj0iaHR0cHM6Ly93d3cubHVjaXNwaXJsYW50YS5jb20iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL3Jlc291cmNlcy9iYW5uZXJzL0xjczA0NmMuanBnIiB3aWR0aD0iMzYwIiBoZWlnaHQ9IjIwMCIgLz48L2E+PGEgaHJlZj0iaHR0cHM6Ly9sdWNpc3BpcmxhbnRhLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSIvcmVzb3VyY2VzL2Jhbm5lcnMvTGNzMDQ2Yi5qcGciIHdpZHRoPSIzNjAiIGhlaWdodD0iMjAwIiAvPjwvYT5kZOWR/guCIdaVPLX+Fd4YNy3RCaI/Bv6pbVI80rBmHfoN" />
+
+
+<script src="/ScriptResource.axd?d=ovgBYJUO3QVL8Aa1YNbVgbZun7uSGmue7Uz24Y9jQpkQ9VjV-9I9eblGANNqwlu9AHl_EndQSWVmJyR7dh3pn0qfz4OCf5VjVmghxgCBqwbTzaAgxAh6MBRI2ezDSil4eUWlM1msFPDYmJGLQ0OmRiO8D2zxezE6aYQ11-D5htU1&amp;t=2b48f70a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=PLirdrMHuXIIXT0LjmLQC_awh2lIvtRn88hhJxtdw1ZL0VbfNQKd5MX-BMWhlOssdWUq7Itrw6QGZRvKxVROnhocfweOms_7s2wuJOY2E_6_LiJuiokexoDkfnMk9zds7I9K67qw7FEcR8dnWQOe3Lae0EB66GDOLMPGKhbAqj81&amp;t=2b48f70a" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+        
+        <!--[if lt IE 8]>
+            <p class="chromeframe"><strong>Eski</strong> bir tarayıcı kullanmaktasınız. Lütfen <a href="http://browsehappy.com/">tarayıcınızı güncelleyin</a> yada <a href="http://www.google.com/chromeframe/?redirect=true"> Google Chrome Frame aktifleştirin</a>.</p>
+        <![endif]-->
+        <a href="#">
+            <img src="http://www.altinkaynak.com/default-image.jpg" class="hidden" alt=""></a>
+        <div class="overlay">
+            <!--ie-->
+        </div>
+        <div id="preloader">
+            <div id="status">&nbsp;</div>
+        </div>
+
+        <div id="container">
+            <header id="header">
+                <h1 class="logo"><a href="/">Altınkaynak</a></h1>
+                <a href="#" class="mobileMenu">
+                    <!--fix-->
+                </a>
+                <nav id="menu">
+                    <ul>
+                        <li><a href="/">ANA SAYFA</a></li>
+                        <li class="hasSub">
+                            <a href="/Doviz/Kur/Guncel#">DÖVİZ</a>
+                            <ol>
+                                <li class="noBorder"><a href="/Doviz/Kur/Guncel">GÜNCEL DÖVİZ KURLARI</a>
+                                    <ol>
+                                        <li><a href="/Doviz/Kur/Guncel">Güncel Döviz Kurları</a></li>
+                                        <li><a href="/Doviz/Kur/Konya/Guncel">Konya Döviz Kurları</a></li>
+                                    </ol>
+                                </li>
+                                <li class="noBorder"><a href="#">ARŞİV VE RAPORLAR</a>
+                                    <ol>
+                                        <li><a href="/Doviz/Kur">Tek Tarih Sorgulama</a></li>
+                                        <li><a href="/Doviz/Arsiv">Tarih Aralığı Sorgulama</a></li>
+                                        <li><a href="/Doviz/Arsiv/Parite">Döviz Karşılaştırma</a></li>
+                                        <li><a href="/Doviz/Altin/Parite">Döviz Altın Karşılaştırma</a></li>
+                                    </ol>
+                                </li>
+                            </ol>
+                        </li>
+                        <li class="hasSub">
+                            <a href="/Altin/Kur/Guncel">ALTIN</a>
+                            <ol>
+                                <li class="noBorder"><a href="/Altin/Kur/Guncel">GÜNCEL ALTIN FİYATLARI</a>
+                                    <ol>
+                                        <li><a href="/Altin/Kur/Guncel">Güncel Altın Fiyatları</a></li>
+                                        <li><a href="/Altin/Kur/Konya/Guncel">Konya Altın Fiyatları</a></li>
+                                    </ol>
+                                </li>
+                                <li class="noBorder"><a href="#">ARŞİV VE RAPORLAR</a>
+                                    <ol>
+                                        <li><a href="/Altin/Kur">Tek Tarih Sorgulama</a></li>
+                                        <li><a href="/Altin/Arsiv">Tarih Aralığı Sorgulama</a></li>
+                                        <li><a href="/Altin/Doviz/Parite">Altın Döviz Karşılaştırma</a></li>
+                                    </ol>
+                                </li>
+                            </ol>
+                        </li>
+                        <li class="hasSub">
+                            <a href="/Kurumsal/Hakkimizda">KURUMSAL</a>
+                            <ol>
+                                <li class="noBorder">
+                                    <ol>
+                                        <li><a href="/Kurumsal/Hakkimizda">Hakkımızda</a></li>
+                                        <li><a href="/KurumsalBilgiler/TicaretSicilBilgileri">Kurumsal Bilgiler</a></li>
+                                    </ol>
+                                </li>
+                            </ol>
+                        </li>
+                        <li class="hasSub">
+                            <a href="/Uyelik">ÜYELİK</a>
+                            <ol>
+                                <li id="liUser" class="noBorder">
+                                    <ol>
+                                        <li><a href="/Uyelik/Kayit">Yeni Üyelik</a></li>
+                                        <li><a href="/Uyelik/Giris">Üye Girişi</a></li>
+                                    </ol>
+                                </li>
+                                <li class="noBorder"><a href="#">İŞLEMLER</a>
+                                    <ol>
+                                        <li><a href="/Uyelik/Varliklarim">Varlıklarım</a></li>
+                                        
+                                    </ol>
+                                </li>
+                            </ol>
+                        </li>
+                        <li class="hasSub">
+                            <a href="/Uyelik">ARAÇLAR</a>
+                            <ol>
+                                <li class="noBorder">
+                                    <ol>
+                                        <li><a href="/Araclar/PratikHesapMakinesi">Pratik Hesap Makinesi</a></li>
+                                        <li><a href="/Araclar/TicariHesapMakinesi">Ticari Hesap Makinesi</a></li>
+                                        <li><a href="/Araclar/Servisler">Servisler</a></li>
+                                    </ol>
+                                </li>
+                            </ol>
+                        </li>
+                        <li>
+                            <a href="/Iletisim">İLETİŞİM</a>
+                        </li>
+                    </ul>
+                </nav>
+            </header>
+            
+            <div id="main" role="main">
+                <div class="mContent">
+                    
+    <span id="cphMain_tUpdate" style="display:none;"></span>
+    <div class="cols c1">
+        <div class="box">
+            <div class="padding">
+                <h2>Döviz</h2>
+                <div class="clearfix"><!--ie--></div>
+                <div id="cphMain_upCurrency">
+	
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th colspan="2"></th>
+                                    <th>Alış</th>
+                                    <th>Satış</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr data-flag="USD" id="trUSD">
+                                    <td title="Amerika Birleşik Devletleri Para Birimi">
+                                        <h5>Dolar</h5>
+                                        <span class="code">USD</span>
+                                    </td>
+                                    <td><i id="cphMain_iarrUSD" class="">arrow</i></td>
+                                    <td>
+                                        5.7200</td>
+                                    <td>
+                                        5.8000</td>
+                                </tr>
+                                <tr data-flag="EUR" id="trEUR">
+                                    <td title="Avrupa Topluluğu Para Birimi">
+                                        <h5>Euro</h5>
+                                        <span class="code">EUR</span>
+                                    </td>
+                                    <td><i id="cphMain_iarrEUR" class="up">arrow</i></td>
+                                    <td>
+                                        6.4600</td>
+                                    <td>
+                                        6.5600</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    
+</div>
+                <a href="/Doviz/Kur/Guncel" class="calc">Döviz Kurları <span>ve Hesap Makinesi</span></a>
+                <a href="/Doviz/Kur" class="archive">Döviz Arşivi</a>
+            </div>
+        </div>
+        <div class="box">
+            <div class="padding">
+                <h2>Altın</h2>
+                <div id="cphMain_upGold">
+	
+                        <span class="ons">ONS: <i>1311.255</i></span>
+                        <div class="clearfix"><!--ie--></div>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th colspan="2"></th>
+                                    <th>Alış</th>
+                                    <th>Satış</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr id="trHH">
+                                    <td title="24 Ayar Saf Altın (saflık Derecesi 0.9999)">Has Altın</td>
+                                    <td><i id="cphMain_iarrHH" class="down">arrow</i></td>
+                                    <td>
+                                        239.5800</td>
+                                    <td>
+                                        245.6100</td>
+                                </tr>
+                                <tr id="trCH">
+                                    <td title="24 Ayar saf Altın (saflık Derecesi 0.995)">Külçe Altın</td>
+                                    <td><i id="cphMain_iarrCH" class="down">arrow</i></td>
+                                    <td>
+                                        238.3900</td>
+                                    <td>
+                                        245.6400</td>
+                                </tr>
+                                <tr id="trB">
+                                    <td title="22 Ayar Altın (Saflık Derecesi 0.916)">22 Ayar Eski Bilezik</td>
+                                    <td><i id="cphMain_iarrB" class="down">arrow</i></td>
+                                    <td>
+                                        218.5000</td>
+                                    <td>
+                                        224.0000</td>
+                                </tr>
+                                <tr id="trC">
+                                    <td title="22 Ayar Altın  (Saflık Derecesi 0.916) 1.75 GR">Yeni Çeyrek</td>
+                                    <td><i id="cphMain_iarrC" class="up">arrow</i></td>
+                                    <td>
+                                        383.3800</td>
+                                    <td>
+                                        419.0000</td>
+                                </tr>
+                                <tr id="trAG">
+                                    <td title="Gümüş (Saflık Derecesi 0.9999)">Gümüş</td>
+                                    <td><i id="cphMain_iarrAG" class="up">arrow</i></td>
+                                    <td>
+                                        2.6250</td>
+                                    <td>
+                                        3.2100</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    
+</div>
+                <a href="/Altin/Kur/Guncel" class="calc">Altın Fiyatları <span>ve Hesap Makinesi</span></a>
+                <a href="/Altin/Kur" class="archive">Altın Arşivi</a>
+            </div>
+        </div>
+    </div>
+    <div class="cols c2">
+        <div class="box parities">
+            <div class="padding">
+                <h2>Pariteler</h2>
+                <div class="clearfix"><!--ie--></div>
+                <div id="cphMain_upParities">
+	
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td>EUR/USD</td>
+                                    <td>
+                                        1.1293</i></td>
+                                </tr>
+                                <tr>
+                                    <td>GBP/USD</td>
+                                    <td>
+                                        1.3201</i></td>
+                                </tr>
+                                <tr>
+                                    <td>USD/JPY</td>
+                                    <td>
+                                        110.09</td>
+                                </tr>
+                                <tr>
+                                    <td>USD/DKK</td>
+                                    <td>
+                                        6.6081</td>
+                                </tr>
+                                <tr>
+                                    <td>USD/SEK</td>
+                                    <td>
+                                        9.2728</td>
+                                </tr>
+                                <tr>
+                                    <td>USD/CHF</td>
+                                    <td>
+                                        0.9943</td>
+                                </tr>
+                                <tr>
+                                    <td>USD/NOK</td>
+                                    <td>
+                                        8.5643</td>
+                                </tr>
+                                <tr>
+                                    <td>USD/SAR</td>
+                                    <td>
+                                        3.7499</td>
+                                </tr>
+                                <tr>
+                                    <td>AUD/USD</td>
+                                    <td>
+                                        0.7079</td>
+                                </tr>
+                                <tr>
+                                    <td>USD/CAD</td>
+                                    <td>
+                                        1.3431</td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+                    
+</div>
+            </div>
+        </div>
+        <div class="box lastUpdate">
+            <div class="padding">
+                <h2>Son Güncelleme</h2>
+                <div class="clearfix"><!--ie--></div>
+                <div id="cphMain_upLastUpdate">
+	
+                        <p>23.3.2019 <span>23:15</span></p>
+                    
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="cols c3">
+        <div class="box advert" id="ad1">
+            <a href="https://www.altinkaynakstore.com/urunlerimiz.php?total=90&kategoriler=&ayarlar=&fiyatlar=&grupID=33&kategoriID=&altkategoriID=&orderby=fiyat&orderbytype=ASC" target="_blank"><img src="/resources/banners/online_kuyumcunuz_reklam.jpg" width="360" height="200" /></a>
+        </div>
+        <div class="box advert" id="ad2">
+            <a href="https://www.lucispirlanta.com" target="_blank"><img src="/resources/banners/Lcs046.jpg" width="360" height="200" /></a><a href="https://www.lucispirlanta.com" target="_blank"><img src="/resources/banners/Lcs046c.jpg" width="360" height="200" /></a><a href="https://lucispirlanta.com" target="_blank"><img src="/resources/banners/Lcs046b.jpg" width="360" height="200" /></a>
+        </div>
+    </div>
+    <script>loadDefault();</script>
+
+                </div>
+            </div>
+        </div>
+        <footer id="footer">
+            <div class="footerContent">
+                <div class="row1">
+                    <div class="quickLinks">
+                        <h5>HIZLI LİNKLER</h5>
+
+                        <ul class="first">
+                            <li><a href="/">Ana Sayfa</a></li>
+                            <li><a href="/Doviz/Kur/Guncel">Döviz</a></li>
+                            <li><a href="/Altin/Kur/Guncel">Altın</a></li>
+                        </ul>
+                        <ul class="second">
+                            <li><a href="/Kurumsal/Hakkimizda">Kurumsal</a></li>
+                            <li><a href="/Araclar/Servisler">Servisler</a></li>
+                            <li><a href="/Iletisim">İletişim</a></li>
+                        </ul>
+                        <ul class="last">
+                            <li><a href="http://e-altinkaynak.com" target="_blank">Altinkaynak Online Satış</a></li>
+                            <li><a href="http://www.lucispirlanta.com" target="_blank">Lucis Online Satış</a></li>
+                        </ul>
+                    </div>
+                    <div class="mobileApps">
+                        <h5>MOBİL UYGULAMALAR</h5>
+                        <a target="_blank" href="https://itunes.apple.com/us/app/alt%C4%B1nkaynak-d%C3%B6viz-alt%C4%B1n/id1202564435?l=tr&ls=1&mt=8" class="appStore">App Store</a>
+                        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.ns.Altinkaynak.Mobile" class="play">Google Play</a>
+                        <a target="_blank" href="https://www.microsoft.com/tr-tr/store/p/alt%C4%B1nkaynak-doviz-alt%C4%B1n/9pjwjg9lf25d" class="windows">Windows Store</a></li>
+                   
+                    </div>
+                    <div class="phone">
+                        <a href="tel:4446444">444 6 444</a>
+                        <p>Alo Döviz &amp; Altın</p>
+                    </div>
+                </div>
+                <div class="row2">
+                    <p>Altınkaynak © 2014</p>
+                    <a href="#"></a>
+                </div>
+
+            </div>
+        </footer>
+    
+<script type='text/javascript'>loadDefault();loadOddEven();Google();</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.UI._Timer, {"enabled":true,"interval":30000,"uniqueID":"ctl00$cphMain$tUpdate"}, null, null, $get("cphMain_tUpdate"));
+});
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+        Google();
+
+       var advHeight = 548;
+       if ($(window).width() < 973) {
+          advHeight = $("#adv-img").height();
+       }
+
+        $("#adv").animate({
+            height: advHeight
+        }, 2000, function () {
+            $("#close").css('opacity', '1');
+            // Animation complete.
+        });
+
+
+        $("#close").click(function () {
+            closeAdv();
+        });
+
+        function closeAdv() {
+            $("#close").css('opacity', '0');
+            $("#adv").animate({
+                height: 0
+            }, 1000, function () {
+                // Animation complete.
+            });
+        }
+
+        setTimeout(function () { 
+            if ($("#adv").height() != 0) {
+                closeAdv();
+            }
+        }  , 7000 );
+
+    </script>
+</body>
+</html>

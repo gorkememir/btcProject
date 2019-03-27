@@ -1,0 +1,54 @@
+#!/bin/sh
+
+#Go to /home/gorkem/btcProject
+cd /home/gorkem/btcProject/
+
+#USD/TRY on www.altinkaynak.com
+	#Get the source code from Altinkaynak and output to wholeSite file. 
+	##wget -q http://www.altinkaynak.com/ -O altinkaynak
+
+	#Set a variable for USDTRY Buy Price and echo it.
+	##USDBUY=$(cat altinkaynak | grep -A4 "\"cphMain_iarrUSD\" class=" | tail -n 4 | tail -n 2 | grep ".\..." | sed 's/ //g' | head -c 4)
+	##echo "Buying price for \$1 is: $USDBUY TRY (altinkaynak)"
+
+	#Set a variable for USDTRY Sell Price and echo it.
+	##USDSELL=$(cat altinkaynak | grep -A4 "\"cphMain_iarrUSD\" class=" | tail -n 6 | grep ".\..." | sed 's/ //g' | head -c 4)
+	##echo "Selling price for \$1 is: $USDSELL TRY (altinkaynak)"
+
+#BTC/TRY on www.btcturk.com
+	#Get the source code from btcTurk and output to btcTurk file.
+	wget -q https://www.btcturk.com -O btcTurk
+
+	#Filter out the price and set it to $BTCTRY.
+	BTCTRY=`(cat btcTurk | grep -E "BTCTRY.*pair|pair.*BTCTRY" | cut -d "\"" -f 6)`
+
+	#Print $BTCTRY
+	echo "BTC is $BTCTRY TRY (btcturk)"
+
+#BTC/CAD on mybtc.ca
+	#Get the source code from mybtc.ca and output to mybtc.ca file.
+	wget https://mybtc.ca/buy-bitcoin-with-bank-wire-canada -O mybtc.ca -q
+ 
+	#Filter out the price and set it to $BTCCAD.
+	BTCCAD=`(cat mybtc.ca | grep "rate    =" | cut -d "=" -f 2 | sed 's/ //g' | cut -d "." -f 1)`
+
+	#Print $BTCCAD
+	echo "BTC is $BTCCAD CAD (mybtc.ca)"
+
+#CAD/TRY on investing.ca
+	#Get the source code from mybtc.ca and output to investing.ca file.
+	wget "https://ca.investing.com/currencies/cad-try" -O investing.ca -q
+ 
+	#Filter out the price and set it to $CADTRY.
+	CADTRY=`(cat investing.ca | grep "alertValue\" placeholder" | cut -d = -f 4 | cut -d \" -f 2)`
+
+	#Print $CADTRY
+	echo "CAD is $CADTRY TRY (investing.ca)"
+
+#Set BTCTURKCAD variable by using the BTCTRY and CADTRY variables. Echo out the conversion
+	RATE=`(calc $BTCTRY/$CADTRY | head -c 8 | cut -d "~" -f 2 | cut -d "." -f 1)`
+	echo "BTC is $RATE CAD on btcturk"
+
+#Difference between RATE and BTCCAD
+	DFR=`(calc $RATE-$BTCCAD | sed 's/ //g')`
+	echo "btcturk.com-mybtc.ca=$DFR CAD"
