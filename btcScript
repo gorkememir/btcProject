@@ -1,7 +1,8 @@
 #!/bin/sh
 
 #Go to /home/gorkem/btcProject
-cd /home/gorkem/btcProject/
+mkdir ~/btcProject
+cd ~/btcProject/
 
 #Arbitrage treshold in CAD
 TRS=2
