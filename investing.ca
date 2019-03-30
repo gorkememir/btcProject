@@ -72,7 +72,7 @@
 <!-- css -->
 	<link rel="stylesheet" href="https://i-invdn-com.akamaized.net/css/video-js_v3.css" type="text/css">
             <link rel="stylesheet" href="https://i-invdn-com.akamaized.net/css/mainOldMin_v3b.css" type="text/css">
-          				<link rel="stylesheet" href="https://i-invdn-com.akamaized.net/css/newMainCssMin_v59m.css" type="text/css">
+          				<link rel="stylesheet" href="https://i-invdn-com.akamaized.net/css/newMainCssMin_v59n.css" type="text/css">
 			    
 
     <link href="https://i-invdn-com.akamaized.net/css/printContent_v10.css" media="print" rel="stylesheet" type="text/css" />
@@ -213,7 +213,7 @@ function loadAfterGApiReady() {
         node.parentNode.insertBefore(gads, node);
     })();
 </script>
-<script>var c84109ad90a1e9e022082b9bcd37="da9efa98987634b25e5c3317b591d7b9";</script><script></script></head>
+<script>var b432d2a8d0822d0c8a933295996d6="13f5bc45855017770abdf711398bad7a";</script><script></script></head>
 <body class="takeover dfpTakeovers " >
     <div id="sideNotificationZone" class="sideNotificationZone">
 		<div class="floatingAlertWrapper alertWrapper js-notification-item displayNone">
@@ -311,19 +311,19 @@ function loadAfterGApiReady() {
 				        <div class="js-search-ga-header groupHeader" ga-label="Popular News">Popular News</div>
 				        <span class="js-search-ga-more" ga-label="Popular News - More">More</span>
 			        </a>
-			        <div class="js-search-ga-items articles mediumTitle1" ga-label="Popular News - Article"><article class="js-article-item articleItem   "  data-id="1427982"  >
-	<a href="/news/economy-news/top-5-things-to-know-in-the-market-on-monday-1427982" class="img" ><img src="https://i-invdn-com.akamaized.net/news/LYNXNPEB8E0AX_S.jpg" alt="Top 5 Things to Know in The Market on Monday" onerror="javascript:this.src='https://i-invdn-com.akamaized.net/news/news-paper_108x81.png';" ></a>	<div class="textDiv">
-							<a href="/news/economy-news/top-5-things-to-know-in-the-market-on-monday-1427982" title="Top 5 Things to Know in The Market on Monday" class="title" >Top 5 Things to Know in The Market on Monday</a>
+			        <div class="js-search-ga-items articles mediumTitle1" ga-label="Popular News - Article"><article class="js-article-item articleItem   "  data-id="1432340"  >
+	<a href="/news/commodities-news/trump-grants-permission-for-transcanada-keystone-pipeline-facilities-1432340" class="img" ><img src="https://i-invdn-com.akamaized.net/news/LYNXMPEA7Q0XV_S.jpg" alt="Trump grants permission for TransCanada Keystone pipeline facilities" onerror="javascript:this.src='https://i-invdn-com.akamaized.net/news/news-paper_108x81.png';" ></a>	<div class="textDiv">
+							<a href="/news/commodities-news/trump-grants-permission-for-transcanada-keystone-pipeline-facilities-1432340" title="Trump grants permission for TransCanada Keystone pipeline facilities" class="title" >Trump grants permission for TransCanada Keystone pipeline facilities</a>
 	                			</div>
 	<div class="clear"></div>
-</article><article class="js-article-item articleItem   "  data-id="1427870"  >
-	<a href="/news/commodities-news/update-1oil-prices-fall-as-markets-brace-for-potential-us-recession-1427870" class="img" ><img src="https://i-invdn-com.akamaized.net/news/LYNXNPEC3D1MG_S.jpg" alt="UPDATE 6-Oil prices hit by worries of sharp economic slowdown" onerror="javascript:this.src='https://i-invdn-com.akamaized.net/news/news-paper_108x81.png';" ></a>	<div class="textDiv">
-							<a href="/news/commodities-news/update-1oil-prices-fall-as-markets-brace-for-potential-us-recession-1427870" title="UPDATE 6-Oil prices hit by worries of sharp economic slowdown" class="title" >UPDATE 6-Oil prices hit by worries of sharp economic slowdown</a>
+</article><article class="js-article-item articleItem   "  data-id="1431702"  >
+	<a href="/news/commodities-news/oil-set-for-best-quarterly-rise-since-2009-on-opec-cuts-sanctions-1431702" class="img" ><img src="https://i-invdn-com.akamaized.net/news/LYNXNPEC0L0I7_S.jpg" alt="Oil posts biggest quarterly rise since 2009 on OPEC cuts, sanctions" onerror="javascript:this.src='https://i-invdn-com.akamaized.net/news/news-paper_108x81.png';" ></a>	<div class="textDiv">
+							<a href="/news/commodities-news/oil-set-for-best-quarterly-rise-since-2009-on-opec-cuts-sanctions-1431702" title="Oil posts biggest quarterly rise since 2009 on OPEC cuts, sanctions" class="title" >Oil posts biggest quarterly rise since 2009 on OPEC cuts, sanctions</a>
 	                			</div>
 	<div class="clear"></div>
-</article><article class="js-article-item articleItem   "  data-id="1428121"  >
-	<a href="/news/stock-market-news/brookfield-to-invest-c750-million-in-transaltas-clean-energy-push-1428121" class="img" ><img src="https://i-invdn-com.akamaized.net/news/LYNXNPEB7G0WB_S.jpg" alt="Brookfield to invest C$750 million in TransAlta's clean energy push " onerror="javascript:this.src='https://i-invdn-com.akamaized.net/news/news-paper_108x81.png';" ></a>	<div class="textDiv">
-							<a href="/news/stock-market-news/brookfield-to-invest-c750-million-in-transaltas-clean-energy-push-1428121" title="Brookfield to invest C$750 million in TransAlta's clean energy push " class="title" >Brookfield to invest C$750 million in TransAlta's clean energy push </a>
+</article><article class="js-article-item articleItem   "  data-id="1432287"  >
+	<a href="/news/economy-news/update-3trump-threatens-to-close-southern-us-border-if-mexico-does-not-stop-immigrants-1432287" class="img" ><img src="https://i-invdn-com.akamaized.net/news/LYNXNPED4F0DO_S.jpg" alt="UPDATE 8-Trump threatens closure of U.S.-Mexico border next week to stem asylum surge" onerror="javascript:this.src='https://i-invdn-com.akamaized.net/news/news-paper_108x81.png';" ></a>	<div class="textDiv">
+							<a href="/news/economy-news/update-3trump-threatens-to-close-southern-us-border-if-mexico-does-not-stop-immigrants-1432287" title="UPDATE 8-Trump threatens closure of U.S.-Mexico border next week to stem asylum surge" class="title" >UPDATE 8-Trump threatens closure of U.S.-Mexico border next week to stem asylum surge</a>
 	                			</div>
 	<div class="clear"></div>
 </article></div>
@@ -334,19 +334,19 @@ function loadAfterGApiReady() {
 				        <div class="js-search-ga-header groupHeader" ga-label="Popular Analysis">Popular Analysis</div>
 				        <span class="js-search-ga-more" ga-label="Popular Analysis - More">More</span>
 			        </a>
-			        <div class="js-search-ga-items articles smallTitle1 analysisImg js-popular-analysis-items" ga-label="Popular Analysis - Article"><article class="js-article-item articleItem   "  data-id="200198358"  >
-	<a href="/analysis/cboe-suspends-bitcoin-futures-beginning-of-the-end-for-cryptocurrencies-200198358" class="img" ><img src="https://d1-invdn-com.akamaized.net/company_logo/1d3da550d19c751037c050338881b37e.jpg"  onerror="javascript:this.src='https://i-invdn-com.akamaized.net/anonym.gif';" ></a>	<div class="textDiv">
-							<a href="/analysis/cboe-suspends-bitcoin-futures-beginning-of-the-end-for-cryptocurrencies-200198358" title="CBOE Suspends Bitcoin Futures; Beginning Of The End For Cryptocurrencies?" class="title" >CBOE Suspends Bitcoin Futures; Beginning Of The End For Cryptocurrencies?</a>
+			        <div class="js-search-ga-items articles smallTitle1 analysisImg js-popular-analysis-items" ga-label="Popular Analysis - Article"><article class="js-article-item articleItem   "  data-id="200198390"  >
+	<a href="/analysis/canadian-pot-stock-takes-hit-on-wall-street-after-reported-weak-q4-results-200198390" class="img" ><img src="https://d68-invdn-com.akamaized.net/company_logo/ca3467902dcf81741623ebe931ddc8c3.jpg"  onerror="javascript:this.src='https://i-invdn-com.akamaized.net/anonym.gif';" ></a>	<div class="textDiv">
+							<a href="/analysis/canadian-pot-stock-takes-hit-on-wall-street-after-reported-weak-q4-results-200198390" title="Canadian Pot Stock Takes Hit On Wall Street, TSX After Reporting Weak Q4 Results" class="title" >Canadian Pot Stock Takes Hit On Wall Street, TSX After Reporting Weak Q4 Results</a>
 	                			</div>
 	<div class="clear"></div>
-</article><article class="js-article-item articleItem   "  data-id="200198367"  >
-	<a href="/analysis/3-canadian-pot-stocks-trading-in-us-to-watch-this-week-200198367" class="img" ><img src="https://d68-invdn-com.akamaized.net/company_logo/ca3467902dcf81741623ebe931ddc8c3.jpg"  onerror="javascript:this.src='https://i-invdn-com.akamaized.net/anonym.gif';" ></a>	<div class="textDiv">
-							<a href="/analysis/3-canadian-pot-stocks-trading-in-us-to-watch-this-week-200198367" title="3 Canadian Pot Stocks Trading In U.S. To Watch This Week" class="title" >3 Canadian Pot Stocks Trading In U.S. To Watch This Week</a>
+</article><article class="js-article-item articleItem   "  data-id="200198395"  >
+	<a href="/analysis/canadian-pot-stock-canntrust-takes-drubbing-but-will-it-bounce-back-200198395" class="img" ><img src="https://d68-invdn-com.akamaized.net/company_logo/ca3467902dcf81741623ebe931ddc8c3.jpg"  onerror="javascript:this.src='https://i-invdn-com.akamaized.net/anonym.gif';" ></a>	<div class="textDiv">
+							<a href="/analysis/canadian-pot-stock-canntrust-takes-drubbing-but-will-it-bounce-back-200198395" title="Canadian Pot Stock CannTrust Takes Drubbing, But Will It Bounce Back?" class="title" >Canadian Pot Stock CannTrust Takes Drubbing, But Will It Bounce Back?</a>
 	                			</div>
 	<div class="clear"></div>
-</article><article class="js-article-item articleItem   "  data-id="200198356"  >
-	<a href="/analysis/canopy-growth-continues-its-march-to-expansion-in-pot-sector-200198356" class="img" ><img src="https://d68-invdn-com.akamaized.net/company_logo/ca3467902dcf81741623ebe931ddc8c3.jpg"  onerror="javascript:this.src='https://i-invdn-com.akamaized.net/anonym.gif';" ></a>	<div class="textDiv">
-							<a href="/analysis/canopy-growth-continues-its-march-to-expansion-in-pot-sector-200198356" title="Canopy Growth Continues Its March To Expansion In Pot Sector" class="title" >Canopy Growth Continues Its March To Expansion In Pot Sector</a>
+</article><article class="js-article-item articleItem   "  data-id="200198392"  >
+	<a href="/analysis/lyfts-stock-begins-trading-today-should-you-buy-200198392" class="img" ><img src="https://d1-invdn-com.akamaized.net/company_logo/8a041e87308c804e01b487506cdf1197.jpg"  onerror="javascript:this.src='https://i-invdn-com.akamaized.net/anonym.gif';" ></a>	<div class="textDiv">
+							<a href="/analysis/lyfts-stock-begins-trading-today-should-you-buy-200198392" title="Lyft’s Stock Begins Trading Today; Should You Buy?" class="title" >Lyft’s Stock Begins Trading Today; Should You Buy?</a>
 	                			</div>
 	<div class="clear"></div>
 </article></div>
@@ -418,7 +418,7 @@ function loadAfterGApiReady() {
 			authorsSearchText: 'Authors',
 			webinarsSearchText: 'Webinars'
 		},
-		popularSearches: [{"pairId":"8849","link":"\/commodities\/crude-oil","symbol":"CL","name":"Crude Oil WTI Futures","flag":"USA","type":"Commodity - NYMEX","ci":"5"},{"pairId":"978804","link":"\/equities\/aurora-cannabis","symbol":"ACB","name":"Aurora Cannabis Inc","flag":"Canada","type":"Equity - Toronto","ci":"6"},{"pairId":"8862","link":"\/commodities\/natural-gas","symbol":"NG","name":"Natural Gas Futures","flag":"USA","type":"Commodity - NYMEX","ci":"5"},{"pairId":"8839","link":"\/indices\/us-spx-500-futures","symbol":"US500","name":"S&P 500 Futures","flag":"USA","type":"Commodity - CME","ci":"5"},{"pairId":"8830","link":"\/commodities\/gold","symbol":"GC","name":"Gold Futures","flag":"gold","type":"Commodity - COMEX","ci":"242"}]	};
+		popularSearches: [{"pairId":"24498","link":"\/equities\/canadian-natural-resources","symbol":"CNQ","name":"Canadian Natural Resources Ltd","flag":"Canada","type":"Equity - Toronto","ci":"6"},{"pairId":"8849","link":"\/commodities\/crude-oil","symbol":"CL","name":"Crude Oil WTI Futures","flag":"USA","type":"Commodity - NYMEX","ci":"5"},{"pairId":"7","link":"\/currencies\/usd-cad","symbol":"USD\/CAD","name":"US Dollar Canadian Dollar","flag":"USA","type":"Currency","ci":"5"},{"pairId":"8862","link":"\/commodities\/natural-gas","symbol":"NG","name":"Natural Gas Futures","flag":"USA","type":"Commodity - NYMEX","ci":"5"},{"pairId":"978804","link":"\/equities\/aurora-cannabis","symbol":"ACB","name":"Aurora Cannabis Inc","flag":"Canada","type":"Equity - Toronto","ci":"6"}]	};
 </script>		<div class="topBarTools">
 			<span id="userAccount" class="topBarUserAvatar js-open-auth-trigger-inside" data-page-type="topBar">
 					<div class="topBarText"><a onclick="overlay.overlayLogin();" href="javascript:void(0);" class="login bold">Sign In</a>/<a onclick="overlay.overlayRegister(); topBarPopup.trackTopBarGAEvent('Sign Up')" href="javascript:void(0);" class="register bold">Free Sign Up</a></div>			</span>
@@ -1218,7 +1218,7 @@ window.Adomik = window.Adomik || {};
                         <option value="over">Moves above</option>
                         <option value="under">Moves below</option>
                     </select>
-                    <input type="text" class="newInput inputTextBox alertValue" placeholder="4.1694" value="4.1694">
+                    <input type="text" class="newInput inputTextBox alertValue" placeholder="4.1614" value="4.1614">
 					<p class="frequency">Frequency</p>
 					<span class="frequencyIcon"></span>Once                </fieldset>
 
@@ -1510,17 +1510,17 @@ window.Adomik = window.Adomik || {};
             <div class="overViewBox instrument">
     <div id="quotes_summary_current_data" class="instrumentDataFlex">
         <div  class="left">
-    <div class="downArrow top pid-9483-arrowBig"><!--Down--></div>
+    <div class="upArrow top pid-9483-arrowBig"><!--Up--></div>
     <div class="inlineblock">
         <div class="top bold inlineblock">
-            <span class="arial_26 inlineblock pid-9483-last" id="last_last" dir="ltr">4.1694</span>
-                        <span class="arial_20 redFont   pid-9483-pc" dir="ltr">-0.1224</span>
+            <span class="arial_26 inlineblock pid-9483-last" id="last_last" dir="ltr">4.1614</span>
+                        <span class="arial_20 greenFont   pid-9483-pc" dir="ltr">+0.0264</span>
             <span dir="rtl">&nbsp;&nbsp;</span>
-            <span class="arial_20 redFont  pid-9483-pcp parentheses" dir="ltr">-2.85%</span>
+            <span class="arial_20 greenFont  pid-9483-pcp parentheses" dir="ltr">+0.64%</span>
         </div>
         <div class="bottom lighterGrayFont arial_11">
-            <span class="inlineblock greenClockBigIcon middle  isOpenExchBig-1003"></span>
-            <span class="bold pid-9483-time">10:13:03</span><span class="bold"></span> - Real-time Data.  <span class="noWrap">( <a href="javascript:void(0)" id="scrollToDisc" class="lightgrayFont underline">Disclaimer</a> )</span>
+            <span class="inlineblock redClockBigIcon middle  isOpenExchBig-1003"></span>
+            <span class="bold pid-9483-time">29/03</span><span class="bold"></span> - Closed.  <span class="noWrap">( <a href="javascript:void(0)" id="scrollToDisc" class="lightgrayFont underline">Disclaimer</a> )</span>
         </div>
             </div>
 </div>		<div class="right">
@@ -1545,9 +1545,9 @@ window.Adomik = window.Adomik || {};
         <div class="bottomText float_lang_base_1">
 	<ul class="bold">
 
-				<li><span class="lighterGrayFont noBold">Prev. Close:</span> <span dir="ltr">4.2918</span></li>
-				<li><span class="lighterGrayFont noBold">Bid/Ask:</span> <span dir="ltr"><span class="inlineblock pid-9483-bid">4.1654</span> / <span class="inlineblock pid-9483-ask">4.1735</span></span></li>
-				<li><span class="lighterGrayFont noBold">Day's Range:</span> <span dir="ltr"><span class="inlineblock pid-9483-low">4.1495</span> - <span class="inlineblock pid-9483-high">4.2595</span></span></li>
+				<li><span class="lighterGrayFont noBold">Prev. Close:</span> <span dir="ltr">4.1350</span></li>
+				<li><span class="lighterGrayFont noBold">Bid/Ask:</span> <span dir="ltr"><span class="inlineblock pid-9483-bid">4.1502</span> / <span class="inlineblock pid-9483-ask">4.1727</span></span></li>
+				<li><span class="lighterGrayFont noBold">Day's Range:</span> <span dir="ltr"><span class="inlineblock pid-9483-low">4.1472</span> - <span class="inlineblock pid-9483-high">4.2424</span></span></li>
 			</ul>
 </div>    </div>
     <div class="float_lang_base_2 text_align_lang_base_2">
@@ -1569,9 +1569,9 @@ window.Adomik = window.Adomik || {};
     <div class="instrumentFloaterInner">
         <div class="float_lang_base_1 bold">
             <span class="arial_22">CAD/TRY</span>
-                        <span id="fl_header_pair_lst" class="arial_16 midNum pid-9483-last" dir="ltr">4.1694</span>
-                        <span id="fl_header_pair_chg" class="arial_14 pid-9483-pc redFont" dir="ltr">-0.1224</span>
-                        <span id="fl_header_pair_pch" class="arial_14 pid-9483-pcp redFont parentheses" dir="ltr">-2.85%</span>
+                        <span id="fl_header_pair_lst" class="arial_16 midNum pid-9483-last" dir="ltr">4.1614</span>
+                        <span id="fl_header_pair_chg" class="arial_14 pid-9483-pc greenFont" dir="ltr">+0.0264</span>
+                        <span id="fl_header_pair_pch" class="arial_14 pid-9483-pcp greenFont parentheses" dir="ltr">+0.64%</span>
         </div>
 
         <div class="js-inject-add-alert-widget"></div>
@@ -1654,7 +1654,7 @@ window.Adomik = window.Adomik || {};
 
 <div class="newSocialButtons small">
     <a href="https://www.facebook.com/sharer/sharer.php?app_id=179222828858436&u=https%3A%2F%2Fca.investing.com%2Fcurrencies%2Fcad-try&display=popup&ref=plugin" class="facebook button genToolTip oneliner" target="_blank" onclick="javascript:window.open(this.href, '', 'height=320,width=725');return false;" data-tooltip="Share on Facebook"><i class="facebookLogo"></i></a><a href="javascript:void(0);" class="twitter button genToolTip oneliner" data-tooltip="Share on Twitter"
-                    onclick="openTwitPopup('/currencies/cad-try', 111362,'instruments','%24CADTRY+at+4.1694+via+%40ca_investing','twitter',false);">
+                    onclick="openTwitPopup('/currencies/cad-try', 111362,'instruments','%24CADTRY+at+4.1614+via+%40ca_investing','twitter',false);">
                     <i class="twitterLogo"></i></a><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fca.investing.com%2Fcurrencies%2Fcad-try&amp;title=CAD+TRY+%7C+Canadian+Dollar+Turkish+Lira+-+Investing.com+Canada&amp;summary=" class="linkedin button genToolTip oneliner" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=615,width=600');return false;"  data-tooltip="Share on Linkedin"><i class="linkedinLogo"></i></a><a href="javascript:void(0);" class="shareWFriend button genToolTip oneliner" data-tooltip="Send by Email"
                     onclick="openSharePopup('https://ca.investing.com/currencies/cad-try', 111362,'instruments', 'CAD%20TRY%20%7C%20Canadian%20Dollar%20Turkish%20Lira%20-%20Investing.com%20Canada%0A%0A','CAD%20TRY%20%7C%20Canadian%20Dollar%20Turkish%20Lira%20-%20Investing.com%20Canada','shareLink',false,'');">
                     <i class="newEnvelopeIcon"></i><span class="actionName"></span></a></div>
@@ -1768,15 +1768,15 @@ $(function() {
 </script>
 <!-- ***** Overview Data Table ***** -->
 <div class="clear overviewDataTable overviewDataTableWithTooltip">
-	<div class="first inlineblock"><span class="float_lang_base_1">Prev. Close</span><span class="float_lang_base_2 bold">4.2918</span></div><div class="inlineblock"><span class="float_lang_base_1">Bid</span><span class="float_lang_base_2 bold">4.1654</span></div><div class="inlineblock"><span class="float_lang_base_1">Day's Range</span><span class="float_lang_base_2 bold">4.1495 - 4.2595</span></div><div class="first inlineblock"><span class="float_lang_base_1">Open</span><span class="float_lang_base_2 bold">4.2918</span></div><div class="inlineblock"><span class="float_lang_base_1">Ask</span><span class="float_lang_base_2 bold">4.1735</span></div><div class="inlineblock"><span class="float_lang_base_1">52 wk Range</span><span class="float_lang_base_2 bold">3.0379 - 5.5050</span></div><div class="first inlineblock"><span class="float_lang_base_1">1-Year Change</span><span class="float_lang_base_2 bold">37.36%</span></div></div>
+	<div class="first inlineblock"><span class="float_lang_base_1">Prev. Close</span><span class="float_lang_base_2 bold">4.135</span></div><div class="inlineblock"><span class="float_lang_base_1">Bid</span><span class="float_lang_base_2 bold">4.1502</span></div><div class="inlineblock"><span class="float_lang_base_1">Day's Range</span><span class="float_lang_base_2 bold">4.1472 - 4.2424</span></div><div class="first inlineblock"><span class="float_lang_base_1">Open</span><span class="float_lang_base_2 bold">4.135</span></div><div class="inlineblock"><span class="float_lang_base_1">Ask</span><span class="float_lang_base_2 bold">4.1727</span></div><div class="inlineblock"><span class="float_lang_base_1">52 wk Range</span><span class="float_lang_base_2 bold">3.0557 - 5.5050</span></div><div class="first inlineblock"><span class="float_lang_base_1">1-Year Change</span><span class="float_lang_base_2 bold">35.96%</span></div></div>
 <div class="clear"></div>
 <!-- ***** Overview Data Table ***** --><div class="instrumentsSentiments gray">
     <div class="left js-sentiments-left">
                     <span class="bold middle questionText">What is your sentiment on CAD/TRY?</span>
 <div class="voteButtons middle js-vote-container">
-	<label for="bullRadio" class="js-sentiment-btn js-bull-btn newBtn LightGray newSentimentsButton inlineblock genToolTip oneliner boldTip" name="bull"  data-tooltip="Bullish"  data-count = 9><span class="newBullIcon2"></span></label>
+	<label for="bullRadio" class="js-sentiment-btn js-bull-btn newBtn LightGray newSentimentsButton inlineblock genToolTip oneliner boldTip disabled" name="bull"  data-count = 12><span class="newBullIcon2"></span></label>
 	<div class="inlineblock align_center or">or</div>
-	<label for="bearRadio" class="js-sentiment-btn js-bear-btn newBtn LightGray newSentimentsButton inlineblock genToolTip oneliner boldTip" name="bear"  data-tooltip="Bearish"  data-count = 3><span class="newBearIcon2"></span></label>
+	<label for="bearRadio" class="js-sentiment-btn js-bear-btn newBtn LightGray newSentimentsButton inlineblock genToolTip oneliner boldTip disabled" name="bear"  data-count = 4><span class="newBearIcon2"></span></label>
 </div>
 <div class="clear"></div>
 
@@ -1810,8 +1810,7 @@ $(function() {
 	}
 </script>            </div>
     <div class="right js-sentiments-right">
-                        <span class="sentimentsPieIcon"></span>
-    <span class="sentimentText">Vote to see community's results!</span>
+                        <span class="sentimentText lightgrayFont">Market is currently closed. Voting is open during market hours.</span>
             </div>
 </div><div class="doubleLineSeperator"></div>
 <h2>
@@ -1833,7 +1832,7 @@ $(function() {
 			<td class="left first">Moving Averages</td>
 							<td class="left redFont">Strong Sell</td>
 							<td class="left redFont">Strong Sell</td>
-							<td class="left redFont">Sell</td>
+							<td class="left Font">Neutral</td>
 							<td class="left greenFont">Buy</td>
 							<td class="left greenFont">Buy</td>
 					</tr>
@@ -1849,7 +1848,7 @@ $(function() {
 			<td class="left first">Summary</td>
 							<td class="left redFont">Strong Sell</td>
 							<td class="left redFont">Strong Sell</td>
-							<td class="left redFont">Strong Sell</td>
+							<td class="left redFont">Sell</td>
 							<td class="left greenFont">Strong Buy</td>
 							<td class="left greenFont">Strong Buy</td>
 					</tr>
@@ -1917,49 +1916,48 @@ $(function() {
 		</tr>
 	</thead>
     <tbody id="patternTableBody">
-                        <tr class="noHover">
-            <td colspan="6" class="theDay">Emerging Patterns</td>
-        </tr>
-                        <tr id="row0" onclick="Patterns.openDesc(0);">
-                <td class="icon" title="Bullish reversal"><span class="bullRevIcon middle"></span></td>
-                <td class="left bold">Harami Bullish</td>
-                <td class="left">30</td>
-                <td class="left" title="Low"><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarLightIcon"></i><i class="reliabilityStarLightIcon"></i></td>
-                <td class="left" colspan="2">Current</td>
-            </tr>
-                        <tr id="row1" onclick="Patterns.openDesc(1);">
-                <td class="icon" title="Bullish reversal"><span class="bullRevIcon middle"></span></td>
-                <td class="left bold">Harami Cross</td>
-                <td class="left">30</td>
-                <td class="left" title="Low"><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarLightIcon"></i><i class="reliabilityStarLightIcon"></i></td>
-                <td class="left" colspan="2">Current</td>
-            </tr>
-                                    <tr class="noHover">
+                                <tr class="noHover">
             <td colspan="6" class="theDay">Completed Patterns</td>
         </tr>
-                    <tr id="row2" onclick="Patterns.openDesc(2);">
+                    <tr id="row0" onclick="Patterns.openDesc(0);">
                 <td class="icon" title="Bullish reversal"><span class="bullRevIcon"></span></td>
-                <td class="left bold">Three Inside Up</td>
+                <td class="left bold">Morning Doji Star</td>
                 <td class="left">1D</td>
                 <td class="left" title="High"><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarDarkIcon"></i></td>
-                <td class="left">2</td>
-                <td class="noWrap">Mar 22, 2019</td>
+                <td class="left">1</td>
+                <td class="noWrap">Mar 28, 2019</td>
             </tr>
-                        <tr id="row3" onclick="Patterns.openDesc(3);">
-                <td class="icon" title="Bearish reversal"><span class="bearRevIcon"></span></td>
-                <td class="left bold">Three Outside Down</td>
-                <td class="left">5H</td>
-                <td class="left" title="High"><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarDarkIcon"></i></td>
+                        <tr id="row1" onclick="Patterns.openDesc(1);">
+                <td class="icon" title="Bullish reversal"><span class="bullRevIcon"></span></td>
+                <td class="left bold">Bullish doji Star</td>
+                <td class="left">1D</td>
+                <td class="left" title="Medium"><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarLightIcon"></i></td>
                 <td class="left">2</td>
-                <td class="noWrap">Mar 24, 2019 20:00</td>
+                <td class="noWrap">Mar 27, 2019</td>
             </tr>
-                        <tr id="row4" onclick="Patterns.openDesc(4);">
+                        <tr id="row2" onclick="Patterns.openDesc(2);">
                 <td class="icon" title="Bearish reversal"><span class="bearRevIcon"></span></td>
                 <td class="left bold">Doji Star Bearish</td>
                 <td class="left">1W</td>
                 <td class="left" title="Medium"><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarLightIcon"></i></td>
                 <td class="left">3</td>
                 <td class="noWrap">Mar 03, 2019</td>
+            </tr>
+                        <tr id="row3" onclick="Patterns.openDesc(3);">
+                <td class="icon" title="Bullish reversal"><span class="bullRevIcon"></span></td>
+                <td class="left bold">Three Inside Up</td>
+                <td class="left">1D</td>
+                <td class="left" title="High"><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarDarkIcon"></i></td>
+                <td class="left">6</td>
+                <td class="noWrap">Mar 22, 2019</td>
+            </tr>
+                        <tr id="row4" onclick="Patterns.openDesc(4);">
+                <td class="icon" title="Bearish continuation"><span class="bearContIcon"></span></td>
+                <td class="left bold">Falling Three Methods</td>
+                <td class="left">15</td>
+                <td class="left" title="High"><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarDarkIcon"></i><i class="reliabilityStarDarkIcon"></i></td>
+                <td class="left">7</td>
+                <td class="noWrap">Mar 29, 2019 15:00</td>
             </tr>
                                 </tbody>
 </table>
@@ -1988,49 +1986,27 @@ var texts = {
     $(document).ready(function(){
         Patterns.patternsData = {};                    Patterns.patternsData[0] = {
                         desc: {
-                            img: 'https://i-invdn-com.akamaized.net/tvc_patterns_images/48.gif',
+                            img: 'https://i-invdn-com.akamaized.net/tvc_patterns_images/53.gif',
                             type: 'Bullish reversal',
-                            reliability: 'Low',
-                            desc: 'The Harami Bullish Pattern is characterized by a small white real body contained within a prior relatively long black real body. \'Harami\' is old Japanese word for pregnant. The long black candlestick is \'the mother\' and the small candlestick is \'the baby\'.<br/><BR>The smaller the second candlestick, the stronger is the reversal signal.<br/>The shadows of the second candlestick do not have to be contained within the first candle\'s body, though it\'s preferable if they are.<br/>Pattern needs confirmation on the next candlestick.',
-                            time: '',
-                            candle: 0,
-                            category: 'emerging'
+                            reliability: 'High',
+                            desc: 'During a downtrend, the market strengthens the bearish trend with a long black candlestick. The second candlestick trades within a small range and closes at or near its open. This scenario generally shows the potential for a rally, as many positions have been changed. Confirmation of the trend reversal is given by the white third candlestick. <br/>The Morning Doji Star is a fully realized bullish Doji Star pattern.<br/>It is important reversal signal.',
+                            time: 'Mar 28, 2019',
+                            candle: 1,
+                            category: 'completed'
                         }
                     };
                                         Patterns.patternsData[1] = {
                         desc: {
-                            img: 'https://i-invdn-com.akamaized.net/tvc_patterns_images/49.gif',
+                            img: 'https://i-invdn-com.akamaized.net/tvc_patterns_images/43.gif',
                             type: 'Bullish reversal',
-                            reliability: 'Low',
-                            desc: 'After a long black candlestick at the low end of a downtrend, a white candlestick opens higher or at the previous candlestick\'s close and closes at or around its open.<br/><BR>The Harami Cross indicator is more definite than the basic Harami indicator, and signifies a reversal for the bulls.<br/><BR>The smaller the second candlestick, the stronger is the reversal signal.<br/><BR>The shadows of the second candlestick do not have to be contained within the first candle\'s body, though it\'s preferable if they are.',
-                            time: '',
-                            candle: 1,
-                            category: 'emerging'
+                            reliability: 'Medium',
+                            desc: 'During a downtrend, the market strengthens the bears with a long black candlestick and gaps open on the second one. However, the second candlestick trades within a small range and closes at or near its open. This scenario generally shows the potential for a rally, as many positions have been changed. Confirmation of the trend reversal would be a higher open on the next candlestick.',
+                            time: 'Mar 27, 2019',
+                            candle: 2,
+                            category: 'completed'
                         }
                     };
                                         Patterns.patternsData[2] = {
-                        desc: {
-                            img: 'https://i-invdn-com.akamaized.net/tvc_patterns_images/57.gif',
-                            type: 'Bullish reversal',
-                            reliability: 'High',
-                            desc: 'This pattern is a more reliable addition to the standard Harami pattern. <br/>A bullish Harami pattern occurs in the first two candles.  <br/>The third candle is a white candle with a higher close than the second candle and the confirmation of the bullish trend reversal.',
-                            time: 'Mar 22, 2019',
-                            candle: 2,
-                            category: 'completed'
-                        }
-                    };
-                                        Patterns.patternsData[3] = {
-                        desc: {
-                            img: 'https://i-invdn-com.akamaized.net/tvc_patterns_images/24.gif',
-                            type: 'Bearish reversal',
-                            reliability: 'High',
-                            desc: 'This pattern is a more reliable addition to the standard Engulfing pattern.<br/>A bearish Engulfing pattern occurs in the first two candles. <br/>The third candle is a black one with a lower close than the second candle.<br/>The third candlestick is confirmation of the bearish trend reversal.',
-                            time: 'Mar 24, 2019 20:00',
-                            candle: 2,
-                            category: 'completed'
-                        }
-                    };
-                                        Patterns.patternsData[4] = {
                         desc: {
                             img: 'https://i-invdn-com.akamaized.net/tvc_patterns_images/8.gif',
                             type: 'Bearish reversal',
@@ -2038,6 +2014,28 @@ var texts = {
                             desc: 'During an uptrend, the market builds strength on a long white candlestick and gaps up on the second candlestick. However, the second candlestick trades within a small range and closes at or near its open. This scenario generally shows erosion of confidence in the current trend. Confirmation of a trend reversal would be a lower open on the next candle.',
                             time: 'Mar 03, 2019',
                             candle: 3,
+                            category: 'completed'
+                        }
+                    };
+                                        Patterns.patternsData[3] = {
+                        desc: {
+                            img: 'https://i-invdn-com.akamaized.net/tvc_patterns_images/57.gif',
+                            type: 'Bullish reversal',
+                            reliability: 'High',
+                            desc: 'This pattern is a more reliable addition to the standard Harami pattern. <br/>A bullish Harami pattern occurs in the first two candles.  <br/>The third candle is a white candle with a higher close than the second candle and the confirmation of the bullish trend reversal.',
+                            time: 'Mar 22, 2019',
+                            candle: 6,
+                            category: 'completed'
+                        }
+                    };
+                                        Patterns.patternsData[4] = {
+                        desc: {
+                            img: 'https://i-invdn-com.akamaized.net/tvc_patterns_images/30.gif',
+                            type: 'Bearish continuation',
+                            reliability: 'High',
+                            desc: 'During a downtrend, a long black candlestick occurs, following by three candles of small real bodies that fall into a short uptrend. On the fifth candle, the bears come in strong to close at a new low. This small uptrend, in between two long black candles, is consistent with investors taking a break. The downward should continue.',
+                            time: 'Mar 29, 2019 15:00',
+                            candle: 7,
                             category: 'completed'
                         }
                     };
@@ -2073,75 +2071,10 @@ var texts = {
         })
     })
 </script>
+<div class="doubleLineSeperator"></div><div id="div-gpt-ad-1531124357521-0" data-slot-id="/6938/FP_CA_site/FP_CA_not_Out_of_page_video_Content" style="width:650px;" ></div>
+    
 <div class="doubleLineSeperator"></div><div id="div-gpt-ad-1545734588042-0" data-slot-id="/6938/FP_CA_site/FP_CA_content_recommendation_widget" style="width:650px;" ></div>
     
-<!-- Economic Calendar -->
-<div id="economicCalendarHPMain">
-	<div class="doubleLineSeperator"></div><span class="dateHP float_lang_base_2 arial_11 lightgrayFont bold" style="padding-top:5px;">Time: Mar 25, 2019 06:13 (GMT -4:00)</span><h2><a href="/economic-calendar/">Economic Calendar</a></h2>
-	<div class="eCalNew eCalWidgetNew">
-	<table class="genTbl closedTbl ecoCalTbl">
-	  <thead>
-	    <tr>
-	      <th class="first left time">Time</th>
-	      <th class="left cur">Cur.</th>
-	      <th class="left textNum imp">Imp.</th>
-	      <th class="left">Event</th>
-	      <th class="act">Actual</th>
-	      <th class="fore">Forecast</th>
-	      <th class="prev" colspan="2">Previous</th>
-	    </tr>
-	  </thead>
-	  <tbody>
-      				<tr>
-	      			<td colspan="9" class="theDay" id="theDay1553486400">Monday, March 25, 2019</td>
-	    		</tr>
-					    		<tr id="eventRowId_384017" class="js-event-item " event_attr_ID="1157" data-event-datetime="2019/03/25 02:30:00">
-				      <td class="first left time js-time"  title="">02:30</td>
-				      <td class="left flagCur noWrap"><span title="Canada" class="ceFlags Canada" data-img_key="Canada">&nbsp;</span> CAD</td>
-				      <td class="left textNum sentiment noWrap" title="Moderate Volatility Expected" data-img_key="bull2"><i class="grayFullBullishIcon"></i><i class="grayFullBullishIcon"></i><i class="grayEmptyBullishIcon"></i></td>
-				      <td class="left event" title="Click to view more info on Investing.com USD/CAD Index"><a href="/economic-calendar/investing.com-usd-cad-index-1157" target="_blank">
-				      Investing.com USD/CAD Index </a>
-				      </td>
-				      <td class="bold act blackFont event-384017-actual" title="" id="eventActual_384017">57.1%</td>
-				      <td class="fore  event-384017-forecast " id="eventForecast_384017">&nbsp;</td>
-				      <td class="prev blackFont  event-384017-previous" id="eventPrevious_384017"><span title="">60.9%</span></td>
-				      				      <td class=""  data-name ="Investing.com USD/CAD Index" data-event-id="1157" data-status-enabled="0">
-					      					  </td>
-				    </tr>
-						    		<tr id="eventRowId_382830" class="js-event-item " event_attr_ID="870" data-event-datetime="2019/03/25 03:00:00">
-				      <td class="first left time js-time"  title="">03:00</td>
-				      <td class="left flagCur noWrap"><span title="Turkey" class="ceFlags Turkey" data-img_key="Turkey">&nbsp;</span> TRY</td>
-				      <td class="left textNum sentiment noWrap" title="Moderate Volatility Expected" data-img_key="bull2"><i class="grayFullBullishIcon"></i><i class="grayFullBullishIcon"></i><i class="grayEmptyBullishIcon"></i></td>
-				      <td class="left event" title="Click to view more info on Capacity Utilization"><a href="/economic-calendar/turkish-capacity-utilization-870" target="_blank">
-				      Capacity Utilization  (Mar)</a>
-				      </td>
-				      <td class="bold act blackFont event-382830-actual" title="" id="eventActual_382830">74.3%</td>
-				      <td class="fore  event-382830-forecast " id="eventForecast_382830">&nbsp;</td>
-				      <td class="prev blackFont  event-382830-previous" id="eventPrevious_382830"><span title="">74.0%</span></td>
-				      				      <td class=""  data-name ="Capacity Utilization" data-event-id="870" data-status-enabled="0">
-					      					  </td>
-				    </tr>
-						    		<tr id="eventRowId_382831" class="js-event-item " event_attr_ID="616" data-event-datetime="2019/03/25 03:00:00">
-				      <td class="first left time js-time"  title="">03:00</td>
-				      <td class="left flagCur noWrap"><span title="Turkey" class="ceFlags Turkey" data-img_key="Turkey">&nbsp;</span> TRY</td>
-				      <td class="left textNum sentiment noWrap" title="Low Volatility Expected" data-img_key="bull1"><i class="grayFullBullishIcon"></i><i class="grayEmptyBullishIcon"></i><i class="grayEmptyBullishIcon"></i></td>
-				      <td class="left event" title="Click to view more info on Manufacturing Confidence"><a href="/economic-calendar/turkish-manufacturing-confidence-616" target="_blank">
-				      Manufacturing Confidence  (Mar)</a>
-				      </td>
-				      <td class="bold act blackFont event-382831-actual" title="" id="eventActual_382831">102.1</td>
-				      <td class="fore  event-382831-forecast " id="eventForecast_382831">&nbsp;</td>
-				      <td class="prev blackFont  event-382831-previous" id="eventPrevious_382831"><span title="">97.2</span></td>
-				      				      <td class=""  data-name ="Manufacturing Confidence" data-event-id="616" data-status-enabled="0">
-					      					  </td>
-				    </tr>
-				
-      </tbody>
-	</table>
-	</div>
-	<div class="clear">&nbsp;</div>
-	<div class="float_lang_base_2 text_align_lang_base_2 arial_11 bold"></div>
-</div>
-<div class="clear"></div>
 <div class="doubleLineSeperator"></div>
 <h2>Central Banks</h2>
 <table class="genTbl openTbl smallTbl float_lang_base_1">
@@ -2326,13 +2259,8 @@ var texts = {
                 					<span class="commentUsername">
                     	<a href="/members/201551937" class="js-user-link js-user-name">Hakan Sarıgül</a>
 					</span>
-                                <span class="js-date" comment-date="2017-07-18 05:53:02" comment-date-formatted="Jul 18, 2017 1:53" title="">Jul 18, 2017 1:53</span>
+                                <span class="js-date" comment-date="2017-07-18 05:53:02" comment-date-formatted="Jul 18, 2017 5:53" title="">Jul 18, 2017 5:53</span>
                 <div class="commentDropDown js-commentDropDownWrapper " data-user-id="201551937" data-cid="30796">
-	<div class="flag js-flag">
-		<a href="javascript:void(0);" id="commentFlag_30796">
-			<span class="commentFlagIcon " title="Report"></span>
-		</a>
-	</div>
 	<a href="javascript:void(0);" class="threeDotsIconSmall js-thinDropdownArrow"></a>
 	<div class="tooltipPopup commentActionsPop noHeader js-commentDropDownOptions displayNone">
 		<div class="addRow js-option share">
@@ -2390,6 +2318,11 @@ var texts = {
 	<span class="numOfDislikes js-dislike-count lighterGrayFont">0</span>
 </div>
 
+					<div class="reportComment js-flag float_lang_base_2">
+						<a href="javascript:void(0);" id="commentFlag_30796">
+							<span class="reportCommentIcon middle"></span><span class="inlineblock middle">Report</span>
+						</a>
+					</div>
 				</div>
 					</div>
 	   </div>
@@ -2402,11 +2335,6 @@ var texts = {
 				</span>
                         <span class="js-date" comment-date="2018-04-03 19:38:32" comment-date-formatted="Jul 18, 2017 1:53" title="">Jul 18, 2017 1:53</span>
 						<div class="commentDropDown js-commentDropDownWrapper " data-user-id="201738594" data-cid="35125">
-	<div class="flag js-flag">
-		<a href="javascript:void(0);" id="commentFlag_35125">
-			<span class="commentFlagIcon " title="Report"></span>
-		</a>
-	</div>
 	<a href="javascript:void(0);" class="threeDotsIconSmall js-thinDropdownArrow"></a>
 	<div class="tooltipPopup commentActionsPop noHeader js-commentDropDownOptions displayNone">
 		<div class="addRow js-option share">
@@ -2465,9 +2393,13 @@ var texts = {
 	<span class="numOfDislikes js-dislike-count lighterGrayFont">0</span>
 </div>
 
+					<div class="reportComment js-flag float_lang_base_2">
+						<a href="javascript:void(0);" id="commentFlag_35125">
+							<span class="reportCommentIcon middle"></span><span class="inlineblock middle">Report</span>
+						</a>
+					</div>
 				</div>
-			
-		</div>
+					</div>
 		</div>
     </div>
 
@@ -2478,11 +2410,6 @@ var texts = {
 				</span>
                         <span class="js-date" comment-date="2018-12-03 19:57:14" comment-date-formatted="Jul 18, 2017 1:53" title="">Jul 18, 2017 1:53</span>
 						<div class="commentDropDown js-commentDropDownWrapper " data-user-id="204610819" data-cid="46850">
-	<div class="flag js-flag">
-		<a href="javascript:void(0);" id="commentFlag_46850">
-			<span class="commentFlagIcon " title="Report"></span>
-		</a>
-	</div>
 	<a href="javascript:void(0);" class="threeDotsIconSmall js-thinDropdownArrow"></a>
 	<div class="tooltipPopup commentActionsPop noHeader js-commentDropDownOptions displayNone">
 		<div class="addRow js-option share">
@@ -2541,9 +2468,13 @@ var texts = {
 	<span class="numOfDislikes js-dislike-count lighterGrayFont">0</span>
 </div>
 
+					<div class="reportComment js-flag float_lang_base_2">
+						<a href="javascript:void(0);" id="commentFlag_46850">
+							<span class="reportCommentIcon middle"></span><span class="inlineblock middle">Report</span>
+						</a>
+					</div>
 				</div>
-			
-		</div>
+					</div>
 		</div>
     </div>
 </div>			<textarea class="js-templates displayNone">
@@ -2557,11 +2488,6 @@ var texts = {
 					</span>
                                 <span class="js-date" comment-date="{dateFormat}" comment-date-formatted="{dateFormatted}" title="{dateTitle}">Just Now</span>
                 <div class="commentDropDown js-commentDropDownWrapper " data-user-id="201551937" data-cid="{commentID}">
-	<div class="flag js-flag">
-		<a href="javascript:void(0);" id="commentFlag_{commentID}">
-			<span class="commentFlagIcon " title="Report"></span>
-		</a>
-	</div>
 	<a href="javascript:void(0);" class="threeDotsIconSmall js-thinDropdownArrow"></a>
 	<div class="tooltipPopup commentActionsPop noHeader js-commentDropDownOptions displayNone">
 		<div class="addRow js-option share">
@@ -2623,6 +2549,11 @@ var texts = {
 	<span class="numOfDislikes js-dislike-count lighterGrayFont">0</span>
 </div>
 
+					<div class="reportComment js-flag float_lang_base_2">
+						<a href="javascript:void(0);" id="commentFlag_{commentID}">
+							<span class="reportCommentIcon middle"></span><span class="inlineblock middle">Report</span>
+						</a>
+					</div>
 				</div>
 					</div>
 	   </div>
@@ -2637,11 +2568,6 @@ var texts = {
 				</span>
                         <span class="js-date" comment-date="{dateFormat}" comment-date-formatted="{dateFormatted}" title="{dateTitle}">Just Now</span>
 			 <div class="commentAuthor js-comment-by-author"><span class="commentAuthorIcon"></span>Author's response</div> 			<div class="commentDropDown js-commentDropDownWrapper " data-user-id="204610819" data-cid="{commentID}">
-	<div class="flag js-flag">
-		<a href="javascript:void(0);" id="commentFlag_{commentID}">
-			<span class="commentFlagIcon " title="Report"></span>
-		</a>
-	</div>
 	<a href="javascript:void(0);" class="threeDotsIconSmall js-thinDropdownArrow"></a>
 	<div class="tooltipPopup commentActionsPop noHeader js-commentDropDownOptions displayNone">
 		<div class="addRow js-option share">
@@ -2709,9 +2635,13 @@ var texts = {
 	<span class="numOfDislikes js-dislike-count lighterGrayFont">0</span>
 </div>
 
+					<div class="reportComment js-flag float_lang_base_2">
+						<a href="javascript:void(0);" id="commentFlag_{commentID}">
+							<span class="reportCommentIcon middle"></span><span class="inlineblock middle">Report</span>
+						</a>
+					</div>
 				</div>
-			
-		</div>
+					</div>
 		</div>
     </div>
 			</div>
@@ -3097,7 +3027,6 @@ any of each other's Investing.com's posts.</p>
         <p class="label">I feel that this comment is:</p>
         <fieldset><input type="radio" name="commentFlagType" id="flagCommentSpam" value="_spam"><label for="flagCommentSpam">Spam</label></fieldset>
         <fieldset><input type="radio" name="commentFlagType" id="flagCommentOffensive" value="_offensive"><label for="flagCommentOffensive">Offensive</label></fieldset>
-        <fieldset><input type="radio" name="commentFlagType" id="flagCommentIrrelevant" value="_irrelevant"><label for="flagCommentIrrelevant">Irrelevant</label></fieldset>
     </div>
     <div class="footer">
         <a href="javascript:void(0);" id="commentFlagPopupSubmit" class="newBtn noIcon LightGray disabled float_lang_base_2">Submit</a>    </div>
@@ -3409,7 +3338,7 @@ Fusion Media or anyone involved with Fusion Media will not accept any liability 
 $(document).ready(function(){
 	tabsWidgetOnelevel('', 'storedSiteBlockQuotesBoxTabObject', 'quotesBoxWithTabsTop', +'');
 	});
-</script><div class="quotesBox quotesBoxWithTabsBottom"><span class="threeDotsIconSmall genToolTip oneliner js-three-dots" data-tooltip="Tabs Customization"></span><div class="tooltipPopup quotesTabsSelection displayNone js-popup-wrapper"><div class="header">Tabs Selection</div><div class="content ui-sortable rowsWrap js-sideblock-tab-selection"><label class="addRow js-ts-label" data-tab-id="2"><span class="checkers"></span><input type="checkbox" class="checkbox"checked >Indices</label><label class="addRow js-ts-label" data-tab-id="3"><span class="checkers"></span><input type="checkbox" class="checkbox"checked >Commodities</label><label class="addRow js-ts-label" data-tab-id="1"><span class="checkers"></span><input type="checkbox" class="checkbox"checked >Forex</label><label class="addRow js-ts-label" data-tab-id="7"><span class="checkers"></span><input type="checkbox" class="checkbox"checked >Crypto</label><label class="addRow js-ts-label" data-tab-id="5"><span class="checkers"></span><input type="checkbox" class="checkbox">Stocks</label><label class="addRow js-ts-label" data-tab-id="6"><span class="checkers"></span><input type="checkbox" class="checkbox">ETFs</label><label class="addRow js-ts-label" data-tab-id="4"><span class="checkers"></span><input type="checkbox" class="checkbox">Bonds</label></div><div class="footer"><span class="js-tab-selection-counter">%COUNT%/4 selected </span><a href="javascript:void(0);" class="newBtn Orange2 noIcon js-tab-selection-apply">Apply</a></div></div><div class="tabsBoxBottom" id="quotesBoxChartWrp" data-chart_type="area" data-config_fontSize="9px" data-config_last_value_line="1" data-config_last_close_value_line="1" data-config_decimal_point="." data-config_thousands_sep=","><div class="chartFrame"><div id="quotesBoxChartTimeFrames" class="timePeriods"><span data-time-frame="1day">1D</span><span data-time-frame="1week">1W</span><span data-time-frame="1month">1M</span><span data-time-frame="6months">6M</span><span data-time-frame="1year">1Y</span><span data-time-frame="5years">5Y</span><span data-time-frame="max">Max</span><a href="#" class="js-chart-link quotesboxLinkIcon"></a></div><div id="quotesBoxChart" class="quotesChartWrapper"></div><div id="quotesBoxChartLoading" class="loading-responsive medium-circle"></div></div><table id="QBS_2_inner" data-gae='sb_indices'  class=" genTbl openTbl quotesSideBlockTbl collapsedTbl"><tbody><tr class="LeftLiContainer Selected" pair="24441" data-pair_id="24441" data-external="sbcharts.investing.com" data-pair_url="/indices/s-p-tsx-composite-chart" id="sb_pair_24441" chart_link="/indices/s-p-tsx-composite-chart" data-chart-hash="5793534505ee117cca93b5bd48d88da2"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/s-p-tsx-composite" title="S&P/TSX Composite (CFD)"  data-gae='sb_indices-s-p-tsx-composite' >S&P/TSX</a></td><td class="lastNum pid-24441-last" id="sb_last_24441">16,040.39</td><td class="chg redFont pid-24441-pc" id="sb_change_24441">-48.94</td><td class="chgPer redFont pid-24441-pcp" id="sb_changepc_24441">-0.30%</td><td class="icon"><span class="greenClockIcon isOpenExch-51" id="sb_clock_24441"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="945064" data-pair_id="945064" data-external="sbcharts.investing.com" data-pair_url="/indices/s-p-tsx-60-vix-chart" id="sb_pair_945064" chart_link="/indices/s-p-tsx-60-vix-chart" data-chart-hash="fdb40f3833fd3b49b7c1a9c1a2d18486"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/s-p-tsx-60-vix" title="S&P/TSX 60 VIX"  data-gae='sb_indices-s-p-tsx-60-vix' >S&P/TSX 60 VIX</a></td><td class="lastNum pid-945064-last" id="sb_last_945064">14.43</td><td class="chg greenFont pid-945064-pc" id="sb_change_945064">+0.52</td><td class="chgPer greenFont pid-945064-pcp" id="sb_changepc_945064">+3.74%</td><td class="icon"><span class="greenClockIcon isOpenExch-51" id="sb_clock_945064"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8884" data-pair_id="8884" data-external="sbcharts.investing.com" data-pair_url="/indices/us-spx-vix-futures-streaming-chart" id="sb_pair_8884" chart_link="/indices/us-spx-vix-futures-streaming-chart" data-chart-hash="bcfbac9dfe7e90958a81d175a1fd7b73"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/us-spx-vix-futures" title="S&P 500 VIX Futures (CFD)"  data-gae='sb_indices-us-spx-vix-futures' >S&P 500 VIX Futures</a></td><td class="lastNum pid-8884-last" id="sb_last_8884">17.38</td><td class="chg greenFont pid-8884-pc" id="sb_change_8884">+0.66</td><td class="chgPer greenFont pid-8884-pcp" id="sb_changepc_8884">+3.92%</td><td class="icon"><span class="greenClockIcon isOpenPair-8884" id="sb_clock_8884"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8839" data-pair_id="8839" data-external="sbcharts.investing.com" data-pair_url="/indices/us-spx-500-futures-streaming-chart" id="sb_pair_8839" chart_link="/indices/us-spx-500-futures-streaming-chart" data-chart-hash="1a5f95b308e1d982eec66b97f9895bac"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/us-spx-500-futures" title="S&P 500 Futures (CFD)"  data-gae='sb_indices-us-spx-500-futures' >S&P 500 Futures</a></td><td class="lastNum pid-8839-last" id="sb_last_8839">2,793.62</td><td class="chg redFont pid-8839-pc" id="sb_change_8839">-17.13</td><td class="chgPer redFont pid-8839-pcp" id="sb_changepc_8839">-0.61%</td><td class="icon"><span class="greenClockIcon isOpenPair-8839" id="sb_clock_8839"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8874" data-pair_id="8874" data-external="sbcharts.investing.com" data-pair_url="/indices/nq-100-futures-streaming-chart" id="sb_pair_8874" chart_link="/indices/nq-100-futures-streaming-chart" data-chart-hash="c13289d6031777b8c6a169feb665d1dc"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/nq-100-futures" title="Nasdaq 100 Futures (CFD)"  data-gae='sb_indices-nq-100-futures' >Nasdaq Futures</a></td><td class="lastNum pid-8874-last" id="sb_last_8874">7,308.12</td><td class="chg redFont pid-8874-pc" id="sb_change_8874">-60.63</td><td class="chgPer redFont pid-8874-pcp" id="sb_changepc_8874">-0.82%</td><td class="icon"><span class="greenClockIcon isOpenPair-8874" id="sb_clock_8874"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="172" data-pair_id="172" data-external="sbcharts.investing.com" data-pair_url="/indices/germany-30-chart" id="sb_pair_172" chart_link="/indices/germany-30-chart" data-chart-hash="20b3a6a97fa3088df002fbc8bbcbecbd"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/germany-30" title="DAX (CFD)"  data-gae='sb_indices-germany-30' >DAX</a></td><td class="lastNum pid-172-last" id="sb_last_172">11,324.15</td><td class="chg redFont pid-172-pc" id="sb_change_172">-40.02</td><td class="chgPer redFont pid-172-pcp" id="sb_changepc_172">-0.35%</td><td class="icon"><span class="greenClockIcon isOpenExch-4" id="sb_clock_172"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8827" data-pair_id="8827" data-external="sbcharts.investing.com" data-pair_url="/quotes/us-dollar-index-streaming-chart" id="sb_pair_8827" chart_link="/quotes/us-dollar-index-streaming-chart" data-chart-hash="06620ff894868f010dafb51493836e71"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/quotes/us-dollar-index" title="US Dollar Index Futures (CFD)"  data-gae='sb_indices-us-dollar-index' >Dollar Index</a></td><td class="lastNum pid-8827-last" id="sb_last_8827">96.025</td><td class="chg redFont pid-8827-pc" id="sb_change_8827">-0.126</td><td class="chgPer redFont pid-8827-pcp" id="sb_changepc_8827">-0.13%</td><td class="icon"><span class="greenClockIcon isOpenPair-8827" id="sb_clock_8827"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer last" pair="1055949" data-pair_id="1055949" data-external="sbcharts.investing.com" data-pair_url="/crypto/bitcoin/bitcoin-futures-streaming-chart" id="sb_pair_1055949" chart_link="/crypto/bitcoin/bitcoin-futures-streaming-chart" data-chart-hash="725b028dd90d739e762616e8d32a06ba"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/bitcoin/bitcoin-futures" title="Bitcoin Futures CME (CFD)"  data-gae='sb_indices-bitcoin-futures' >Bitcoin Futures</a></td><td class="lastNum pid-1055949-last" id="sb_last_1055949">3,950.0</td><td class="chg redFont pid-1055949-pc" id="sb_change_1055949">-30.0</td><td class="chgPer redFont pid-1055949-pcp" id="sb_changepc_1055949">-0.75%</td><td class="icon"><span class="greenClockIcon isOpenExch-1004" id="sb_clock_1055949"></span></td><td class="sideColumn">&nbsp;</td></tr></tbody></table><table id="QBS_3_inner" data-gae='sb_commodities'  class="displayNone genTbl openTbl quotesSideBlockTbl collapsedTbl"><tbody><tr class="LeftLiContainer Selected" pair="8849" data-pair_id="8849" data-external="sbcharts.investing.com" data-pair_url="/commodities/crude-oil-streaming-chart" id="sb_pair_8849" chart_link="/commodities/crude-oil-streaming-chart" data-chart-hash="c4caa3c525726eb96b6ee67ddfa57896"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/crude-oil" title="Crude Oil WTI Futures (CFD)"  data-gae='sb_commodities-crude-oil' >Crude Oil WTI</a></td><td class="lastNum pid-8849-last" id="sb_last_8849">58.27</td><td class="chg redFont pid-8849-pc" id="sb_change_8849">-0.77</td><td class="chgPer redFont pid-8849-pcp" id="sb_changepc_8849">-1.30%</td><td class="icon"><span class="greenClockIcon isOpenPair-8849" id="sb_clock_8849"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8833" data-pair_id="8833" data-external="sbcharts.investing.com" data-pair_url="/commodities/brent-oil-streaming-chart" id="sb_pair_8833" chart_link="/commodities/brent-oil-streaming-chart" data-chart-hash="ecab723bd0c0050290d8fcb3b6ecc974"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/brent-oil" title="Brent Oil Futures (CFD)"  data-gae='sb_commodities-brent-oil' >Brent Oil</a></td><td class="lastNum pid-8833-last" id="sb_last_8833">66.25</td><td class="chg redFont pid-8833-pc" id="sb_change_8833">-0.50</td><td class="chgPer redFont pid-8833-pcp" id="sb_changepc_8833">-0.75%</td><td class="icon"><span class="greenClockIcon isOpenPair-8833" id="sb_clock_8833"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8862" data-pair_id="8862" data-external="sbcharts.investing.com" data-pair_url="/commodities/natural-gas-streaming-chart" id="sb_pair_8862" chart_link="/commodities/natural-gas-streaming-chart" data-chart-hash="2862b1367008cea06e03f8cbaf7f40ed"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/natural-gas" title="Natural Gas Futures (CFD)"  data-gae='sb_commodities-natural-gas' >Natural Gas</a></td><td class="lastNum pid-8862-last" id="sb_last_8862">2.765</td><td class="chg redFont pid-8862-pc" id="sb_change_8862">-0.002</td><td class="chgPer redFont pid-8862-pcp" id="sb_changepc_8862">-0.07%</td><td class="icon"><span class="greenClockIcon isOpenPair-8862" id="sb_clock_8862"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8830" data-pair_id="8830" data-external="sbcharts.investing.com" data-pair_url="/commodities/gold-streaming-chart" id="sb_pair_8830" chart_link="/commodities/gold-streaming-chart" data-chart-hash="d565a7612f2d571d32033540114babb3"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/gold" title="Gold Futures (CFD)"  data-gae='sb_commodities-gold' >Gold</a></td><td class="lastNum pid-8830-last" id="sb_last_8830">1,326.85</td><td class="chg greenFont pid-8830-pc" id="sb_change_8830">+8.15</td><td class="chgPer greenFont pid-8830-pcp" id="sb_changepc_8830">+0.62%</td><td class="icon"><span class="greenClockIcon isOpenPair-8830" id="sb_clock_8830"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8836" data-pair_id="8836" data-external="sbcharts.investing.com" data-pair_url="/commodities/silver-streaming-chart" id="sb_pair_8836" chart_link="/commodities/silver-streaming-chart" data-chart-hash="c4651fb6e12fa8166f3d0af875aede53"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/silver" title="Silver Futures (CFD)"  data-gae='sb_commodities-silver' >Silver</a></td><td class="lastNum pid-8836-last" id="sb_last_8836">15.547</td><td class="chg greenFont pid-8836-pc" id="sb_change_8836">+0.140</td><td class="chgPer greenFont pid-8836-pcp" id="sb_changepc_8836">+0.91%</td><td class="icon"><span class="greenClockIcon isOpenPair-8836" id="sb_clock_8836"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8916" data-pair_id="8916" data-external="sbcharts.investing.com" data-pair_url="/commodities/us-soybeans-streaming-chart" id="sb_pair_8916" chart_link="/commodities/us-soybeans-streaming-chart" data-chart-hash="91b94ebf1783b56de4050ca5a85a2cb6"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/us-soybeans" title="US Soybeans Futures (CFD)"  data-gae='sb_commodities-us-soybeans' >US Soybeans</a></td><td class="lastNum pid-8916-last" id="sb_last_8916">902.62</td><td class="chg redFont pid-8916-pc" id="sb_change_8916">-1.38</td><td class="chgPer redFont pid-8916-pcp" id="sb_changepc_8916">-0.15%</td><td class="icon"><span class="greenClockIcon isOpenPair-8916" id="sb_clock_8916"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8851" data-pair_id="8851" data-external="sbcharts.investing.com" data-pair_url="/commodities/us-cotton-no.2-streaming-chart" id="sb_pair_8851" chart_link="/commodities/us-cotton-no.2-streaming-chart" data-chart-hash="446ef60ec3c7d1cef4874b304932dd33"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/us-cotton-no.2" title="US Cotton #2 Futures (CFD)"  data-gae='sb_commodities-us-cotton-no-2' >US Cotton #2</a></td><td class="lastNum pid-8851-last" id="sb_last_8851">76.28</td><td class="chg redFont pid-8851-pc" id="sb_change_8851">-0.30</td><td class="chgPer redFont pid-8851-pcp" id="sb_changepc_8851">-0.39%</td><td class="icon"><span class="greenClockIcon isOpenPair-8851" id="sb_clock_8851"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer last" pair="49768" data-pair_id="49768" data-external="sbcharts.investing.com" data-pair_url="/commodities/aluminum-streaming-chart" id="sb_pair_49768" chart_link="/commodities/aluminum-streaming-chart" data-chart-hash="badc0afca3b1bf2883f1eb94670663a2"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/aluminum" title="Aluminum Futures (CFD)"  data-gae='sb_commodities-aluminum' >Aluminum</a></td><td class="lastNum pid-49768-last" id="sb_last_49768">1,884.75</td><td class="chg redFont pid-49768-pc" id="sb_change_49768">-17.50</td><td class="chgPer redFont pid-49768-pcp" id="sb_changepc_49768">-0.92%</td><td class="icon"><span class="greenClockIcon isOpenPair-49768" id="sb_clock_49768"></span></td><td class="sideColumn">&nbsp;</td></tr></tbody></table><table id="QBS_1_inner" data-gae='sb_forex'  class="displayNone genTbl openTbl quotesSideBlockTbl collapsedTbl"><tbody><tr class="LeftLiContainer Selected" pair="7" data-pair_id="7" data-external="sbcharts.investing.com" data-pair_url="/currencies/usd-cad-chart" id="sb_pair_7" chart_link="/currencies/usd-cad-chart" data-chart-hash="68ca4930a11af002d4d0a2eff6864866"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/usd-cad" title="USD/CAD - US Dollar Canadian Dollar"  data-gae='sb_forex-usd-cad' >USD/CAD</a></td><td class="lastNum pid-7-last" id="sb_last_7">1.3440</td><td class="chg greenFont pid-7-pc" id="sb_change_7">+0.0016</td><td class="chgPer greenFont pid-7-pcp" id="sb_changepc_7">+0.12%</td><td class="icon"><span class="greenClockIcon isOpenPair-7" id="sb_clock_7"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1" data-pair_id="1" data-external="sbcharts.investing.com" data-pair_url="/currencies/eur-usd-chart" id="sb_pair_1" chart_link="/currencies/eur-usd-chart" data-chart-hash="429d74b767b97c5148ee1b2fd4151ba2"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/eur-usd" title="EUR/USD - Euro US Dollar"  data-gae='sb_forex-eur-usd' >EUR/USD</a></td><td class="lastNum pid-1-last" id="sb_last_1">1.1316</td><td class="chg greenFont pid-1-pc" id="sb_change_1">+0.0003</td><td class="chgPer greenFont pid-1-pcp" id="sb_changepc_1">+0.03%</td><td class="icon"><span class="greenClockIcon isOpenPair-1" id="sb_clock_1"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="3" data-pair_id="3" data-external="sbcharts.investing.com" data-pair_url="/currencies/usd-jpy-chart" id="sb_pair_3" chart_link="/currencies/usd-jpy-chart" data-chart-hash="0fdacd3571a3a6ef8960f7e765071282"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/usd-jpy" title="USD/JPY - US Dollar Japanese Yen"  data-gae='sb_forex-usd-jpy' >USD/JPY</a></td><td class="lastNum pid-3-last" id="sb_last_3">109.97</td><td class="chg greenFont pid-3-pc" id="sb_change_3">+0.06</td><td class="chgPer greenFont pid-3-pcp" id="sb_changepc_3">+0.05%</td><td class="icon"><span class="greenClockIcon isOpenPair-3" id="sb_clock_3"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="2" data-pair_id="2" data-external="sbcharts.investing.com" data-pair_url="/currencies/gbp-usd-chart" id="sb_pair_2" chart_link="/currencies/gbp-usd-chart" data-chart-hash="d8560659b81ddf1ba317896bd144332a"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/gbp-usd" title="GBP/USD - British Pound US Dollar"  data-gae='sb_forex-gbp-usd' >GBP/USD</a></td><td class="lastNum pid-2-last" id="sb_last_2">1.3210</td><td class="chg blackFont pid-2-pc" id="sb_change_2">0.0001</td><td class="chgPer blackFont pid-2-pcp" id="sb_changepc_2">0.00%</td><td class="icon"><span class="greenClockIcon isOpenPair-2" id="sb_clock_2"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1538" data-pair_id="1538" data-external="sbcharts.investing.com" data-pair_url="/currencies/cad-usd-chart" id="sb_pair_1538" chart_link="/currencies/cad-usd-chart" data-chart-hash="0ba04da2dfa28da0d02b70563b47d7b8"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/cad-usd" title="CAD/USD - Canadian Dollar US Dollar"  data-gae='sb_forex-cad-usd' >CAD/USD</a></td><td class="lastNum pid-1538-last" id="sb_last_1538">0.7441</td><td class="chg redFont pid-1538-pc" id="sb_change_1538">-0.0003</td><td class="chgPer redFont pid-1538-pcp" id="sb_changepc_1538">-0.05%</td><td class="icon"><span class="greenClockIcon isOpenPair-1538" id="sb_clock_1538"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="16" data-pair_id="16" data-external="sbcharts.investing.com" data-pair_url="/currencies/eur-cad-chart" id="sb_pair_16" chart_link="/currencies/eur-cad-chart" data-chart-hash="790b29f5ee08ecb371fc6095cb22382a"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/eur-cad" title="EUR/CAD - Euro Canadian Dollar"  data-gae='sb_forex-eur-cad' >EUR/CAD</a></td><td class="lastNum pid-16-last" id="sb_last_16">1.5209</td><td class="chg greenFont pid-16-pc" id="sb_change_16">+0.0009</td><td class="chgPer greenFont pid-16-pcp" id="sb_changepc_16">+0.06%</td><td class="icon"><span class="greenClockIcon isOpenExch-1002" id="sb_clock_16"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="11" data-pair_id="11" data-external="sbcharts.investing.com" data-pair_url="/currencies/gbp-jpy-chart" id="sb_pair_11" chart_link="/currencies/gbp-jpy-chart" data-chart-hash="1824abedd1ffc8fc66f66cf1089224c6"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/gbp-jpy" title="GBP/JPY - British Pound Japanese Yen"  data-gae='sb_forex-gbp-jpy' >GBP/JPY</a></td><td class="lastNum pid-11-last" id="sb_last_11">145.27</td><td class="chg greenFont pid-11-pc" id="sb_change_11">+0.12</td><td class="chgPer greenFont pid-11-pcp" id="sb_changepc_11">+0.08%</td><td class="icon"><span class="greenClockIcon isOpenExch-1002" id="sb_clock_11"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer last" pair="4" data-pair_id="4" data-external="sbcharts.investing.com" data-pair_url="/currencies/usd-chf-chart" id="sb_pair_4" chart_link="/currencies/usd-chf-chart" data-chart-hash="b109a9cd6c4e97a337c37233a0836b7d"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/usd-chf" title="USD/CHF - US Dollar Swiss Franc"  data-gae='sb_forex-usd-chf' >USD/CHF</a></td><td class="lastNum pid-4-last" id="sb_last_4">0.9927</td><td class="chg redFont pid-4-pc" id="sb_change_4">-0.0008</td><td class="chgPer redFont pid-4-pcp" id="sb_changepc_4">-0.08%</td><td class="icon"><span class="greenClockIcon isOpenPair-4" id="sb_clock_4"></span></td><td class="sideColumn">&nbsp;</td></tr></tbody></table><table id="QBS_7_inner" class="displayNone genTbl openTbl quotesSideBlockTbl collapsedTbl"><tbody><tr class="LeftLiContainer Selected" pair="945629" data-pair_id="945629" data-external="sbcharts.investing.com" data-pair_url="/crypto/bitcoin/btc-usd-chart" id="sb_pair_945629" chart_link="/crypto/bitcoin/btc-usd-chart" data-chart-hash="980ef075ac6b87dd9f940f398b9bcbf8"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/bitcoin/btc-usd" title="BTC/USD - Bitcoin US Dollar"  data-gae='-btc-usd' >BTC/USD</a></td><td class="lastNum pid-945629-last" id="sb_last_945629">4,028.8</td><td class="chg redFont pid-945629-pc" id="sb_change_945629">-22.8</td><td class="chgPer redFont pid-945629-pcp" id="sb_changepc_945629">-0.56%</td><td class="icon"><span class="greenClockIcon isOpenExch-1014" id="sb_clock_945629"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="997650" data-pair_id="997650" data-external="sbcharts.investing.com" data-pair_url="/crypto/ethereum/eth-usd-chart" id="sb_pair_997650" chart_link="/crypto/ethereum/eth-usd-chart" data-chart-hash="f1d1f100714c475a9df5f6ee74338791"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/ethereum/eth-usd" title="ETH/USD - Ethereum US Dollar"  data-gae='-eth-usd' >ETH/USD</a></td><td class="lastNum pid-997650-last" id="sb_last_997650">137.08</td><td class="chg redFont pid-997650-pc" id="sb_change_997650">-1.51</td><td class="chgPer redFont pid-997650-pcp" id="sb_changepc_997650">-1.09%</td><td class="icon"><span class="greenClockIcon isOpenExch-1014" id="sb_clock_997650"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1058255" data-pair_id="1058255" data-external="sbcharts.investing.com" data-pair_url="/crypto/bitcoin-cash/bch-usd-chart" id="sb_pair_1058255" chart_link="/crypto/bitcoin-cash/bch-usd-chart" data-chart-hash="4b8abb6ddf7e280edd58cc40feae6819"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/bitcoin-cash/bch-usd" title="BCH/USD - Bitcoin Cash US Dollar"  data-gae='-bch-usd' >BCH/USD</a></td><td class="lastNum pid-1058255-last" id="sb_last_1058255">162.38</td><td class="chg redFont pid-1058255-pc" id="sb_change_1058255">-2.51</td><td class="chgPer redFont pid-1058255-pcp" id="sb_changepc_1058255">-1.52%</td><td class="icon"><span class="greenClockIcon isOpenExch-1013" id="sb_clock_1058255"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="24" data-pair_id="24" data-external="sbcharts.investing.com" data-pair_url="/crypto/bitcoin/btc-cad-chart" id="sb_pair_24" chart_link="/crypto/bitcoin/btc-cad-chart" data-chart-hash="fba35adc657a1f237f4ce04d853e81dc"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/bitcoin/btc-cad" title="BTC/CAD - Bitcoin Canadian Dollar"  data-gae='-btc-cad' >BTC/CAD</a></td><td class="lastNum pid-24-last" id="sb_last_24">3,955.4</td><td class="chg greenFont pid-24-pc" id="sb_change_24">+14.4</td><td class="chgPer greenFont pid-24-pcp" id="sb_changepc_24">+0.36%</td><td class="icon"><span class="greenClockIcon isOpenExch-1011" id="sb_clock_24"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1010798" data-pair_id="1010798" data-external="sbcharts.investing.com" data-pair_url="/crypto/litecoin/ltc-usd-chart?cid=1010798" id="sb_pair_1010798" chart_link="/crypto/litecoin/ltc-usd-chart?cid=1010798" data-chart-hash="898e0191a596d14e3ac23c545ba0aa90"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/litecoin/ltc-usd?cid=1010798" title="LTC/USD - Litecoin US Dollar"  data-gae='-ltc-usd' >LTC/USD</a></td><td class="lastNum pid-1010798-last" id="sb_last_1010798">59.080</td><td class="chg redFont pid-1010798-pc" id="sb_change_1010798">-0.430</td><td class="chgPer redFont pid-1010798-pcp" id="sb_changepc_1010798">-0.72%</td><td class="icon"><span class="greenClockIcon isOpenExch-1016" id="sb_clock_1010798"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1031068" data-pair_id="1031068" data-external="sbcharts.investing.com" data-pair_url="/crypto/iota/iota-usd-chart" id="sb_pair_1031068" chart_link="/crypto/iota/iota-usd-chart" data-chart-hash="547fd5173f147c0a19966be83152910c"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/iota/iota-usd" title="IOTA/USD - IOTA US Dollar"  data-gae='-iota-usd' >IOT/USD</a></td><td class="lastNum pid-1031068-last" id="sb_last_1031068">0.30503</td><td class="chg redFont pid-1031068-pc" id="sb_change_1031068">-0.00981</td><td class="chgPer redFont pid-1031068-pcp" id="sb_changepc_1031068">-3.12%</td><td class="icon"><span class="greenClockIcon isOpenExch-1014" id="sb_clock_1031068"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1010782" data-pair_id="1010782" data-external="sbcharts.investing.com" data-pair_url="/crypto/ripple/xrp-usd-chart?cid=1010782" id="sb_pair_1010782" chart_link="/crypto/ripple/xrp-usd-chart?cid=1010782" data-chart-hash="3a1c1287203a98d5ff2e5514d3b2126a"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/ripple/xrp-usd?cid=1010782" title="XRP/USD - XRP US Dollar"  data-gae='-xrp-usd' >XRP/USD</a></td><td class="lastNum pid-1010782-last" id="sb_last_1010782">0.30500</td><td class="chg redFont pid-1010782-pc" id="sb_change_1010782">-0.00391</td><td class="chgPer redFont pid-1010782-pcp" id="sb_changepc_1010782">-1.27%</td><td class="icon"><span class="greenClockIcon isOpenExch-1015" id="sb_clock_1010782"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer last" pair="1031057" data-pair_id="1031057" data-external="sbcharts.investing.com" data-pair_url="/crypto/litecoin/ltc-eth-chart?cid=1031057" id="sb_pair_1031057" chart_link="/crypto/litecoin/ltc-eth-chart?cid=1031057" data-chart-hash="6f008f6297e6e1592231158f2db2c1b9"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/litecoin/ltc-eth?cid=1031057" title="LTC/ETH - Litecoin Ethereum"  data-gae='-ltc-eth' >LTC/ETH</a></td><td class="lastNum pid-1031057-last" id="sb_last_1031057">0.43608</td><td class="chg redFont pid-1031057-pc" id="sb_change_1031057">-0.00123</td><td class="chgPer redFont pid-1031057-pcp" id="sb_changepc_1031057">-0.28%</td><td class="icon"><span class="greenClockIcon isOpenExch-1022" id="sb_clock_1031057"></span></td><td class="sideColumn">&nbsp;</td></tr></tbody></table></div></div></div> <!-- /sideBanner --><div class="tradeNowRightColumn"><div id="div-gpt-ad-1541684469808-0" data-slot-id="/6938/FP_CA_site/FP_CA_TNB_Sideblock_Bottom" style="height:61px; width:300px;" ></div>
+</script><div class="quotesBox quotesBoxWithTabsBottom"><span class="threeDotsIconSmall genToolTip oneliner js-three-dots" data-tooltip="Tabs Customization"></span><div class="tooltipPopup quotesTabsSelection displayNone js-popup-wrapper"><div class="header">Tabs Selection</div><div class="content ui-sortable rowsWrap js-sideblock-tab-selection"><label class="addRow js-ts-label" data-tab-id="2"><span class="checkers"></span><input type="checkbox" class="checkbox"checked >Indices</label><label class="addRow js-ts-label" data-tab-id="3"><span class="checkers"></span><input type="checkbox" class="checkbox"checked >Commodities</label><label class="addRow js-ts-label" data-tab-id="1"><span class="checkers"></span><input type="checkbox" class="checkbox"checked >Forex</label><label class="addRow js-ts-label" data-tab-id="7"><span class="checkers"></span><input type="checkbox" class="checkbox"checked >Crypto</label><label class="addRow js-ts-label" data-tab-id="5"><span class="checkers"></span><input type="checkbox" class="checkbox">Stocks</label><label class="addRow js-ts-label" data-tab-id="6"><span class="checkers"></span><input type="checkbox" class="checkbox">ETFs</label><label class="addRow js-ts-label" data-tab-id="4"><span class="checkers"></span><input type="checkbox" class="checkbox">Bonds</label></div><div class="footer"><span class="js-tab-selection-counter">%COUNT%/4 selected </span><a href="javascript:void(0);" class="newBtn Orange2 noIcon js-tab-selection-apply">Apply</a></div></div><div class="tabsBoxBottom" id="quotesBoxChartWrp" data-chart_type="area" data-config_fontSize="9px" data-config_last_value_line="1" data-config_last_close_value_line="1" data-config_decimal_point="." data-config_thousands_sep=","><div class="chartFrame"><div id="quotesBoxChartTimeFrames" class="timePeriods"><span data-time-frame="1day">1D</span><span data-time-frame="1week">1W</span><span data-time-frame="1month">1M</span><span data-time-frame="6months">6M</span><span data-time-frame="1year">1Y</span><span data-time-frame="5years">5Y</span><span data-time-frame="max">Max</span><a href="#" class="js-chart-link quotesboxLinkIcon"></a></div><div id="quotesBoxChart" class="quotesChartWrapper"></div><div id="quotesBoxChartLoading" class="loading-responsive medium-circle"></div></div><table id="QBS_2_inner" data-gae='sb_indices'  class=" genTbl openTbl quotesSideBlockTbl collapsedTbl"><tbody><tr class="LeftLiContainer Selected" pair="24441" data-pair_id="24441" data-external="sbcharts.investing.com" data-pair_url="/indices/s-p-tsx-composite-chart" id="sb_pair_24441" chart_link="/indices/s-p-tsx-composite-chart" data-chart-hash="5793534505ee117cca93b5bd48d88da2"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/s-p-tsx-composite" title="S&P/TSX Composite (CFD)"  data-gae='sb_indices-s-p-tsx-composite' >S&P/TSX</a></td><td class="lastNum pid-24441-last" id="sb_last_24441">16,102.09</td><td class="chg redFont pid-24441-pc" id="sb_change_24441">-53.40</td><td class="chgPer redFont pid-24441-pcp" id="sb_changepc_24441">-0.33%</td><td class="icon"><span class="redClockIcon isOpenExch-51" id="sb_clock_24441"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="945064" data-pair_id="945064" data-external="sbcharts.investing.com" data-pair_url="/indices/s-p-tsx-60-vix-chart" id="sb_pair_945064" chart_link="/indices/s-p-tsx-60-vix-chart" data-chart-hash="fdb40f3833fd3b49b7c1a9c1a2d18486"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/s-p-tsx-60-vix" title="S&P/TSX 60 VIX"  data-gae='sb_indices-s-p-tsx-60-vix' >S&P/TSX 60 VIX</a></td><td class="lastNum pid-945064-last" id="sb_last_945064">13.10</td><td class="chg greenFont pid-945064-pc" id="sb_change_945064">+0.52</td><td class="chgPer greenFont pid-945064-pcp" id="sb_changepc_945064">+4.13%</td><td class="icon"><span class="redClockIcon isOpenExch-51" id="sb_clock_945064"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8884" data-pair_id="8884" data-external="sbcharts.investing.com" data-pair_url="/indices/us-spx-vix-futures-streaming-chart" id="sb_pair_8884" chart_link="/indices/us-spx-vix-futures-streaming-chart" data-chart-hash="bcfbac9dfe7e90958a81d175a1fd7b73"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/us-spx-vix-futures" title="S&P 500 VIX Futures (CFD)"  data-gae='sb_indices-us-spx-vix-futures' >S&P 500 VIX Futures</a></td><td class="lastNum pid-8884-last" id="sb_last_8884">15.22</td><td class="chg redFont pid-8884-pc" id="sb_change_8884">-0.41</td><td class="chgPer redFont pid-8884-pcp" id="sb_changepc_8884">-2.59%</td><td class="icon"><span class="redClockIcon isOpenPair-8884" id="sb_clock_8884"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8839" data-pair_id="8839" data-external="sbcharts.investing.com" data-pair_url="/indices/us-spx-500-futures-streaming-chart" id="sb_pair_8839" chart_link="/indices/us-spx-500-futures-streaming-chart" data-chart-hash="1a5f95b308e1d982eec66b97f9895bac"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/us-spx-500-futures" title="S&P 500 Futures (CFD)"  data-gae='sb_indices-us-spx-500-futures' >S&P 500 Futures</a></td><td class="lastNum pid-8839-last" id="sb_last_8839">2,839.75</td><td class="chg greenFont pid-8839-pc" id="sb_change_8839">+18.75</td><td class="chgPer greenFont pid-8839-pcp" id="sb_changepc_8839">+0.66%</td><td class="icon"><span class="redClockIcon isOpenPair-8839" id="sb_clock_8839"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8874" data-pair_id="8874" data-external="sbcharts.investing.com" data-pair_url="/indices/nq-100-futures-streaming-chart" id="sb_pair_8874" chart_link="/indices/nq-100-futures-streaming-chart" data-chart-hash="c13289d6031777b8c6a169feb665d1dc"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/nq-100-futures" title="Nasdaq 100 Futures (CFD)"  data-gae='sb_indices-nq-100-futures' >Nasdaq Futures</a></td><td class="lastNum pid-8874-last" id="sb_last_8874">7,412.88</td><td class="chg greenFont pid-8874-pc" id="sb_change_8874">+60.88</td><td class="chgPer greenFont pid-8874-pcp" id="sb_changepc_8874">+0.83%</td><td class="icon"><span class="redClockIcon isOpenPair-8874" id="sb_clock_8874"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="172" data-pair_id="172" data-external="sbcharts.investing.com" data-pair_url="/indices/germany-30-chart" id="sb_pair_172" chart_link="/indices/germany-30-chart" data-chart-hash="20b3a6a97fa3088df002fbc8bbcbecbd"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/indices/germany-30" title="DAX (CFD)"  data-gae='sb_indices-germany-30' >DAX</a></td><td class="lastNum pid-172-last" id="sb_last_172">11,526.04</td><td class="chg greenFont pid-172-pc" id="sb_change_172">+97.88</td><td class="chgPer greenFont pid-172-pcp" id="sb_changepc_172">+0.86%</td><td class="icon"><span class="redClockIcon isOpenExch-4" id="sb_clock_172"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8827" data-pair_id="8827" data-external="sbcharts.investing.com" data-pair_url="/quotes/us-dollar-index-streaming-chart" id="sb_pair_8827" chart_link="/quotes/us-dollar-index-streaming-chart" data-chart-hash="06620ff894868f010dafb51493836e71"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/quotes/us-dollar-index" title="US Dollar Index Futures (CFD)"  data-gae='sb_indices-us-dollar-index' >Dollar Index</a></td><td class="lastNum pid-8827-last" id="sb_last_8827">96.815</td><td class="chg greenFont pid-8827-pc" id="sb_change_8827">+0.051</td><td class="chgPer greenFont pid-8827-pcp" id="sb_changepc_8827">+0.05%</td><td class="icon"><span class="redClockIcon isOpenPair-8827" id="sb_clock_8827"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer last" pair="1055949" data-pair_id="1055949" data-external="sbcharts.investing.com" data-pair_url="/crypto/bitcoin/bitcoin-futures-streaming-chart" id="sb_pair_1055949" chart_link="/crypto/bitcoin/bitcoin-futures-streaming-chart" data-chart-hash="725b028dd90d739e762616e8d32a06ba"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/bitcoin/bitcoin-futures" title="Bitcoin Futures CME (CFD)"  data-gae='sb_indices-bitcoin-futures' >Bitcoin Futures</a></td><td class="lastNum pid-1055949-last" id="sb_last_1055949">4,060.0</td><td class="chg greenFont pid-1055949-pc" id="sb_change_1055949">+50.0</td><td class="chgPer greenFont pid-1055949-pcp" id="sb_changepc_1055949">+1.25%</td><td class="icon"><span class="redClockIcon isOpenExch-1004" id="sb_clock_1055949"></span></td><td class="sideColumn">&nbsp;</td></tr></tbody></table><table id="QBS_3_inner" data-gae='sb_commodities'  class="displayNone genTbl openTbl quotesSideBlockTbl collapsedTbl"><tbody><tr class="LeftLiContainer Selected" pair="8849" data-pair_id="8849" data-external="sbcharts.investing.com" data-pair_url="/commodities/crude-oil-streaming-chart" id="sb_pair_8849" chart_link="/commodities/crude-oil-streaming-chart" data-chart-hash="c4caa3c525726eb96b6ee67ddfa57896"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/crude-oil" title="Crude Oil WTI Futures (CFD)"  data-gae='sb_commodities-crude-oil' >Crude Oil WTI</a></td><td class="lastNum pid-8849-last" id="sb_last_8849">60.20</td><td class="chg greenFont pid-8849-pc" id="sb_change_8849">+0.90</td><td class="chgPer greenFont pid-8849-pcp" id="sb_changepc_8849">+1.52%</td><td class="icon"><span class="redClockIcon isOpenPair-8849" id="sb_clock_8849"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8833" data-pair_id="8833" data-external="sbcharts.investing.com" data-pair_url="/commodities/brent-oil-streaming-chart" id="sb_pair_8833" chart_link="/commodities/brent-oil-streaming-chart" data-chart-hash="ecab723bd0c0050290d8fcb3b6ecc974"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/brent-oil" title="Brent Oil Futures (CFD)"  data-gae='sb_commodities-brent-oil' >Brent Oil</a></td><td class="lastNum pid-8833-last" id="sb_last_8833">67.60</td><td class="chg greenFont pid-8833-pc" id="sb_change_8833">+0.50</td><td class="chgPer greenFont pid-8833-pcp" id="sb_changepc_8833">+0.75%</td><td class="icon"><span class="redClockIcon isOpenPair-8833" id="sb_clock_8833"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8862" data-pair_id="8862" data-external="sbcharts.investing.com" data-pair_url="/commodities/natural-gas-streaming-chart" id="sb_pair_8862" chart_link="/commodities/natural-gas-streaming-chart" data-chart-hash="2862b1367008cea06e03f8cbaf7f40ed"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/natural-gas" title="Natural Gas Futures (CFD)"  data-gae='sb_commodities-natural-gas' >Natural Gas</a></td><td class="lastNum pid-8862-last" id="sb_last_8862">2.672</td><td class="chg redFont pid-8862-pc" id="sb_change_8862">-0.040</td><td class="chgPer redFont pid-8862-pcp" id="sb_changepc_8862">-1.47%</td><td class="icon"><span class="redClockIcon isOpenPair-8862" id="sb_clock_8862"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8830" data-pair_id="8830" data-external="sbcharts.investing.com" data-pair_url="/commodities/gold-streaming-chart" id="sb_pair_8830" chart_link="/commodities/gold-streaming-chart" data-chart-hash="d565a7612f2d571d32033540114babb3"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/gold" title="Gold Futures (CFD)"  data-gae='sb_commodities-gold' >Gold</a></td><td class="lastNum pid-8830-last" id="sb_last_8830">1,296.95</td><td class="chg greenFont pid-8830-pc" id="sb_change_8830">+1.65</td><td class="chgPer greenFont pid-8830-pcp" id="sb_changepc_8830">+0.13%</td><td class="icon"><span class="redClockIcon isOpenPair-8830" id="sb_clock_8830"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8836" data-pair_id="8836" data-external="sbcharts.investing.com" data-pair_url="/commodities/silver-streaming-chart" id="sb_pair_8836" chart_link="/commodities/silver-streaming-chart" data-chart-hash="c4651fb6e12fa8166f3d0af875aede53"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/silver" title="Silver Futures (CFD)"  data-gae='sb_commodities-silver' >Silver</a></td><td class="lastNum pid-8836-last" id="sb_last_8836">15.098</td><td class="chg greenFont pid-8836-pc" id="sb_change_8836">+0.125</td><td class="chgPer greenFont pid-8836-pcp" id="sb_changepc_8836">+0.83%</td><td class="icon"><span class="redClockIcon isOpenPair-8836" id="sb_clock_8836"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8916" data-pair_id="8916" data-external="sbcharts.investing.com" data-pair_url="/commodities/us-soybeans-streaming-chart" id="sb_pair_8916" chart_link="/commodities/us-soybeans-streaming-chart" data-chart-hash="91b94ebf1783b56de4050ca5a85a2cb6"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/us-soybeans" title="US Soybeans Futures (CFD)"  data-gae='sb_commodities-us-soybeans' >US Soybeans</a></td><td class="lastNum pid-8916-last" id="sb_last_8916">883.88</td><td class="chg redFont pid-8916-pc" id="sb_change_8916">-5.12</td><td class="chgPer redFont pid-8916-pcp" id="sb_changepc_8916">-0.58%</td><td class="icon"><span class="redClockIcon isOpenPair-8916" id="sb_clock_8916"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="8851" data-pair_id="8851" data-external="sbcharts.investing.com" data-pair_url="/commodities/us-cotton-no.2-streaming-chart" id="sb_pair_8851" chart_link="/commodities/us-cotton-no.2-streaming-chart" data-chart-hash="446ef60ec3c7d1cef4874b304932dd33"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/us-cotton-no.2" title="US Cotton #2 Futures (CFD)"  data-gae='sb_commodities-us-cotton-no-2' >US Cotton #2</a></td><td class="lastNum pid-8851-last" id="sb_last_8851">77.58</td><td class="chg greenFont pid-8851-pc" id="sb_change_8851">+1.71</td><td class="chgPer greenFont pid-8851-pcp" id="sb_changepc_8851">+2.25%</td><td class="icon"><span class="redClockIcon isOpenPair-8851" id="sb_clock_8851"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer last" pair="49768" data-pair_id="49768" data-external="sbcharts.investing.com" data-pair_url="/commodities/aluminum-streaming-chart" id="sb_pair_49768" chart_link="/commodities/aluminum-streaming-chart" data-chart-hash="badc0afca3b1bf2883f1eb94670663a2"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/commodities/aluminum" title="Aluminum Futures (CFD)"  data-gae='sb_commodities-aluminum' >Aluminum</a></td><td class="lastNum pid-49768-last" id="sb_last_49768">1,912.00</td><td class="chg greenFont pid-49768-pc" id="sb_change_49768">+8.25</td><td class="chgPer greenFont pid-49768-pcp" id="sb_changepc_49768">+0.43%</td><td class="icon"><span class="redClockIcon isOpenPair-49768" id="sb_clock_49768"></span></td><td class="sideColumn">&nbsp;</td></tr></tbody></table><table id="QBS_1_inner" data-gae='sb_forex'  class="displayNone genTbl openTbl quotesSideBlockTbl collapsedTbl"><tbody><tr class="LeftLiContainer Selected" pair="7" data-pair_id="7" data-external="sbcharts.investing.com" data-pair_url="/currencies/usd-cad-chart" id="sb_pair_7" chart_link="/currencies/usd-cad-chart" data-chart-hash="68ca4930a11af002d4d0a2eff6864866"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/usd-cad" title="USD/CAD - US Dollar Canadian Dollar"  data-gae='sb_forex-usd-cad' >USD/CAD</a></td><td class="lastNum pid-7-last" id="sb_last_7">1.3347</td><td class="chg redFont pid-7-pc" id="sb_change_7">-0.0090</td><td class="chgPer redFont pid-7-pcp" id="sb_changepc_7">-0.67%</td><td class="icon"><span class="redClockIcon isOpenPair-7" id="sb_clock_7"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1" data-pair_id="1" data-external="sbcharts.investing.com" data-pair_url="/currencies/eur-usd-chart" id="sb_pair_1" chart_link="/currencies/eur-usd-chart" data-chart-hash="429d74b767b97c5148ee1b2fd4151ba2"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/eur-usd" title="EUR/USD - Euro US Dollar"  data-gae='sb_forex-eur-usd' >EUR/USD</a></td><td class="lastNum pid-1-last" id="sb_last_1">1.1218</td><td class="chg redFont pid-1-pc" id="sb_change_1">-0.0002</td><td class="chgPer redFont pid-1-pcp" id="sb_changepc_1">-0.02%</td><td class="icon"><span class="redClockIcon isOpenPair-1" id="sb_clock_1"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="3" data-pair_id="3" data-external="sbcharts.investing.com" data-pair_url="/currencies/usd-jpy-chart" id="sb_pair_3" chart_link="/currencies/usd-jpy-chart" data-chart-hash="0fdacd3571a3a6ef8960f7e765071282"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/usd-jpy" title="USD/JPY - US Dollar Japanese Yen"  data-gae='sb_forex-usd-jpy' >USD/JPY</a></td><td class="lastNum pid-3-last" id="sb_last_3">110.86</td><td class="chg greenFont pid-3-pc" id="sb_change_3">+0.23</td><td class="chgPer greenFont pid-3-pcp" id="sb_changepc_3">+0.21%</td><td class="icon"><span class="redClockIcon isOpenPair-3" id="sb_clock_3"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="2" data-pair_id="2" data-external="sbcharts.investing.com" data-pair_url="/currencies/gbp-usd-chart" id="sb_pair_2" chart_link="/currencies/gbp-usd-chart" data-chart-hash="d8560659b81ddf1ba317896bd144332a"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/gbp-usd" title="GBP/USD - British Pound US Dollar"  data-gae='sb_forex-gbp-usd' >GBP/USD</a></td><td class="lastNum pid-2-last" id="sb_last_2">1.3036</td><td class="chg redFont pid-2-pc" id="sb_change_2">-0.0008</td><td class="chgPer redFont pid-2-pcp" id="sb_changepc_2">-0.06%</td><td class="icon"><span class="redClockIcon isOpenPair-2" id="sb_clock_2"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1538" data-pair_id="1538" data-external="sbcharts.investing.com" data-pair_url="/currencies/cad-usd-chart" id="sb_pair_1538" chart_link="/currencies/cad-usd-chart" data-chart-hash="0ba04da2dfa28da0d02b70563b47d7b8"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/cad-usd" title="CAD/USD - Canadian Dollar US Dollar"  data-gae='sb_forex-cad-usd' >CAD/USD</a></td><td class="lastNum pid-1538-last" id="sb_last_1538">0.7492</td><td class="chg greenFont pid-1538-pc" id="sb_change_1538">+0.0051</td><td class="chgPer greenFont pid-1538-pcp" id="sb_changepc_1538">+0.69%</td><td class="icon"><span class="redClockIcon isOpenPair-1538" id="sb_clock_1538"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="16" data-pair_id="16" data-external="sbcharts.investing.com" data-pair_url="/currencies/eur-cad-chart" id="sb_pair_16" chart_link="/currencies/eur-cad-chart" data-chart-hash="790b29f5ee08ecb371fc6095cb22382a"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/eur-cad" title="EUR/CAD - Euro Canadian Dollar"  data-gae='sb_forex-eur-cad' >EUR/CAD</a></td><td class="lastNum pid-16-last" id="sb_last_16">1.4972</td><td class="chg redFont pid-16-pc" id="sb_change_16">-0.0115</td><td class="chgPer redFont pid-16-pcp" id="sb_changepc_16">-0.77%</td><td class="icon"><span class="redClockIcon isOpenExch-1002" id="sb_clock_16"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="11" data-pair_id="11" data-external="sbcharts.investing.com" data-pair_url="/currencies/gbp-jpy-chart" id="sb_pair_11" chart_link="/currencies/gbp-jpy-chart" data-chart-hash="1824abedd1ffc8fc66f66cf1089224c6"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/gbp-jpy" title="GBP/JPY - British Pound Japanese Yen"  data-gae='sb_forex-gbp-jpy' >GBP/JPY</a></td><td class="lastNum pid-11-last" id="sb_last_11">144.51</td><td class="chg greenFont pid-11-pc" id="sb_change_11">+0.20</td><td class="chgPer greenFont pid-11-pcp" id="sb_changepc_11">+0.14%</td><td class="icon"><span class="redClockIcon isOpenExch-1002" id="sb_clock_11"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer last" pair="4" data-pair_id="4" data-external="sbcharts.investing.com" data-pair_url="/currencies/usd-chf-chart" id="sb_pair_4" chart_link="/currencies/usd-chf-chart" data-chart-hash="b109a9cd6c4e97a337c37233a0836b7d"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/currencies/usd-chf" title="USD/CHF - US Dollar Swiss Franc"  data-gae='sb_forex-usd-chf' >USD/CHF</a></td><td class="lastNum pid-4-last" id="sb_last_4">0.9954</td><td class="chg redFont pid-4-pc" id="sb_change_4">-0.0001</td><td class="chgPer redFont pid-4-pcp" id="sb_changepc_4">-0.02%</td><td class="icon"><span class="redClockIcon isOpenPair-4" id="sb_clock_4"></span></td><td class="sideColumn">&nbsp;</td></tr></tbody></table><table id="QBS_7_inner" class="displayNone genTbl openTbl quotesSideBlockTbl collapsedTbl"><tbody><tr class="LeftLiContainer Selected" pair="945629" data-pair_id="945629" data-external="sbcharts.investing.com" data-pair_url="/crypto/bitcoin/btc-usd-chart" id="sb_pair_945629" chart_link="/crypto/bitcoin/btc-usd-chart" data-chart-hash="980ef075ac6b87dd9f940f398b9bcbf8"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/bitcoin/btc-usd" title="BTC/USD - Bitcoin US Dollar"  data-gae='-btc-usd' >BTC/USD</a></td><td class="lastNum pid-945629-last" id="sb_last_945629">4,146.1</td><td class="chg redFont pid-945629-pc" id="sb_change_945629">-16.2</td><td class="chgPer redFont pid-945629-pcp" id="sb_changepc_945629">-0.39%</td><td class="icon"><span class="greenClockIcon isOpenExch-1014" id="sb_clock_945629"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="997650" data-pair_id="997650" data-external="sbcharts.investing.com" data-pair_url="/crypto/ethereum/eth-usd-chart" id="sb_pair_997650" chart_link="/crypto/ethereum/eth-usd-chart" data-chart-hash="f1d1f100714c475a9df5f6ee74338791"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/ethereum/eth-usd" title="ETH/USD - Ethereum US Dollar"  data-gae='-eth-usd' >ETH/USD</a></td><td class="lastNum pid-997650-last" id="sb_last_997650">143.67</td><td class="chg greenFont pid-997650-pc" id="sb_change_997650">+0.27</td><td class="chgPer greenFont pid-997650-pcp" id="sb_changepc_997650">+0.19%</td><td class="icon"><span class="greenClockIcon isOpenExch-1014" id="sb_clock_997650"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1058255" data-pair_id="1058255" data-external="sbcharts.investing.com" data-pair_url="/crypto/bitcoin-cash/bch-usd-chart" id="sb_pair_1058255" chart_link="/crypto/bitcoin-cash/bch-usd-chart" data-chart-hash="4b8abb6ddf7e280edd58cc40feae6819"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/bitcoin-cash/bch-usd" title="BCH/USD - Bitcoin Cash US Dollar"  data-gae='-bch-usd' >BCH/USD</a></td><td class="lastNum pid-1058255-last" id="sb_last_1058255">165.69</td><td class="chg redFont pid-1058255-pc" id="sb_change_1058255">-3.93</td><td class="chgPer redFont pid-1058255-pcp" id="sb_changepc_1058255">-2.32%</td><td class="icon"><span class="greenClockIcon isOpenExch-1013" id="sb_clock_1058255"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="24" data-pair_id="24" data-external="sbcharts.investing.com" data-pair_url="/crypto/bitcoin/btc-cad-chart" id="sb_pair_24" chart_link="/crypto/bitcoin/btc-cad-chart" data-chart-hash="fba35adc657a1f237f4ce04d853e81dc"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/bitcoin/btc-cad" title="BTC/CAD - Bitcoin Canadian Dollar"  data-gae='-btc-cad' >BTC/CAD</a></td><td class="lastNum pid-24-last" id="sb_last_24">3,911.3</td><td class="chg redFont pid-24-pc" id="sb_change_24">-513.7</td><td class="chgPer redFont pid-24-pcp" id="sb_changepc_24">-11.61%</td><td class="icon"><span class="greenClockIcon isOpenExch-1011" id="sb_clock_24"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1010798" data-pair_id="1010798" data-external="sbcharts.investing.com" data-pair_url="/crypto/litecoin/ltc-usd-chart?cid=1010798" id="sb_pair_1010798" chart_link="/crypto/litecoin/ltc-usd-chart?cid=1010798" data-chart-hash="898e0191a596d14e3ac23c545ba0aa90"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/litecoin/ltc-usd?cid=1010798" title="LTC/USD - Litecoin US Dollar"  data-gae='-ltc-usd' >LTC/USD</a></td><td class="lastNum pid-1010798-last" id="sb_last_1010798">60.200</td><td class="chg redFont pid-1010798-pc" id="sb_change_1010798">-0.570</td><td class="chgPer redFont pid-1010798-pcp" id="sb_changepc_1010798">-0.94%</td><td class="icon"><span class="greenClockIcon isOpenExch-1016" id="sb_clock_1010798"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1031068" data-pair_id="1031068" data-external="sbcharts.investing.com" data-pair_url="/crypto/iota/iota-usd-chart" id="sb_pair_1031068" chart_link="/crypto/iota/iota-usd-chart" data-chart-hash="547fd5173f147c0a19966be83152910c"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/iota/iota-usd" title="IOTA/USD - IOTA US Dollar"  data-gae='-iota-usd' >IOT/USD</a></td><td class="lastNum pid-1031068-last" id="sb_last_1031068">0.30808</td><td class="chg redFont pid-1031068-pc" id="sb_change_1031068">-0.00528</td><td class="chgPer redFont pid-1031068-pcp" id="sb_changepc_1031068">-1.68%</td><td class="icon"><span class="greenClockIcon isOpenExch-1014" id="sb_clock_1031068"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer" pair="1010782" data-pair_id="1010782" data-external="sbcharts.investing.com" data-pair_url="/crypto/ripple/xrp-usd-chart?cid=1010782" id="sb_pair_1010782" chart_link="/crypto/ripple/xrp-usd-chart?cid=1010782" data-chart-hash="3a1c1287203a98d5ff2e5514d3b2126a"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/ripple/xrp-usd?cid=1010782" title="XRP/USD - XRP US Dollar"  data-gae='-xrp-usd' >XRP/USD</a></td><td class="lastNum pid-1010782-last" id="sb_last_1010782">0.31160</td><td class="chg greenFont pid-1010782-pc" id="sb_change_1010782">+0.00322</td><td class="chgPer greenFont pid-1010782-pcp" id="sb_changepc_1010782">+1.04%</td><td class="icon"><span class="greenClockIcon isOpenExch-1015" id="sb_clock_1010782"></span></td><td class="sideColumn">&nbsp;</td></tr><tr class="LeftLiContainer last" pair="1031057" data-pair_id="1031057" data-external="sbcharts.investing.com" data-pair_url="/crypto/litecoin/ltc-eth-chart?cid=1031057" id="sb_pair_1031057" chart_link="/crypto/litecoin/ltc-eth-chart?cid=1031057" data-chart-hash="6f008f6297e6e1592231158f2db2c1b9"><td class="sideColumn">&nbsp;</td><td class="left bold first noWrap"><a href="/crypto/litecoin/ltc-eth?cid=1031057" title="LTC/ETH - Litecoin Ethereum"  data-gae='-ltc-eth' >LTC/ETH</a></td><td class="lastNum pid-1031057-last" id="sb_last_1031057">0.42790</td><td class="chg redFont pid-1031057-pc" id="sb_change_1031057">-0.00391</td><td class="chgPer redFont pid-1031057-pcp" id="sb_changepc_1031057">-0.90%</td><td class="icon"><span class="greenClockIcon isOpenExch-1022" id="sb_clock_1031057"></span></td><td class="sideColumn">&nbsp;</td></tr></tbody></table></div></div></div> <!-- /sideBanner --><div class="tradeNowRightColumn"><div id="div-gpt-ad-1541684469808-0" data-slot-id="/6938/FP_CA_site/FP_CA_TNB_Sideblock_Bottom" style="height:61px; width:300px;" ></div>
     
 </div><div class="clear " id="ad1"><div id='div-gpt-ad-1433409695022-sb1' style='margin-top:18px;' ></div></div> <!-- /sideBanner -->	<div class="toolIframeBox rightBoxes techSummaryTool js-techsum-main-wrapper" id="TechSummary">
 		<div id="TSB_tabsMenu">
@@ -3471,11 +3400,11 @@ $(document).ready(function(){
                 <div class="loading-responsive medium-circle displayNone" id="TSB__loader"></div>
                 <div id="TSB__mainSummary">
                     <div id="TSB_arrowBox" class="arrowBox">
-    <span id="TSB__arrowBoxSpan" class="newSiteIconsSprite upArrow float_lang_base_1 js-item-arrow"></span>
+    <span id="TSB__arrowBoxSpan" class="newSiteIconsSprite downArrow float_lang_base_1 js-item-arrow"></span>
     <p id="TSB__summary_name" class="arial_14 bold" title="EUR/USD - Euro US Dollar"><a href="/currencies/eur-usd" class="js-item-name">EUR/USD</a></p>
-    <p id="TSB__summary_last" class="arial_24 bold inlineblock js-item-last pid--last_nColor">1.1316</p>
-    <p id="TSB__summary_change" class="change js-item-change greenFont">
-    	<span id="TSB__summary_change_value" class="js-change-value pid--pc">+0.0003</span> <span id="TSB__summary_change_percent" class="js-change-percent pid--pcp parentheses">+0.03%</span>
+    <p id="TSB__summary_last" class="arial_24 bold inlineblock js-item-last pid--last_nColor">1.1218</p>
+    <p id="TSB__summary_change" class="change js-item-change redFont">
+    	<span id="TSB__summary_change_value" class="js-change-value pid--pc">-0.0002</span> <span id="TSB__summary_change_percent" class="js-change-percent pid--pcp parentheses">-0.02%</span>
 	</p>
 </div>
 
@@ -3486,23 +3415,23 @@ $(document).ready(function(){
 </div>
 <div class="dataBox" data-section-type="movingAverages">
 	 <p class="float_lang_base_1 nameText">Moving Averages:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy" data-counter-type="buy" class="parentheses">4</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell" data-counter-type="sell" class="parentheses">8</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy" data-counter-type="buy" class="parentheses">0</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell" data-counter-type="sell" class="parentheses">12</span></p>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="indicators">
 	 <p class="float_lang_base_1 nameText">Indicators:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy" data-counter-type="buy" class="parentheses">0</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell" data-counter-type="sell" class="parentheses">6</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy" data-counter-type="buy" class="parentheses">3</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell" data-counter-type="sell" class="parentheses">4</span></p>
 	 <div class="clear"></div>
 </div>                </div>
             </div>
             <div id="TSB_main_summary_1" data-pairid="1" class="displayNone js-pair-summary-box" rel=""><div id="TSB_arrowBox_1" class="arrowBox">
-    <span id="TSB__arrowBoxSpan_1" class="newSiteIconsSprite upArrow float_lang_base_1 js-item-arrow"></span>
+    <span id="TSB__arrowBoxSpan_1" class="newSiteIconsSprite downArrow float_lang_base_1 js-item-arrow"></span>
     <p id="TSB__summary_name_1" class="arial_14 bold" title="EUR/USD - Euro US Dollar"><a href="/currencies/eur-usd" class="js-item-name">EUR/USD</a></p>
-    <p id="TSB__summary_last_1" class="arial_24 bold inlineblock js-item-last pid-1-last_nColor">1.1316</p>
-    <p id="TSB__summary_change_1" class="change js-item-change greenFont">
-    	<span id="TSB__summary_change_value_1" class="js-change-value pid-1-pc">+0.0003</span> <span id="TSB__summary_change_percent_1" class="js-change-percent pid-1-pcp parentheses">+0.03%</span>
+    <p id="TSB__summary_last_1" class="arial_24 bold inlineblock js-item-last pid-1-last_nColor">1.1218</p>
+    <p id="TSB__summary_change_1" class="change js-item-change redFont">
+    	<span id="TSB__summary_change_value_1" class="js-change-value pid-1-pc">-0.0002</span> <span id="TSB__summary_change_percent_1" class="js-change-percent pid-1-pcp parentheses">-0.02%</span>
 	</p>
 </div>
 
@@ -3513,146 +3442,146 @@ $(document).ready(function(){
 </div>
 <div class="dataBox" data-section-type="movingAverages">
 	 <p class="float_lang_base_1 nameText">Moving Averages:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_1" data-counter-type="buy" class="parentheses">4</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_1" data-counter-type="sell" class="parentheses">8</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_1" data-counter-type="buy" class="parentheses">0</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_1" data-counter-type="sell" class="parentheses">12</span></p>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="indicators">
 	 <p class="float_lang_base_1 nameText">Indicators:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_1" data-counter-type="buy" class="parentheses">0</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_1" data-counter-type="sell" class="parentheses">6</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_1" data-counter-type="buy" class="parentheses">3</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_1" data-counter-type="sell" class="parentheses">4</span></p>
 	 <div class="clear"></div>
 </div></div><div id="TSB_main_summary_2" data-pairid="2" class="displayNone js-pair-summary-box" rel=""><div id="TSB_arrowBox_2" class="arrowBox">
-    <span id="TSB__arrowBoxSpan_2" class="newSiteIconsSprite noneArrow float_lang_base_1 js-item-arrow"></span>
+    <span id="TSB__arrowBoxSpan_2" class="newSiteIconsSprite downArrow float_lang_base_1 js-item-arrow"></span>
     <p id="TSB__summary_name_2" class="arial_14 bold" title="GBP/USD - British Pound US Dollar"><a href="/currencies/gbp-usd" class="js-item-name">GBP/USD</a></p>
-    <p id="TSB__summary_last_2" class="arial_24 bold inlineblock js-item-last pid-2-last_nColor">1.3210</p>
-    <p id="TSB__summary_change_2" class="change js-item-change blackFont">
-    	<span id="TSB__summary_change_value_2" class="js-change-value pid-2-pc">0.0001</span> <span id="TSB__summary_change_percent_2" class="js-change-percent pid-2-pcp parentheses">0.00%</span>
+    <p id="TSB__summary_last_2" class="arial_24 bold inlineblock js-item-last pid-2-last_nColor">1.3036</p>
+    <p id="TSB__summary_change_2" class="change js-item-change redFont">
+    	<span id="TSB__summary_change_value_2" class="js-change-value pid-2-pc">-0.0008</span> <span id="TSB__summary_change_percent_2" class="js-change-percent pid-2-pcp parentheses">-0.06%</span>
 	</p>
 </div>
 
 <div id="TSB__data_summary_2" class="dataBox summary" data-section-type="summary">
 	 <p class="float_lang_base_1 bold">Summary</p>
-	 <span class="js-item-summary studySummaryOval sell arial_12 bold float_lang_base_2" id="TSB__technical_summary_2">Strong Sell</span>
+	 <span class="js-item-summary studySummaryOval buy arial_12 bold float_lang_base_2" id="TSB__technical_summary_2">Strong Buy</span>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="movingAverages">
 	 <p class="float_lang_base_1 nameText">Moving Averages:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_2" data-counter-type="buy" class="parentheses">5</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_2" data-counter-type="sell" class="parentheses">7</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_2" data-counter-type="buy" class="parentheses">10</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_2" data-counter-type="sell" class="parentheses">2</span></p>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="indicators">
 	 <p class="float_lang_base_1 nameText">Indicators:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_2" data-counter-type="buy" class="parentheses">1</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_2" data-counter-type="sell" class="parentheses">9</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_2" data-counter-type="buy" class="parentheses">7</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_2" data-counter-type="sell" class="parentheses">1</span></p>
 	 <div class="clear"></div>
 </div></div><div id="TSB_main_summary_3" data-pairid="3" class="displayNone js-pair-summary-box" rel=""><div id="TSB_arrowBox_3" class="arrowBox">
     <span id="TSB__arrowBoxSpan_3" class="newSiteIconsSprite upArrow float_lang_base_1 js-item-arrow"></span>
     <p id="TSB__summary_name_3" class="arial_14 bold" title="USD/JPY - US Dollar Japanese Yen"><a href="/currencies/usd-jpy" class="js-item-name">USD/JPY</a></p>
-    <p id="TSB__summary_last_3" class="arial_24 bold inlineblock js-item-last pid-3-last_nColor">109.97</p>
+    <p id="TSB__summary_last_3" class="arial_24 bold inlineblock js-item-last pid-3-last_nColor">110.86</p>
     <p id="TSB__summary_change_3" class="change js-item-change greenFont">
-    	<span id="TSB__summary_change_value_3" class="js-change-value pid-3-pc">+0.06</span> <span id="TSB__summary_change_percent_3" class="js-change-percent pid-3-pcp parentheses">+0.05%</span>
+    	<span id="TSB__summary_change_value_3" class="js-change-value pid-3-pc">+0.23</span> <span id="TSB__summary_change_percent_3" class="js-change-percent pid-3-pcp parentheses">+0.21%</span>
 	</p>
 </div>
 
 <div id="TSB__data_summary_3" class="dataBox summary" data-section-type="summary">
 	 <p class="float_lang_base_1 bold">Summary</p>
-	 <span class="js-item-summary studySummaryOval sell arial_12 bold float_lang_base_2" id="TSB__technical_summary_3">Strong Sell</span>
+	 <span class="js-item-summary studySummaryOval buy arial_12 bold float_lang_base_2" id="TSB__technical_summary_3">Strong Buy</span>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="movingAverages">
 	 <p class="float_lang_base_1 nameText">Moving Averages:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_3" data-counter-type="buy" class="parentheses">0</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_3" data-counter-type="sell" class="parentheses">12</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_3" data-counter-type="buy" class="parentheses">12</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_3" data-counter-type="sell" class="parentheses">0</span></p>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="indicators">
 	 <p class="float_lang_base_1 nameText">Indicators:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_3" data-counter-type="buy" class="parentheses">0</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_3" data-counter-type="sell" class="parentheses">6</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_3" data-counter-type="buy" class="parentheses">6</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_3" data-counter-type="sell" class="parentheses">1</span></p>
 	 <div class="clear"></div>
 </div></div><div id="TSB_main_summary_5" data-pairid="5" class="displayNone js-pair-summary-box" rel=""><div id="TSB_arrowBox_5" class="arrowBox">
     <span id="TSB__arrowBoxSpan_5" class="newSiteIconsSprite upArrow float_lang_base_1 js-item-arrow"></span>
     <p id="TSB__summary_name_5" class="arial_14 bold" title="AUD/USD - Australian Dollar US Dollar"><a href="/currencies/aud-usd" class="js-item-name">AUD/USD</a></p>
     <p id="TSB__summary_last_5" class="arial_24 bold inlineblock js-item-last pid-5-last_nColor">0.7098</p>
     <p id="TSB__summary_change_5" class="change js-item-change greenFont">
-    	<span id="TSB__summary_change_value_5" class="js-change-value pid-5-pc">+0.0016</span> <span id="TSB__summary_change_percent_5" class="js-change-percent pid-5-pcp parentheses">+0.23%</span>
+    	<span id="TSB__summary_change_value_5" class="js-change-value pid-5-pc">+0.0022</span> <span id="TSB__summary_change_percent_5" class="js-change-percent pid-5-pcp parentheses">+0.32%</span>
 	</p>
 </div>
 
 <div id="TSB__data_summary_5" class="dataBox summary" data-section-type="summary">
 	 <p class="float_lang_base_1 bold">Summary</p>
-	 <span class="js-item-summary studySummaryOval sell arial_12 bold float_lang_base_2" id="TSB__technical_summary_5">Strong Sell</span>
+	 <span class="js-item-summary studySummaryOval neutral arial_12 bold float_lang_base_2" id="TSB__technical_summary_5">Neutral</span>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="movingAverages">
 	 <p class="float_lang_base_1 nameText">Moving Averages:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_5" data-counter-type="buy" class="parentheses">4</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_5" data-counter-type="sell" class="parentheses">8</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_5" data-counter-type="buy" class="parentheses">9</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_5" data-counter-type="sell" class="parentheses">3</span></p>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="indicators">
 	 <p class="float_lang_base_1 nameText">Indicators:</p>
 	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_5" data-counter-type="buy" class="parentheses">0</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_5" data-counter-type="sell" class="parentheses">8</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_5" data-counter-type="sell" class="parentheses">5</span></p>
 	 <div class="clear"></div>
 </div></div><div id="TSB_main_summary_7" data-pairid="7" class="displayNone js-pair-summary-box" rel=""><div id="TSB_arrowBox_7" class="arrowBox">
-    <span id="TSB__arrowBoxSpan_7" class="newSiteIconsSprite upArrow float_lang_base_1 js-item-arrow"></span>
+    <span id="TSB__arrowBoxSpan_7" class="newSiteIconsSprite downArrow float_lang_base_1 js-item-arrow"></span>
     <p id="TSB__summary_name_7" class="arial_14 bold" title="USD/CAD - US Dollar Canadian Dollar"><a href="/currencies/usd-cad" class="js-item-name">USD/CAD</a></p>
-    <p id="TSB__summary_last_7" class="arial_24 bold inlineblock js-item-last pid-7-last_nColor">1.3441</p>
-    <p id="TSB__summary_change_7" class="change js-item-change greenFont">
-    	<span id="TSB__summary_change_value_7" class="js-change-value pid-7-pc">+0.0017</span> <span id="TSB__summary_change_percent_7" class="js-change-percent pid-7-pcp parentheses">+0.13%</span>
+    <p id="TSB__summary_last_7" class="arial_24 bold inlineblock js-item-last pid-7-last_nColor">1.3347</p>
+    <p id="TSB__summary_change_7" class="change js-item-change redFont">
+    	<span id="TSB__summary_change_value_7" class="js-change-value pid-7-pc">-0.0090</span> <span id="TSB__summary_change_percent_7" class="js-change-percent pid-7-pcp parentheses">-0.67%</span>
 	</p>
 </div>
 
 <div id="TSB__data_summary_7" class="dataBox summary" data-section-type="summary">
 	 <p class="float_lang_base_1 bold">Summary</p>
-	 <span class="js-item-summary studySummaryOval buy arial_12 bold float_lang_base_2" id="TSB__technical_summary_7">Strong Buy</span>
+	 <span class="js-item-summary studySummaryOval sell arial_12 bold float_lang_base_2" id="TSB__technical_summary_7">Strong Sell</span>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="movingAverages">
 	 <p class="float_lang_base_1 nameText">Moving Averages:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_7" data-counter-type="buy" class="parentheses">12</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_7" data-counter-type="sell" class="parentheses">0</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_7" data-counter-type="buy" class="parentheses">0</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_7" data-counter-type="sell" class="parentheses">12</span></p>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="indicators">
 	 <p class="float_lang_base_1 nameText">Indicators:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_7" data-counter-type="buy" class="parentheses">8</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_7" data-counter-type="sell" class="parentheses">0</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_7" data-counter-type="buy" class="parentheses">0</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_7" data-counter-type="sell" class="parentheses">10</span></p>
 	 <div class="clear"></div>
 </div></div><div id="TSB_main_summary_9" data-pairid="9" class="displayNone js-pair-summary-box" rel=""><div id="TSB_arrowBox_9" class="arrowBox">
     <span id="TSB__arrowBoxSpan_9" class="newSiteIconsSprite upArrow float_lang_base_1 js-item-arrow"></span>
     <p id="TSB__summary_name_9" class="arial_14 bold" title="EUR/JPY - Euro Japanese Yen"><a href="/currencies/eur-jpy" class="js-item-name">EUR/JPY</a></p>
-    <p id="TSB__summary_last_9" class="arial_24 bold inlineblock js-item-last pid-9-last_nColor">124.43</p>
+    <p id="TSB__summary_last_9" class="arial_24 bold inlineblock js-item-last pid-9-last_nColor">124.37</p>
     <p id="TSB__summary_change_9" class="change js-item-change greenFont">
-    	<span id="TSB__summary_change_value_9" class="js-change-value pid-9-pc">+0.01</span> <span id="TSB__summary_change_percent_9" class="js-change-percent pid-9-pcp parentheses">+0.01%</span>
+    	<span id="TSB__summary_change_value_9" class="js-change-value pid-9-pc">+0.17</span> <span id="TSB__summary_change_percent_9" class="js-change-percent pid-9-pcp parentheses">+0.14%</span>
 	</p>
 </div>
 
 <div id="TSB__data_summary_9" class="dataBox summary" data-section-type="summary">
 	 <p class="float_lang_base_1 bold">Summary</p>
-	 <span class="js-item-summary studySummaryOval sell arial_12 bold float_lang_base_2" id="TSB__technical_summary_9">Strong Sell</span>
+	 <span class="js-item-summary studySummaryOval buy arial_12 bold float_lang_base_2" id="TSB__technical_summary_9">Strong Buy</span>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="movingAverages">
 	 <p class="float_lang_base_1 nameText">Moving Averages:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_9" data-counter-type="buy" class="parentheses">1</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_9" data-counter-type="sell" class="parentheses">11</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ma_buy_9" data-counter-type="buy" class="parentheses">10</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ma_sell_9" data-counter-type="sell" class="parentheses">2</span></p>
 	 <div class="clear"></div>
 </div>
 <div class="dataBox" data-section-type="indicators">
 	 <p class="float_lang_base_1 nameText">Indicators:</p>
-	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_9" data-counter-type="buy" class="parentheses">0</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_9" data-counter-type="sell" class="parentheses">9</span></p>
+	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_9" data-counter-type="buy" class="parentheses">5</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_9" data-counter-type="sell" class="parentheses">2</span></p>
 	 <div class="clear"></div>
 </div></div><div id="TSB_main_summary_10" data-pairid="10" class="displayNone js-pair-summary-box" rel=""><div id="TSB_arrowBox_10" class="arrowBox">
     <span id="TSB__arrowBoxSpan_10" class="newSiteIconsSprite downArrow float_lang_base_1 js-item-arrow"></span>
     <p id="TSB__summary_name_10" class="arial_14 bold" title="EUR/CHF - Euro Swiss Franc"><a href="/currencies/eur-chf" class="js-item-name">EUR/CHF</a></p>
-    <p id="TSB__summary_last_10" class="arial_24 bold inlineblock js-item-last pid-10-last_nColor">1.1234</p>
+    <p id="TSB__summary_last_10" class="arial_24 bold inlineblock js-item-last pid-10-last_nColor">1.1170</p>
     <p id="TSB__summary_change_10" class="change js-item-change redFont">
-    	<span id="TSB__summary_change_value_10" class="js-change-value pid-10-pc">-0.0011</span> <span id="TSB__summary_change_percent_10" class="js-change-percent pid-10-pcp parentheses">-0.10%</span>
+    	<span id="TSB__summary_change_value_10" class="js-change-value pid-10-pc">-0.0006</span> <span id="TSB__summary_change_percent_10" class="js-change-percent pid-10-pcp parentheses">-0.05%</span>
 	</p>
 </div>
 
@@ -3670,7 +3599,7 @@ $(document).ready(function(){
 <div class="dataBox" data-section-type="indicators">
 	 <p class="float_lang_base_1 nameText">Indicators:</p>
 	 <p class="float_lang_base_1 buyText">Buy <span id="TSB___ti_buy_10" data-counter-type="buy" class="parentheses">1</span></p>
-	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_10" data-counter-type="sell" class="parentheses">8</span></p>
+	 <p class="float_lang_base_2 sellText">Sell <span id="TSB___ti_sell_10" data-counter-type="sell" class="parentheses">9</span></p>
 	 <div class="clear"></div>
 </div></div><div id="TSB_main_summary_8830" data-pairid="8830" class="displayNone js-pair-summary-box" rel=""><div id="TSB_arrowBox_8830" class="arrowBox">
     <span id="TSB__arrowBoxSpan_8830" class="newSiteIconsSprite upArrow float_lang_base_1 js-item-arrow"></span>
@@ -4776,57 +4705,57 @@ $(document).ready(function(){
 <tbody>
 		<tr id="TSB_pair_1" data-pairid="1" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="EUR/USD - Euro US Dollar (CFD)"><a href="/currencies/eur-usd" data-gae='tsb_fx-eur-usd' >EUR/USD</a></td>
-		    <td class="lastNum js-item-last pid-1-last">1.1316</td>
+		    <td class="lastNum js-item-last pid-1-last">1.1218</td>
 		    <td class="chg bold js-item-summary left textNum redFont">Strong Sell</td>
 		    <td class="sideColumn">&nbsp;</td>
 		</tr>
 		<tr id="TSB_pair_2" data-pairid="2" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="GBP/USD - British Pound US Dollar (CFD)"><a href="/currencies/gbp-usd" data-gae='tsb_fx-gbp-usd' >GBP/USD</a></td>
-		    <td class="lastNum js-item-last pid-2-last">1.3210</td>
-		    <td class="chg bold js-item-summary left textNum redFont">Strong Sell</td>
+		    <td class="lastNum js-item-last pid-2-last">1.3036</td>
+		    <td class="chg bold js-item-summary left textNum greenFont">Strong Buy</td>
 		    <td class="sideColumn">&nbsp;</td>
 		</tr>
 		<tr id="TSB_pair_3" data-pairid="3" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="USD/JPY - US Dollar Japanese Yen (CFD)"><a href="/currencies/usd-jpy" data-gae='tsb_fx-usd-jpy' >USD/JPY</a></td>
-		    <td class="lastNum js-item-last pid-3-last">109.97</td>
-		    <td class="chg bold js-item-summary left textNum redFont">Strong Sell</td>
+		    <td class="lastNum js-item-last pid-3-last">110.86</td>
+		    <td class="chg bold js-item-summary left textNum greenFont">Strong Buy</td>
 		    <td class="sideColumn">&nbsp;</td>
 		</tr>
 		<tr id="TSB_pair_5" data-pairid="5" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="AUD/USD - Australian Dollar US Dollar (CFD)"><a href="/currencies/aud-usd" data-gae='tsb_fx-aud-usd' >AUD/USD</a></td>
 		    <td class="lastNum js-item-last pid-5-last">0.7098</td>
-		    <td class="chg bold js-item-summary left textNum redFont">Strong Sell</td>
+		    <td class="chg bold js-item-summary left textNum neutralFont">Neutral</td>
 		    <td class="sideColumn">&nbsp;</td>
 		</tr>
 		<tr id="TSB_pair_7" data-pairid="7" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="USD/CAD - US Dollar Canadian Dollar (CFD)"><a href="/currencies/usd-cad" data-gae='tsb_fx-usd-cad' >USD/CAD</a></td>
-		    <td class="lastNum js-item-last pid-7-last">1.3441</td>
-		    <td class="chg bold js-item-summary left textNum greenFont">Strong Buy</td>
+		    <td class="lastNum js-item-last pid-7-last">1.3347</td>
+		    <td class="chg bold js-item-summary left textNum redFont">Strong Sell</td>
 		    <td class="sideColumn">&nbsp;</td>
 		</tr>
 		<tr id="TSB_pair_9" data-pairid="9" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="EUR/JPY - Euro Japanese Yen (CFD)"><a href="/currencies/eur-jpy" data-gae='tsb_fx-eur-jpy' >EUR/JPY</a></td>
-		    <td class="lastNum js-item-last pid-9-last">124.43</td>
-		    <td class="chg bold js-item-summary left textNum redFont">Strong Sell</td>
+		    <td class="lastNum js-item-last pid-9-last">124.37</td>
+		    <td class="chg bold js-item-summary left textNum greenFont">Strong Buy</td>
 		    <td class="sideColumn">&nbsp;</td>
 		</tr>
 		<tr id="TSB_pair_10" data-pairid="10" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="EUR/CHF - Euro Swiss Franc (CFD)"><a href="/currencies/eur-chf" data-gae='tsb_fx-eur-chf' >EUR/CHF</a></td>
-		    <td class="lastNum js-item-last pid-10-last">1.1234</td>
+		    <td class="lastNum js-item-last pid-10-last">1.1170</td>
 		    <td class="chg bold js-item-summary left textNum redFont">Strong Sell</td>
 		    <td class="sideColumn">&nbsp;</td>
 		</tr>
@@ -4836,7 +4765,7 @@ $(document).ready(function(){
 <tbody>
 		<tr id="TSB_pair_8830" data-pairid="8830" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="Gold Futures (CFD)"><a href="/commodities/gold" data-gae='tsb_commodities-gold' >Gold</a></td>
 		    <td class="lastNum js-item-last pid-8830-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4844,7 +4773,7 @@ $(document).ready(function(){
 		</tr>
 		<tr id="TSB_pair_8836" data-pairid="8836" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="Silver Futures (CFD)"><a href="/commodities/silver" data-gae='tsb_commodities-silver' >Silver</a></td>
 		    <td class="lastNum js-item-last pid-8836-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4852,7 +4781,7 @@ $(document).ready(function(){
 		</tr>
 		<tr id="TSB_pair_8831" data-pairid="8831" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="Copper Futures (CFD)"><a href="/commodities/copper" data-gae='tsb_commodities-copper' >Copper</a></td>
 		    <td class="lastNum js-item-last pid-8831-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4860,7 +4789,7 @@ $(document).ready(function(){
 		</tr>
 		<tr id="TSB_pair_8849" data-pairid="8849" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="Crude Oil WTI Futures (CFD)"><a href="/commodities/crude-oil" data-gae='tsb_commodities-crude-oil' >Crude Oil WTI</a></td>
 		    <td class="lastNum js-item-last pid-8849-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4868,7 +4797,7 @@ $(document).ready(function(){
 		</tr>
 		<tr id="TSB_pair_8833" data-pairid="8833" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="Brent Oil Futures (CFD)"><a href="/commodities/brent-oil" data-gae='tsb_commodities-brent-oil' >Brent Oil</a></td>
 		    <td class="lastNum js-item-last pid-8833-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4876,7 +4805,7 @@ $(document).ready(function(){
 		</tr>
 		<tr id="TSB_pair_8862" data-pairid="8862" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="Natural Gas Futures (CFD)"><a href="/commodities/natural-gas" data-gae='tsb_commodities-natural-gas' >Natural Gas</a></td>
 		    <td class="lastNum js-item-last pid-8862-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4884,7 +4813,7 @@ $(document).ready(function(){
 		</tr>
 		<tr id="TSB_pair_8832" data-pairid="8832" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="US Coffee C Futures (CFD)"><a href="/commodities/us-coffee-c" data-gae='tsb_commodities-us-coffee-c' >US Coffee C</a></td>
 		    <td class="lastNum js-item-last pid-8832-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4896,7 +4825,7 @@ $(document).ready(function(){
 <tbody>
 		<tr id="TSB_pair_169" data-pairid="169" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="Dow Jones Industrial Average (NYSE)"><a href="/indices/us-30" data-gae='tsb_indices-us-30' >Dow 30</a></td>
 		    <td class="lastNum js-item-last pid-169-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4904,7 +4833,7 @@ $(document).ready(function(){
 		</tr>
 		<tr id="TSB_pair_20" data-pairid="20" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="Nasdaq 100 (NASDAQ)"><a href="/indices/nq-100" data-gae='tsb_indices-nq-100' >Nasdaq 100</a></td>
 		    <td class="lastNum js-item-last pid-20-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4912,7 +4841,7 @@ $(document).ready(function(){
 		</tr>
 		<tr id="TSB_pair_166" data-pairid="166" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="S&P 500 (NYSE) (CFD)"><a href="/indices/us-spx-500" data-gae='tsb_indices-us-spx-500' >S&P 500</a></td>
 		    <td class="lastNum js-item-last pid-166-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4920,7 +4849,7 @@ $(document).ready(function(){
 		</tr>
 		<tr id="TSB_pair_172" data-pairid="172" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="DAX (Xetra) (CFD)"><a href="/indices/germany-30" data-gae='tsb_indices-germany-30' >DAX</a></td>
 		    <td class="lastNum js-item-last pid-172-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4928,7 +4857,7 @@ $(document).ready(function(){
 		</tr>
 		<tr id="TSB_pair_27" data-pairid="27" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="FTSE 100 (London) (CFD)"><a href="/indices/uk-100" data-gae='tsb_indices-uk-100' >FTSE 100</a></td>
 		    <td class="lastNum js-item-last pid-27-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -4936,7 +4865,7 @@ $(document).ready(function(){
 		</tr>
 		<tr id="TSB_pair_167" data-pairid="167" class="LeftLiContainer js-item-row">
 			<td class="sideColumn">&nbsp;</td>
-   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite greenClockIcon">&nbsp;</span></td>
+   		    <td class="icon js-item-icon"><span class="newSiteIconsSprite redClockIcon">&nbsp;</span></td>
 		    <td class="left first noWrap" title="CAC 40 (Paris)"><a href="/indices/france-40" data-gae='tsb_indices-france-40' >CAC 40</a></td>
 		    <td class="lastNum js-item-last pid-167-last"></td>
 		    <td class="chg bold js-item-summary left textNum redFont"></td>
@@ -5023,9 +4952,8 @@ $(document).ready(function(){
 </div>		</div>
 	</div>
 <script>
-		$(window).trigger('appendNewData',[["pid-9483:","pid-24441:","pid-945064:","pid-8884:","pid-8839:","pid-8874:","pid-172:","pid-8827:","pid-1055949:","pid-1:","pid-2:","pid-3:","pid-5:","pid-7:","pid-9:","pid-10:","pidTechSumm-1:","pidTechSumm-2:","pidTechSumm-3:","pidTechSumm-5:","pidTechSumm-7:","pidTechSumm-9:","pidTechSumm-10:","pidExt-9483:","event-384017:","event-382830:","event-382831:","isOpenExch-1003:","isOpenExch-51:","isOpenExch-4:","isOpenExch-1004:","isOpenPair-8884:","isOpenPair-8839:","isOpenPair-8874:","isOpenPair-8827:","cmt-68-5-9483:"]]);
-</script><div class="tradeNowRightColumn"><a href="javascript:void(0);" data-link="/jp.php?v2=OXk-YDViYzpiMTwzMGY4OGU3NG0_OGFkYHc3ZTQ-YC44fGViNmQyYmZvOjk3eTYuP30wPWM2NGYzMmZiMTw0ZTkqPi41bmM-YjU8MTBgODxlNjR5P3hhbmBoNzA0O2Bp" data-section="technical_sideblock_box" data-tradenowid="302884" title="Start trading with Gain Capital" data-color="green" data-text="Buy" class="newBtn noIcon tradenowBtn js-tradenow-btn green">Buy</a><a href="javascript:void(0);" data-link="/jp.php?v2=OXk-YDViYzpiMTwzMGY4OGU3NG0_OGFkYHc3ZTQ-YC44fGViNmQyYmZvOjk3eTYuP30wPWM2NGYzMmZiMTw0ZTkqPi41bmM-YjU8MTBgODxlNjR5P3hhbmBoNzA0O2Bp" data-section="technical_sideblock_box" data-tradenowid="302884" title="Start trading with Gain Capital" data-color="red" data-text="Sell" class="newBtn noIcon tradenowBtn js-tradenow-btn red">Sell</a>    <div class="clear"></div>
-</div><div class="clear rightColumnAd" id="ad2"><div id='div-gpt-ad-1433409695022-7' style='width:300px; height:250px;'></div></div> <!-- /sideBanner --><div class="clear " id="user_last_quotes"><div class="sideColumnBox js-recent-quotes"><div class="sideColumnBoxTitle">Recent Quotes</div><div id="tab_1_inner"><div id="recent" class="recent"><table class="genTbl openTbl recentQuotesSideBlockTbl collapsedTbl elpTbl elp20"><thead><tr><th class="sideColumn">&nbsp;</th><th class="left">Name</th><th>Price</th><th>Chg.</th><th class="last">Chg. %</th><th class="sideColumn">&nbsp;</th></tr></thead><tbody><tr class="last"><td class="sideColumn">&nbsp;</td><td class="left symbol bold elp"><a href="/currencies/cad-try" title="CAD/TRY" style="white-space:nowrap;">CAD/TRY</a></td><td id="_last_9483" class="pid-9483-last">4.1694</td><td id="_chg_9483" class="pid-9483-pc"><span class="redFont" >-0.1224</span></td><td id="_p_chg_9483" class="pid-9483-pcp"><span class="redFont" >-2.85%</span></td><td class="sideColumn">&nbsp;</td></tr></tbody><!-- recent--></table><!-- recent_quotes_table --><div class="footer"><a href="javascript:clear_sideblock_user_quotes();" title="Clear all recent quotes"><span class="quotesClearIcon"></span></a>
+		$(window).trigger('appendNewData',[["pid-9483:","pid-24441:","pid-945064:","pid-8884:","pid-8839:","pid-8874:","pid-172:","pid-8827:","pid-1055949:","pid-1:","pid-2:","pid-3:","pid-5:","pid-7:","pid-9:","pid-10:","pidTechSumm-1:","pidTechSumm-2:","pidTechSumm-3:","pidTechSumm-5:","pidTechSumm-7:","pidTechSumm-9:","pidTechSumm-10:","pidExt-9483:","isOpenExch-1003:","isOpenExch-51:","isOpenExch-4:","isOpenExch-1004:","isOpenPair-8884:","isOpenPair-8839:","isOpenPair-8874:","isOpenPair-8827:","cmt-68-5-9483:"]]);
+</script><div class="clear rightColumnAd" id="ad2"><div id='div-gpt-ad-1433409695022-7' style='width:300px; height:250px;'></div></div> <!-- /sideBanner --><div class="clear " id="user_last_quotes"><div class="sideColumnBox js-recent-quotes"><div class="sideColumnBoxTitle">Recent Quotes</div><div id="tab_1_inner"><div id="recent" class="recent"><table class="genTbl openTbl recentQuotesSideBlockTbl collapsedTbl elpTbl elp20"><thead><tr><th class="sideColumn">&nbsp;</th><th class="left">Name</th><th>Price</th><th>Chg.</th><th class="last">Chg. %</th><th class="sideColumn">&nbsp;</th></tr></thead><tbody><tr class="last"><td class="sideColumn">&nbsp;</td><td class="left symbol bold elp"><a href="/currencies/cad-try" title="CAD/TRY" style="white-space:nowrap;">CAD/TRY</a></td><td id="_last_9483" class="pid-9483-last">4.1614</td><td id="_chg_9483" class="pid-9483-pc"><span class="greenFont" >+0.0264</span></td><td id="_p_chg_9483" class="pid-9483-pcp"><span class="greenFont" >+0.64%</span></td><td class="sideColumn">&nbsp;</td></tr></tbody><!-- recent--></table><!-- recent_quotes_table --><div class="footer"><a href="javascript:clear_sideblock_user_quotes();" title="Clear all recent quotes"><span class="quotesClearIcon"></span></a>
 <div widget-addtoportfolio class="relativeAttr">
 
 	<div onclick="addToPortfolioClass.buildPortfolio(this,0);" class="arial_11 dir_lang_base_1">
@@ -5063,41 +4991,13 @@ $(document).ready(function(){
 
 
 
-</div><!-- footer --></div></div></div><script>var uri = ''; var sid = '31f15d33f5abf04be0904a15ae73fe1b'; </script></div> <!-- /sideBanner --><div class="clear sideColumnBox" id="broker_promotions" data-gae='sb_promotions' ><div class="sideColumnBoxTitle linkTitle"><a href="/brokers/promotions" class="smallLinkArrow">Promotions</a></div>
+</div><!-- footer --></div></div></div><script>var uri = ''; var sid = 'e7e5ca769dc5c8dbfb8986653f6cb7d7'; </script></div> <!-- /sideBanner --><div class="clear sideColumnBox" id="broker_promotions" data-gae='sb_promotions' ><div class="sideColumnBoxTitle linkTitle"><a href="/brokers/promotions" class="smallLinkArrow">Promotions</a></div>
 									  	  <div class="promotionsSideBlockInner smallTitle1 promotionTitle"><article class="js-article-item articleItem   "  data-id="200145152"  >
 	<a href="/brokers/avatrade/promotions/take-on-the-markets-with-avatrade-200145152" class="img" ><img src="https://i-invdn-com.akamaized.net/companies_logos/121769_1499586318.jpg"  onerror="javascript:this.src='https://i-invdn-com.akamaized.net/anonym.gif';" ></a>	<div class="textDiv">
 							<a href="/brokers/avatrade/promotions/take-on-the-markets-with-avatrade-200145152" title="TAKE ON THE MARKETS WITH AVATRADE" class="title" >TAKE ON THE MARKETS WITH AVATRADE</a>
 	        <span class="articleDetails"><span>AvaTrade</span></span>        			</div>
 	<div class="clear"></div>
-</article></div></div> <!-- /sideBanner --><div class="clear sideColumnBox" id="webinars_new"><div class="sideColumnBoxTitle linkTitle">
-	<a href="/education/webinars" data-gae="mostpop-news" class="smallLinkArrow">Webinars</a></div>
-<div class="smallTitle1 smallPic mostPopular">
-			<article class="articleItem ">
-			<a href="/education/webinars/interest-rates-of-new-zealand-over-pivot-points-547" class="img">
-				<img src="https://d1-invdn-com.akamaized.net/company_logo/cde2b24093e18db3defa0c38e2284ac0.jpg" alt="Interest rates of New Zealand over pivot points">
-			</a>
-			<div class="textDiv">
-				<a href="/education/webinars/interest-rates-of-new-zealand-over-pivot-points-547" title="Interest rates of New Zealand over pivot points" class="title">Interest rates of New Zealand over pivot points</a>
-				<span class="articleDetails">
-				<span class="date">Monday, March 25, 2019 | 20:45 EDT </span>
-			</span>
-			</div>
-			<div class="clear"></div>
-		</article>
-			<article class="articleItem ">
-			<a href="/education/webinars/market-analysis-workshop-537" class="img">
-				<img src="https://d1-invdn-com.akamaized.net/company_logo/baf0cc94431312eecb758d0b185d62e9.jpg" alt="Market Analysis Workshop">
-			</a>
-			<div class="textDiv">
-				<a href="/education/webinars/market-analysis-workshop-537" title="Market Analysis Workshop" class="title">Market Analysis Workshop</a>
-				<span class="articleDetails">
-				<span class="date">Thursday, March 28, 2019 | 08:00 EDT </span>
-			</span>
-			</div>
-			<div class="clear"></div>
-		</article>
-	</div>
-</div> <!-- /sideBanner --><div class="clear rightColumnAd scrollingRightBox" id="ad3"><div id='div-gpt-ad-1370187203350-sb3'></div></div> <!-- /sideBanner -->    	            <!-- js -->
+</article></div></div> <!-- /sideBanner --><div class="clear rightColumnAd scrollingRightBox" id="ad3"><div id='div-gpt-ad-1370187203350-sb3'></div></div> <!-- /sideBanner -->    	            <!-- js -->
     	            <script type="text/javascript">
     	                        $(window).bind("load", function() {
     	                        scrollng_ad('scrollingRightBox', 'footerWrapper');
@@ -5135,23 +5035,23 @@ $(document).ready(function(){
 </script>		</div>
         		<div id="findABroker_html" class="findABroker">
 			
-				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=MnJmOG45Zj9mNWxjNGI4OGQ2YjswNzcyNSIzYTA6ZxtjFGZCbn5hJj9laDY0OjM7ZWM0MDFgO38wcDU0Z2NjNzI2ZjZuPmY4ZiZsIDRq')"><img data-rowid="276647" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/fab_79202885.jpg"></a>
+				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=M3M_YWM0ZD02ZT4xMGplYWIwZDg0MzcyPSpiMDM5YBxiFTIWNiY-eTJoOmRuYDI6Z2E3M2EwNXFlJWBhZmJhNTM3P29jM2Q6NnY-cjBu')"><img data-rowid="276647" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/fab_79202885.jpg"></a>
 				
-				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=MXEybGA3NG0yYWBvbzljYzRmZTw2MTs-ZnE3ZWdtZRlnEGZCYHA1cmI4ajRmaDgwND1iYDBkZSFmJmRlY2czZzE1MmJgMDRqMnJgLG8x')"><img data-rowid="276922" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/fab_8750491.jpg"></a>
+				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=MXE3aWM0P2Y1Zjo1bzViZmMxYz82MTYzZXJkNjU_ZBg2QTQQZ3dhJmQ-OmRjbTkxNj9hY2E1ZiJmJjIzZmIyZjE1N2djMz9hNXU6dm8x')"><img data-rowid="276922" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/fab_8750491.jpg"></a>
 				
-				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=YiIzbWE2N25jMDs0ZjBmZjdlP2ZhZmBlNyBmNDsxN0tiFTcTYHA0czdtbjA3OTQ9Z2cyMDJjZyM2djAxZmJgNGJmM2NhMTdpYyM7d2Y4')"><img data-rowid="277027" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/New_120x60_Fab_FXCM.png"></a>
+				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=N3c_YTFmNWwzYDk2YjhlYTNhYT03MGJnPCtlNzQ-bxM3QD4aMiIzdGM5ajRvYTM6YGBjYTVkZiJhITU0Oz9kMDczP28xYTVrM3M5dWI8')"><img data-rowid="277027" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/New_120x60_Fab_FXCM.png"></a>
 				
-				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=YiJiPDFmZD0xYm9gM2VmZmIwZTw1MjUwPCszYTE7Yx8xRj8bYXE1cmY8PGJuYDc-MDFlYT9uMXUycjc2NDAzZ2JmYjIxYWQ6MXFvIzNt')"><img data-rowid="277147" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/fab_82712647.jpg"></a>
+				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=NXU0ajZhMGk-bTk2MmhiZj5sN2s_OGVgYHdiMGBqZxs0QzIWNSU0c2M5ajQ0OjE4Pj80MDdmN3NmJmFgZ2MyZjUxNGQ2ZjBuPn45dTJs')"><img data-rowid="277147" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/fab_82712647.jpg"></a>
 				
-				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=ZCQ1a284MGlhMmhnNGIyMmMxMGk0MzM2NCNjMTsxNUk0QzIWMyM-eTBqPmA3OTkwNDMxMzNmOn5iImJjZGBkMGRgNWVvPzBuYSFoJDRq')"><img data-rowid="277723" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/fab_55981058.png"></a>
+				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=OXlkOm84MGk_bGFubjRlYTBiMGw3MGdiNyAwYjE7N0syRTEVY3Mwd2Y8aTdnaTgxY2RlZzJnNXFhIWZnMTVmMjk9ZDRvPzBuP39hLW4w')"><img data-rowid="277723" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/fab_55981058.png"></a>
 				
-				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=ZCQxb284Yzo0Zzs0YDY0NDVnNm9lYmVgNSIzYTA6Yx9kE2RAMiJjJDJoPGJkajY_ZWI0MjdgMnZiImBhOj4yZmRgMWFvP2M9NHQ7d2A-')"><img data-rowid="277761" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/AVA_NEW_120x60.png"></a>
+				<a href="javascript:void(0);" onclick="window.open('/jp.php?v2=YiIxb2YxPmdjMGtkZjwzNzFjYj5mYWBlYHc3ZTQ-NEgyRT8bMyNkIzdtYT8zPWZvPzg_OT5pM3c3dzAxNzMzZ2JmMWFmNj5gYyNrJ2Y4')"><img data-rowid="277761" src="https://a-invdn-com.akamaized.net/Broker_Button_New/Fab120/AVA_NEW_120x60.png"></a>
 						</div>
 	</div>
 </div>
 <script>
 	window.FABTabsInitObject = {
-		dataStr: '{"1":[{"id":"276647","link":"\/jp.php?v2=MnJmOG45Zj9mNWxjNGI4OGQ2YjswNzcyNSIzYTA6ZxtjFGZCbn5hJj9laDY0OjM7ZWM0MDFgO38wcDU0Z2NjNzI2ZjZuPmY4ZiZsIDRq","img120":"Fab120\/fab_79202885.jpg"},{"id":"276922","link":"\/jp.php?v2=MXEybGA3NG0yYWBvbzljYzRmZTw2MTs-ZnE3ZWdtZRlnEGZCYHA1cmI4ajRmaDgwND1iYDBkZSFmJmRlY2czZzE1MmJgMDRqMnJgLG8x","img120":"Fab120\/fab_8750491.jpg"},{"id":"277027","link":"\/jp.php?v2=YiIzbWE2N25jMDs0ZjBmZjdlP2ZhZmBlNyBmNDsxN0tiFTcTYHA0czdtbjA3OTQ9Z2cyMDJjZyM2djAxZmJgNGJmM2NhMTdpYyM7d2Y4","img120":"Fab120\/New_120x60_Fab_FXCM.png"},{"id":"277147","link":"\/jp.php?v2=YiJiPDFmZD0xYm9gM2VmZmIwZTw1MjUwPCszYTE7Yx8xRj8bYXE1cmY8PGJuYDc-MDFlYT9uMXUycjc2NDAzZ2JmYjIxYWQ6MXFvIzNt","img120":"Fab120\/fab_82712647.jpg"},{"id":"277723","link":"\/jp.php?v2=ZCQ1a284MGlhMmhnNGIyMmMxMGk0MzM2NCNjMTsxNUk0QzIWMyM-eTBqPmA3OTkwNDMxMzNmOn5iImJjZGBkMGRgNWVvPzBuYSFoJDRq","img120":"Fab120\/fab_55981058.png"},{"id":"277761","link":"\/jp.php?v2=ZCQxb284Yzo0Zzs0YDY0NDVnNm9lYmVgNSIzYTA6Yx9kE2RAMiJjJDJoPGJkajY_ZWI0MjdgMnZiImBhOj4yZmRgMWFvP2M9NHQ7d2A-","img120":"Fab120\/AVA_NEW_120x60.png"}],"9":[{"id":"276923","link":"\/jp.php?v2=OXkxbzJlYjswY2BvZzEwMDFjNWw1MjYzMiU1Z2FrbxMxRj4aMiIzdGM5aDYzPWNrMThkZmM2YCRiIm5vZmJuOjk9MWEyYmI8MHBgLGc5","img120":"Fab120\/fab_8750491.jpg"},{"id":"277029","link":"\/jp.php?v2=ZSUybDZhNWw_bD4xbjgxMT5sNG0zNGFkMiUyYGRuZBhjFDEVMyNlIjFrPGJla2VsMzNiYDVqNXE3d2NiYWVhNWVhMmI2ZjVrP38-cm4w","img120":"Fab120\/New_120x60_Fab_FXCM.png"},{"id":"277760","link":"\/jp.php?v2=MXE2aG84YzplNj4xNGI1NWAyYjtkYzs-YHduPDQ-Yh42QTYSY3NiJWM5PWNibDkwZWJiZGE3NnI0dGVkNjJlMTE1NmZvP2M9ZSU-cjRq","img120":"Fab120\/AVA_NEW_120x60.png"}],"2":[{"id":"277028","link":"\/jp.php?v2=OHg0amcwYzpkNzwzZjA1NTJgZTxiZWZjPCtuPDI4YBw2QWNHNSU_eGM5PWMyPDc-Z2c1NzdpO38ycmdmMjZgNDg8NGRnN2M9ZCQ8cGY4","img120":"Fab120\/New_120x60_Fab_FXCM.png"},{"id":"277146","link":"\/jp.php?v2=M3NmODFmYjszYG1iYDY3N2MxNm9lYmVgMiViMGZsZRkzRGZCYnIydTVvbzFkajQ9MjNjZzZmM3cwcDU0Z2M3YzM3ZjYxYWI8M3NtIWA-","img120":"Fab120\/fab_82712647.jpg"},{"id":"277759","link":"\/jp.php?v2=OXkybGA3MWhmNW1iZzEwMD5sZj83MDcyMSY3ZTU_ZxswR2VBZ3c-eTVvbzEzPTI7MjU3Mj9gZyMwcDQ1MTViNjk9MmJgMDFvZiZtIWc5","img120":"Fab120\/AVA_NEW_120x60.png"}],"6":[{"id":"277148","link":"\/jp.php?v2=YyM3aWUyYzozYG5hM2U4OGc1NG1jZDs-YHdvPWRuMk43QDcTZXU_eGE7azUwPjI7ZWQ1MTNtOn4xcW5vNDBiNmNnN2dlNWM9M3NuIjNt","img120":"Fab120\/fab_82712647.jpg"}]}',
+		dataStr: '{"1":[{"id":"276647","link":"\/jp.php?v2=M3M_YWM0ZD02ZT4xMGplYWIwZDg0MzcyPSpiMDM5YBxiFTIWNiY-eTJoOmRuYDI6Z2E3M2EwNXFlJWBhZmJhNTM3P29jM2Q6NnY-cjBu","img120":"Fab120\/fab_79202885.jpg"},{"id":"276922","link":"\/jp.php?v2=MXE3aWM0P2Y1Zjo1bzViZmMxYz82MTYzZXJkNjU_ZBg2QTQQZ3dhJmQ-OmRjbTkxNj9hY2E1ZiJmJjIzZmIyZjE1N2djMz9hNXU6dm8x","img120":"Fab120\/fab_8750491.jpg"},{"id":"277027","link":"\/jp.php?v2=N3c_YTFmNWwzYDk2YjhlYTNhYT03MGJnPCtlNzQ-bxM3QD4aMiIzdGM5ajRvYTM6YGBjYTVkZiJhITU0Oz9kMDczP28xYTVrM3M5dWI8","img120":"Fab120\/New_120x60_Fab_FXCM.png"},{"id":"277147","link":"\/jp.php?v2=NXU0ajZhMGk-bTk2MmhiZj5sN2s_OGVgYHdiMGBqZxs0QzIWNSU0c2M5ajQ0OjE4Pj80MDdmN3NmJmFgZ2MyZjUxNGQ2ZjBuPn45dTJs","img120":"Fab120\/fab_82712647.jpg"},{"id":"277723","link":"\/jp.php?v2=OXlkOm84MGk_bGFubjRlYTBiMGw3MGdiNyAwYjE7N0syRTEVY3Mwd2Y8aTdnaTgxY2RlZzJnNXFhIWZnMTVmMjk9ZDRvPzBuP39hLW4w","img120":"Fab120\/fab_55981058.png"},{"id":"277761","link":"\/jp.php?v2=YiIxb2YxPmdjMGtkZjwzNzFjYj5mYWBlYHc3ZTQ-NEgyRT8bMyNkIzdtYT8zPWZvPzg_OT5pM3c3dzAxNzMzZ2JmMWFmNj5gYyNrJ2Y4","img120":"Fab120\/AVA_NEW_120x60.png"}],"9":[{"id":"276923","link":"\/jp.php?v2=ZCQxb2M0ZD1mNTs0NW8xNTRmYz8-OTUwYXZhM2ZsYBxnEGNHNiYxdmI4ajRvYTI6YGlhY2QxO38wcDQ1ZGBiNmRgMWFjM2Q6ZiY7dzVr","img120":"Fab120\/fab_8750491.jpg"},{"id":"277029","link":"\/jp.php?v2=ZCRlOzZhM2plNmtkZz1hZWAyPmI_OGBlMSZuPGBqYR1iFWNHNSU-eWQ-O2VhbzgxMzNmZGM8YCQzc2BhMDRhNWRgZTU2ZjNtZSVrJ2c5","img120":"Fab120\/New_120x60_Fab_FXCM.png"},{"id":"277760","link":"\/jp.php?v2=N3c3aTViYjs1ZmlmMGozN2MxZTlhZjE0PCswYmRuYR1jFD8bNiYxdj5kajQ3OTc-MzQ1M2M1On42djU0ZGBuOjczN2c1ZWI8NXVpJTBu","img120":"Fab120\/AVA_NEW_120x60.png"}],"2":[{"id":"277028","link":"\/jp.php?v2=YiJhPzZhNG1mNWhnNG5jZz9tM28-OTQxMSY1Z2BqbxNiFTQQY3MxdmY8bTNuYDU8ZWVkZmU7MHRlJTIzOz8zZ2JmYTE2ZjRqZiZoJDRq","img120":"Fab120\/New_120x60_Fab_FXCM.png"},{"id":"277146","link":"\/jp.php?v2=YCA_YWYxMGlmNTwzZT9lYTBiN2tlYjo_MSZuPGZsZBgwR2FFb39mITJobTMzPTE4ZWQ-OjNjM3dgIGVkNTFmMmBkP29mNjBuZiY8cGU7","img120":"Fab120\/fab_82712647.jpg"},{"id":"277759","link":"\/jp.php?v2=OXk-YGUyM2oyYWplYzk3MzdlPmI1Mjs-PSo3ZTE7ZRk1QjQQNiYxdj9lYT8wPmJrNjFkYWE-MXU8fDAxOz9lMTk9Pm5lNTNtMnJqJmM9","img120":"Fab120\/AVA_NEW_120x60.png"}],"6":[{"id":"277148","link":"\/jp.php?v2=YCBlOzZhNG0xYjs0NW8zNzFjMW03MGZjNCM0ZjM5NUk3QGZCYXEydTJoPmBmaDE4Pz5mYjFvO39mJm5vNTFuOmBkZTU2ZjRqMXE7dzVr","img120":"Fab120\/fab_82712647.jpg"}]}',
 		columnsNumber: 6	};
 </script>
 
@@ -5338,13 +5238,13 @@ ga('require', 'displayfeatures');
     	}
 		
 		$.ajax({
-		    url: "/jp.php?b="+b+"&k=NGViYmBkNTsxZGxhYjc3MDFpZDthNDo7ZjVgZmAzZGYyZTAwNjU3ZmNlamNjPzQzZW1hNTcwMGM2ZGJoZ2BkNzQrYitgYjU4MTtsJ2JkN2cxYmQ_YXg6bmY4YCFgMmQmMnQwJDZvN3FjKmplYzU0Zw==&d=1&i=1553523207&e=1677530130&lip=dalweb20.forexpros.com&ti=1553523207",
+		    url: "/jp.php?b="+b+"&k=N2RmNG8xNG5kNG9nZTIxMjBiMWI3N2ViZzM1ZTtpMDowZzM0MjY2NWRiPTNmPmI9MDE1Y2NkN2ExMDM-YGVvPDcoZi9vbTQ5ZG5vJGVjMWEwYDFtNy5lMWc5NXQ7aTByMHYzJzJrNnBkLT0yZjBiMQ==&d=1&i=1553963707&e=1677530130&lip=dalweb17.forexpros.com&ti=1553963707",
 		    type: 'get',
 		    cache: false,
 		    type: 'GET',
 		    dataType: 'html',
 		    success: function (data) {
-		    	  console.log('server jp b1 dalweb20.forexpros.com');
+		    	  console.log('server jp b1 dalweb17.forexpros.com');
 		    }
 		});
     	
@@ -5473,10 +5373,10 @@ var BoxesEvents = function($,ga,disabled)
     }
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1433409695022-sb1'); });</script><script type='text/javascript'>
 	$(document).ready(function () {
-	googletag.cmd.push(function() {googletag.defineSlot('/6938/FP_CA_site/FP_CA_TNB_Instrument', [161, 40], 'div-gpt-ad-1541684394813-0').setTargeting('ad_group',Adomik.randomAdGroup()).addService(googletag.pubads());googletag.defineSlot('/6938/FP_CA_site/FP_CA_content_recommendation_widget', [[650, 500], [650, 443]], 'div-gpt-ad-1545734588042-0').setTargeting('ad_group',Adomik.randomAdGroup()).addService(googletag.pubads());googletag.defineSlot('/6938/FP_CA_site/FP_CA_TNB_Sideblock_Bottom', [300, 61], 'div-gpt-ad-1541684469808-0').setTargeting('ad_group',Adomik.randomAdGroup()).addService(googletag.pubads());googletag.defineSlot('/6938/FP_CA_site/FP_CA_Sideblock_2_Default', [300, 250], 'div-gpt-ad-1433409695022-7').setTargeting('ad_group',Adomik.randomAdGroup()).addService(googletag.pubads());
+	googletag.cmd.push(function() {googletag.defineSlot('/6938/FP_CA_site/FP_CA_TNB_Instrument', [161, 40], 'div-gpt-ad-1541684394813-0').setTargeting('ad_group',Adomik.randomAdGroup()).addService(googletag.pubads());googletag.defineSlot('/6938/FP_CA_site/FP_CA_not_Out_of_page_video_Content', [[650, 443],[650, 500]], 'div-gpt-ad-1531124357521-0').setTargeting('ad_group',Adomik.randomAdGroup()).addService(googletag.pubads());googletag.defineSlot('/6938/FP_CA_site/FP_CA_content_recommendation_widget', [[650, 500], [650, 443]], 'div-gpt-ad-1545734588042-0').setTargeting('ad_group',Adomik.randomAdGroup()).addService(googletag.pubads());googletag.defineSlot('/6938/FP_CA_site/FP_CA_TNB_Sideblock_Bottom', [300, 61], 'div-gpt-ad-1541684469808-0').setTargeting('ad_group',Adomik.randomAdGroup()).addService(googletag.pubads());googletag.defineSlot('/6938/FP_CA_site/FP_CA_Sideblock_2_Default', [300, 250], 'div-gpt-ad-1433409695022-7').setTargeting('ad_group',Adomik.randomAdGroup()).addService(googletag.pubads());
 	                googletag.enableServices();
 	            	});
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1541684394813-0'); });googletag.cmd.push(function() { googletag.display('div-gpt-ad-1545734588042-0'); });googletag.cmd.push(function() { googletag.display('div-gpt-ad-1541684469808-0'); });googletag.cmd.push(function() { googletag.display('div-gpt-ad-1433409695022-7'); });window.loadSideBlockAd3 = function () { var sb3 = googletag.defineSlot('/6938/FP_CA_site/FP_CA_Sideblock_3_viewable',  [[300, 250],[300, 600]], 'div-gpt-ad-1370187203350-sb3').setTargeting('ad_group',Adomik.randomAdGroup()).addService(googletag.pubads()); 
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1541684394813-0'); });googletag.cmd.push(function() { googletag.display('div-gpt-ad-1531124357521-0'); });googletag.cmd.push(function() { googletag.display('div-gpt-ad-1545734588042-0'); });googletag.cmd.push(function() { googletag.display('div-gpt-ad-1541684469808-0'); });googletag.cmd.push(function() { googletag.display('div-gpt-ad-1433409695022-7'); });window.loadSideBlockAd3 = function () { var sb3 = googletag.defineSlot('/6938/FP_CA_site/FP_CA_Sideblock_3_viewable',  [[300, 250],[300, 600]], 'div-gpt-ad-1370187203350-sb3').setTargeting('ad_group',Adomik.randomAdGroup()).addService(googletag.pubads()); 
 	               googletag.cmd.push(function() { 
                         if(typeof(refreshSlot)=="function"){ refreshSlot(sb3); } else{ googletag.display('div-gpt-ad-1370187203350-sb3'); }
 	               }); }});
@@ -5592,10 +5492,10 @@ var BoxesEvents = function($,ga,disabled)
 </script>
 </body>
 
-<script>var TimeZoneID = +"8";window.timezoneOffset = +"-14400";window.stream = "https://stream350.forexpros.com:443";</script><script>window.uid = 0</script><script>
+<script>var TimeZoneID = +"8";window.timezoneOffset = +"-14400";window.stream = "https://stream257.forexpros.com:443";</script><script>window.uid = 0</script><script>
 
 			$(function(){
-				$(window).trigger("socketRetry",[["pid-9483:","pid-24441:","pid-945064:","pid-8884:","pid-8839:","pid-8874:","pid-172:","pid-8827:","pid-1055949:","pid-1:","pid-2:","pid-3:","pid-5:","pid-7:","pid-9:","pid-10:","pidTechSumm-1:","pidTechSumm-2:","pidTechSumm-3:","pidTechSumm-5:","pidTechSumm-7:","pidTechSumm-9:","pidTechSumm-10:","pidExt-9483:","event-384017:","event-382830:","event-382831:","isOpenExch-1003:","isOpenExch-51:","isOpenExch-4:","isOpenExch-1004:","isOpenPair-8884:","isOpenPair-8839:","isOpenPair-8874:","isOpenPair-8827:","cmt-68-5-9483:","domain-68:"]]);
+				$(window).trigger("socketRetry",[["pid-9483:","pid-24441:","pid-945064:","pid-8884:","pid-8839:","pid-8874:","pid-172:","pid-8827:","pid-1055949:","pid-1:","pid-2:","pid-3:","pid-5:","pid-7:","pid-9:","pid-10:","pidTechSumm-1:","pidTechSumm-2:","pidTechSumm-3:","pidTechSumm-5:","pidTechSumm-7:","pidTechSumm-9:","pidTechSumm-10:","pidExt-9483:","isOpenExch-1003:","isOpenExch-51:","isOpenExch-4:","isOpenExch-1004:","isOpenPair-8884:","isOpenPair-8839:","isOpenPair-8874:","isOpenPair-8827:","cmt-68-5-9483:","domain-68:"]]);
 			});
 			</script><script>function refresher() { void (0);}</script><script>
     	var _comscore = _comscore || [];

@@ -3,6 +3,9 @@
 #Go to /home/gorkem/btcProject
 cd /home/gorkem/btcProject/
 
+#Arbitrage treshold in CAD
+TRS=2
+
 #USD/TRY on www.altinkaynak.com
 	#Get the source code from Altinkaynak and output to wholeSite file. 
 	##wget -q http://www.altinkaynak.com/ -O altinkaynak
@@ -49,6 +52,47 @@ cd /home/gorkem/btcProject/
 	RATE=`(calc $BTCTRY/$CADTRY | head -c 8 | cut -d "~" -f 2 | cut -d "." -f 1)`
 	echo "BTC is $RATE CAD on btcturk"
 
-#Difference between RATE and BTCCAD
+#Takes the difference between RATE and BTCCAD and stores it
 	DFR=`(calc $RATE-$BTCCAD | sed 's/ //g')`
-	echo "btcturk.com-mybtc.ca=$DFR CAD"
+	echo "btcturk.com-mybtc.ca =$DFR CAD ------ `date +%H:%M\ -\ %d/%m/%y`" | tee -a historicalDifference | tee diff.txt
+
+#ssmtp job
+	#Compares the ABSOLUTE Value of DFR to Treshold
+	if [ ${DFR#-} -gt $TRS ]
+	then
+		printf "From: Arbitrage Alert! \nSubject:BUYSELLNOW\n\n" > message
+		cat diff.txt >> message		
+		ssmtp gorkememir@gmail.com < message -v
+	fi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

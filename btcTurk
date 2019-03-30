@@ -28,7 +28,7 @@
     <meta name="DC.creator" content="BtcTurk" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0,  user-scalable=no" />
     <meta name="apple-itunes-app" content="app-id=922611096" />
-    <link href="/Content/Style/BTCTurkStyleBundle?v=hIIkxni6ibXAq_rAFERU1ypQ3QMKvdXvcU8PwbcaC1s1" rel="stylesheet"/>
+    <link href="/Content/Style/BTCTurkStyleBundle?v=dO7BqWHJOCEFpmgkKuRxTzZYeOZm84eHE3v32tGPmhE1" rel="stylesheet"/>
 
     <title lang="tr-TR">Kripto Para Alım Satım Platformu | BtcTurk.com</title>
     <link rel="stylesheet" href="/Content/Style/bootstrap.min.css">
@@ -118,7 +118,7 @@
             }
     </style>
 </head>
-<body x-ms-format-detection="none" class="BTC">  
+<body x-ms-format-detection="none" class="BTC">
     <!-- Body Content -->
     <div id="body-content">
         <!-- Header -->
@@ -192,7 +192,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-<form action="/account/register" autocomplete="off" id="form-register" method="post"><input name="__RequestVerificationToken" type="hidden" value="9qntXHGbzGGV4n9GoOxSSWqckDrwyoGSetmz-vM6tk8eqsFQEw1aJG3yYmUtHLNSBIKjzcXzSEBg0oNO4-q1c9pc_NM1" /><input id="regValue" name="regValue" type="hidden" value="xXx" />                            <div class="register">
+<form action="/account/register" autocomplete="off" id="form-register" method="post"><input name="__RequestVerificationToken" type="hidden" value="wcBFi9v7O2MnbcNsy5XX-DpwbwKXqID16SUUm3KLfF8tM_wlElDq27fi4tbIz1IpMtIiBJMgvfyEohWDGrDMKOKe5wc1" /><input id="regValue" name="regValue" type="hidden" value="xXx" />                            <div class="register">
                                 <h2 class="title">&#220;CRETSİZ HESAP OLUŞTURUN</h2>
                                 <form id="quickRegister">
                                     <ul class="form">
@@ -274,41 +274,41 @@
                     <div class="container">
                         <div class="row">
 <div class="index-list" id="indexPairList">
-    
-        <div class="list-item" data-symbol="BTCTRY" pairPrice="22390">
+
+        <div class="list-item" data-symbol="BTCTRY" pairPrice="22886">
             <i class="currency-logo"></i>
             <label>BTC/TRY</label>
-            <output>22.390,00</output>
+            <output>22.886,00</output>
         </div>
-        <div class="list-item" data-symbol="BTCUSDT" pairPrice="3965">
+        <div class="list-item" data-symbol="BTCUSDT" pairPrice="4110">
             <i class="currency-logo"></i>
             <label>BTC/USDT</label>
-            <output>3.965,00</output>
+            <output>4.110,00</output>
         </div>
-        <div class="list-item" data-symbol="ETHTRY" pairPrice="764">
+        <div class="list-item" data-symbol="ETHTRY" pairPrice="789">
             <i class="currency-logo"></i>
             <label>ETH/TRY</label>
-            <output>764,00</output>
+            <output>789,00</output>
         </div>
-        <div class="list-item" data-symbol="LTCTRY" pairPrice="335.46">
+        <div class="list-item" data-symbol="LTCTRY" pairPrice="337">
             <i class="currency-logo"></i>
             <label>LTC/TRY</label>
-            <output>335,46</output>
+            <output>337,00</output>
         </div>
-        <div class="list-item" data-symbol="XRPTRY" pairPrice="1.73">
+        <div class="list-item" data-symbol="XRPTRY" pairPrice="1.74">
             <i class="currency-logo"></i>
             <label>XRP/TRY</label>
-            <output>1,73</output>
+            <output>1,74</output>
         </div>
-        <div class="list-item" data-symbol="XLMTRY" pairPrice="0.58">
+        <div class="list-item" data-symbol="XLMTRY" pairPrice="0.5996">
             <i class="currency-logo"></i>
             <label>XLM/TRY</label>
-            <output>0,58</output>
+            <output>0.5996</output>
         </div>
-        <div class="list-item" data-symbol="USDTTRY" pairPrice="5.64">
+        <div class="list-item" data-symbol="USDTTRY" pairPrice="5.58">
             <i class="currency-logo"></i>
             <label>USDT/TRY</label>
-            <output>5,64</output>
+            <output>5,58</output>
         </div>
 </div>
 
@@ -329,27 +329,27 @@
                 <div class="container">
                     <ul id='tmpl-market-inject' class="price-table">
     <li>
-        <output>22.456,00 <sup>TRY</sup></output>
+        <output>22.886,00 <sup>TRY</sup></output>
         <label>G&#252;ncel Fiyat</label>
     </li>
     <li>
-        <output>-479,00 <sup>TRY</sup></output>
-        <label>24s. Değişim<i class="arrow"><span style='color: #e83e3f' class='icon-up reverse'></span></i>%-2.09</label>
+        <output>-30,00 <sup>TRY</sup></output>
+        <label>24s. Değişim<i class="arrow"><span style='color: #e83e3f' class='icon-up reverse'></span></i>%-0.13</label>
     </li>
     <li>
-        <output>22.999,00 <sup>TRY</sup></output>
+        <output>23.110,00 <sup>TRY</sup></output>
         <label>24s. En Y&#252;ksek Fiyat</label>
     </li>
     <li>
-        <output>22.220,00 <sup>TRY</sup></output>
+        <output>22.824,00 <sup>TRY</sup></output>
         <label>24s. En D&#252;ş&#252;k Fiyat</label>
     </li>
     <li>
-        <output>22.641,72 <sup>TRY</sup></output>
+        <output>22.971,61 <sup>TRY</sup></output>
         <label>24s. Ortalama Fiyat</label>
     </li>
     <li>
-        <output>345.755643 <sup>BTC</sup></output>
+        <output>245.148697 <sup>BTC</sup></output>
         <label>24s. Hacim</label>
     </li>
 </ul>
@@ -486,7 +486,8 @@
                                 <div class="channel-list">
                                     <label class="caption">Kanallar</label>
                                     <span class="logo akbank"></span>
-                                    <span class="logo papara"></span>
+                                    <span class="logo papara"></span><br />
+                                    <span class="logo vakifbank"></span>
                                 </div>
                             </li>
                             <li>
@@ -603,7 +604,7 @@ Nispetiye Cad. Akmerkez E3 Kulesi Kat: 9 34340 Etiler - Beşiktaş/İstanbul | M
     <script src="/Broker.UIFramework/Embedded/globalizetr?v=HZDPtmfg9VsOwr9XTglikOKDyAGHni8m_i5IcJep-o81"></script>
 
     <script type="text/javascript">Globalize.culture('en-Gb');</script>
-    <script src="/Broker.UIFramework/Embedded/Functions?v=VK4kSh0UWOzWGwNPCg_8oOA2mPWtJCkyBq5vWqhWkeo1"></script>
+    <script src="/Broker.UIFramework/Embedded/Functions?v=TlzfVwo0X830siDAgRV047ABfyCtNfmbmqHfoSHy3Us1"></script>
 
     <script src="/Broker.UIFramework/Embedded/Scripts?v=Y1Gpp-VJ6Z__xo3M6ZNit137vaTnErv1QD4Qe0gHym81"></script>
 
@@ -720,18 +721,5 @@ Nispetiye Cad. Akmerkez E3 Kulesi Kat: 9 34340 Etiler - Beşiktaş/İstanbul | M
             });
         });
     </script>
-    <!-- Twitter universal website tag code -->
-    <script>
-        !function (e, t, n, s, u, a) {
-        e.twq || (s = e.twq = function () {
-            s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
-        }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src = '//static.ads-twitter.com/uwt.js',
-            a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
-        }(window, document, 'script');
-        // Insert Twitter Pixel ID and Standard Event data below
-        twq('init', 'o0xax');
-        twq('track', 'PageView');
-    </script>
-    <!-- End Twitter universal website tag code -->
 </body>
 </html>
