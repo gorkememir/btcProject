@@ -4,7 +4,7 @@
 cd ~/btcProject/
 
 #Arbitrage treshold in CAD
-TRS=2
+TRS=100
 
 #USD/TRY on www.altinkaynak.com
 	#Get the source code from Altinkaynak and output to wholeSite file. 
@@ -61,7 +61,11 @@ TRS=2
 	if [ ${DFR#-} -gt $TRS ]
 	then
 		printf "From: Arbitrage Alert! \nSubject:BUYSELLNOW\n\n" > message
-		cat diff.txt >> message		
+		echo "BTC is $BTCTRY TRY (btcturk)" >> message
+		echo "BTC is $BTCCAD CAD (mybtc.ca)" >> message
+		echo "CAD is $CADTRY TRY (investing.ca)" >> message
+		echo "BTC is $RATE CAD on btcturk" >> message
+		cat diff.txt >> message
 		ssmtp gorkememir@gmail.com < message -v
 	fi
 
