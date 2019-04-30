@@ -9,7 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <meta name="csrf-token" content="mxS1WjfoWIm4lFgu3MJ4dmBPSnZqaXmGGjL72s5t">
+        <meta name="csrf-token" content="fl6nIlD8uiM2xR8IOc4MQPwjdfrKT2U3sxiaJvSH">
 
         <title>Save Money & Buy BTC in Canada with Bank Wire | MyBTC.ca</title>
         <meta name="description" content="Buy Bitcoin with Bank Wire from any Canadian bank.  All Canadian banks and credit unions accepted.">
@@ -143,7 +143,7 @@
 
                     
                     <form method="post" id="buy-form" class="form">
-                        <input type="hidden" name="_token" value="mxS1WjfoWIm4lFgu3MJ4dmBPSnZqaXmGGjL72s5t">
+                        <input type="hidden" name="_token" value="fl6nIlD8uiM2xR8IOc4MQPwjdfrKT2U3sxiaJvSH">
 
                         <div class="row">
                             <div class="form-group col-md-3 col-xs-12">
@@ -222,7 +222,7 @@
 <div class="call-to-action call-to-action-ticker centered mb30">
     <div class="cta-txt">
         <h2>Live Rate</h2>
-        <h2 id="ticker">$<span>7,097.43</span> CAD</h2>
+        <h2 id="ticker">$<span>7,132.71</span> CAD</h2>
     </div>
 </div>
                 
@@ -341,7 +341,7 @@
         <li><p><u>Email Communication</u>.  By using the Services, You agree that MyBTC.ca will send You email to confirm transactions and otherwise administer the Services. You will also receive promotional emails from MyBTC.ca to the email address You provided, in accordance with anti-spam laws, unless You opt out of such email marketing.</p></li>
         <li><p><u>General</u>. These Terms of Use, together with any privacy policy that may be published on the Website, constitutes the entire agreement between the parties relating to the Website and Services and all related activities. These Terms of Use shall not be modified except in writing signed by both parties or by a new posting of these Terms of Use issued by MyBTC.ca. If any part of these Terms of Use is held to be unlawful, void, or unenforceable, that part shall be deemed severed and shall not affect the validity and enforceability of the remaining provisions. The failure of MyBTC.ca to exercise or enforce any right or provision under these Terms of Use shall not constitute a waiver of such right or provision. Any waiver of any right or provision by MyBTC.ca must be in writing and shall only apply to the specific instance identified in such writing. You may not assign the Terms of Use, or any rights or licenses granted hereunder, whether voluntarily, by operation of law, or otherwise without MyBTC.ca's prior written consent. These Terms of Use are governed by the laws of the Province of Ontario and the laws of Canada applicable therein, without regard to its conflicts of laws provisions. The parties hereby agree to attorn to the exclusive jurisdiction of the Courts of the Province of Ontario.</p></li>
         <li><p><u>English Language</u>. It is the express wish of the parties that these Terms and all related documents be drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.</p></li>
-        <li><p><u>Contact</u>. If You have any questions about these Terms or if You wish to make any complaint or claim with respect to the MyBTC.ca Website or Service, please contact Us at: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3b5a5f5652557b5642594f5815585a">[email&#160;protected]</a></p></li>
+        <li><p><u>Contact</u>. If You have any questions about these Terms or if You wish to make any complaint or claim with respect to the MyBTC.ca Website or Service, please contact Us at: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1677727b7f78567b6f746275387577">[email&#160;protected]</a></p></li>
     </ol>
 </div>            </div>
             <div class="modal-footer">
@@ -396,7 +396,7 @@
             <script type="text/javascript">
         var fee     = 4.75,
             min_fee = 0,
-            rate    = 7097.43,
+            rate    = 7132.71,
             limits  = { min: 7500, max: 100000 };
     </script>
     </body>

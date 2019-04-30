@@ -200,7 +200,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-<form action="/account/register" autocomplete="off" id="form-register" method="post"><input name="__RequestVerificationToken" type="hidden" value="UpYKQZf33Ln2mAG6c0_od19GhpAJQowrVqXzkYgWEYxHKGEFUQfI18awaMmpF1H9J1C2_BG1xkrXadVbVXfU2xXfXQo1" /><input id="regValue" name="regValue" type="hidden" value="xXx" />                            <div class="register">
+<form action="/account/register" autocomplete="off" id="form-register" method="post"><input name="__RequestVerificationToken" type="hidden" value="4dnpSLXezDW0mtmR6fVdXIYjKq6X7oB2vcBt5haOSnwlxbmeL0wWZTGrEiy9_2VmRwRv_lz5K5swjVkYM1JWjZvJdSc1" /><input id="regValue" name="regValue" type="hidden" value="xXx" />                            <div class="register">
                                 <h2 class="title">&#220;CRETSİZ HESAP OLUŞTURUN</h2>
                                 <form id="quickRegister">
                                     <ul class="form">
@@ -283,40 +283,40 @@
                         <div class="row">
 <div class="index-list" id="indexPairList">
 
-        <div class="list-item" data-symbol="BTCTRY" pairPrice="31465">
+        <div class="list-item" data-symbol="BTCTRY" pairPrice="31456">
             <i class="currency-logo"></i>
             <label>BTC/TRY</label>
-            <output>31.465,00</output>
+            <output>31.456,00</output>
         </div>
         <div class="list-item" data-symbol="BTCUSDT" pairPrice="5286">
             <i class="currency-logo"></i>
             <label>BTC/USDT</label>
             <output>5.286,00</output>
         </div>
-        <div class="list-item" data-symbol="ETHTRY" pairPrice="943">
+        <div class="list-item" data-symbol="ETHTRY" pairPrice="951">
             <i class="currency-logo"></i>
             <label>ETH/TRY</label>
-            <output>943,00</output>
+            <output>951,00</output>
         </div>
-        <div class="list-item" data-symbol="LTCTRY" pairPrice="436.7">
+        <div class="list-item" data-symbol="LTCTRY" pairPrice="436.88">
             <i class="currency-logo"></i>
             <label>LTC/TRY</label>
-            <output>436,70</output>
+            <output>436,88</output>
         </div>
         <div class="list-item" data-symbol="XRPTRY" pairPrice="1.82">
             <i class="currency-logo"></i>
             <label>XRP/TRY</label>
             <output>1,82</output>
         </div>
-        <div class="list-item" data-symbol="XLMTRY" pairPrice="0.5908">
+        <div class="list-item" data-symbol="XLMTRY" pairPrice="0.591">
             <i class="currency-logo"></i>
             <label>XLM/TRY</label>
-            <output>0.5908</output>
+            <output>0.5910</output>
         </div>
-        <div class="list-item" data-symbol="USDTTRY" pairPrice="5.9">
+        <div class="list-item" data-symbol="USDTTRY" pairPrice="5.89">
             <i class="currency-logo"></i>
             <label>USDT/TRY</label>
-            <output>5,90</output>
+            <output>5,89</output>
         </div>
 </div>
 
@@ -337,15 +337,15 @@
                 <div class="container">
                     <ul id='tmpl-market-inject' class="price-table">
     <li>
-        <output>31.465,00 <sup>TRY</sup></output>
+        <output>31.456,00 <sup>TRY</sup></output>
         <label>G&#252;ncel Fiyat</label>
     </li>
     <li>
-        <output>747,00 <sup>TRY</sup></output>
-        <label>24s. Değişim<i class="arrow"><span style='color: #76b900' class='icon-up'></span></i>%2.43</label>
+        <output>699,00 <sup>TRY</sup></output>
+        <label>24s. Değişim<i class="arrow"><span style='color: #76b900' class='icon-up'></span></i>%2.27</label>
     </li>
     <li>
-        <output>31.500,00 <sup>TRY</sup></output>
+        <output>31.629,00 <sup>TRY</sup></output>
         <label>24s. En Y&#252;ksek Fiyat</label>
     </li>
     <li>
@@ -353,11 +353,11 @@
         <label>24s. En D&#252;ş&#252;k Fiyat</label>
     </li>
     <li>
-        <output>31.067,56 <sup>TRY</sup></output>
+        <output>31.107,03 <sup>TRY</sup></output>
         <label>24s. Ortalama Fiyat</label>
     </li>
     <li>
-        <output>215.16578725 <sup>BTC</sup></output>
+        <output>227.55874209 <sup>BTC</sup></output>
         <label>24s. Hacim</label>
     </li>
 </ul>
