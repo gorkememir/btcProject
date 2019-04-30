@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILENAME="/home/ubuntu/btcProj/historicalDifference"
+FILENAME="/home/ubuntu/btcProject/historicalDifference"
 FILESIZE=$(stat -c%s "$FILENAME")
 
 echo "File size of $FILENAME is: $FILESIZE bytes"
