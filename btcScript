@@ -4,7 +4,7 @@
 cd ~/btcProject/
 
 #Arbitrage treshold in CAD
-TRS=100
+TRS=150
 
 #USD/TRY on www.altinkaynak.com
 	#Get the source code from Altinkaynak and output to wholeSite file. 
@@ -53,12 +53,18 @@ TRS=100
 	echo "BTC is $RATE CAD on btcturk"
 
 #Takes the difference between RATE and BTCCAD and stores it
-	DFR=`(calc $RATE-$BTCCAD | sed 's/ //g')`
-	echo "btcturk.com-mybtc.ca =$DFR CAD ------ `date +%H:%M\ -\ %d/%m/%y`" | tee -a historicalDifference | tee diff.txt
+	if [ $RATE -gt $BTCCAD ]
+	then
+		DFR=`(calc $RATE-$BTCCAD | sed 's/ //g')`
+		echo "btcturk.com-mybtc.ca =$DFR CAD ------ `date +%H:%M\ -\ %d/%m/%y`" | tee -a historicalDifference | tee diff.txt
+	else
+		DFR=`(calc $BTCCAD-$RATE | sed 's/ //g')`
+		echo "mybtc.ca-btcturk.ca =$DFR CAD ------ `date +%H:%M\ -\ %d/%m/%y`" | tee -a historicalDifference | tee diff.txt
+	fi
 
 #ssmtp job
 	#Compares the ABSOLUTE Value of DFR to Treshold
-	if [ ${DFR#-} -gt $TRS ]
+	if [ $DFR -gt $TRS ]
 	then
 		printf "From: Arbitrage Alert! \nSubject:BUYSELLNOW\n\n" > message
 		echo "BTC is $BTCTRY TRY (btcturk)" >> message
@@ -68,35 +74,3 @@ TRS=100
 		cat diff.txt >> message
 		ssmtp gorkememir@gmail.com < message -v
 	fi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

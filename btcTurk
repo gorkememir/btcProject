@@ -28,7 +28,7 @@
     <meta name="DC.creator" content="BtcTurk" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0,  user-scalable=no" />
     <meta name="apple-itunes-app" content="app-id=922611096" />
-    <link href="/Content/Style/BTCTurkStyleBundle?v=dO7BqWHJOCEFpmgkKuRxTzZYeOZm84eHE3v32tGPmhE1" rel="stylesheet"/>
+    <link href="/Content/Style/BTCTurkStyleBundle?v=KZ9lCkDFwT_RLNru5zXanBiBmNwG5YJSgeSwuYBevQ81" rel="stylesheet"/>
 
     <title lang="tr-TR">Kripto Para Alım Satım Platformu | BtcTurk.com</title>
     <link rel="stylesheet" href="/Content/Style/bootstrap.min.css">
@@ -124,6 +124,14 @@
         <!-- Header -->
         <header class="header">
             <div class="fixed">
+                <!-- New Site Alert -->
+                <div id="new-site-alert" class="alert alert-notify">
+                    <div class="container">
+                        <a href="javascript:void(0);" class="close">&times;</a>
+                        <b>BtcTurk Pro Beta</b> açıldı. Yeni sitemizi deneyimlemek için <a class="link" href="https://pro.btcturk.com" target="_blank">tıklayın</a>.
+                    </div>
+                </div>
+                <!-- Main Menu -->
                 <div class="container">
                     <div class="row">
                         <nav class="navbar navbar-default">
@@ -192,7 +200,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-<form action="/account/register" autocomplete="off" id="form-register" method="post"><input name="__RequestVerificationToken" type="hidden" value="wcBFi9v7O2MnbcNsy5XX-DpwbwKXqID16SUUm3KLfF8tM_wlElDq27fi4tbIz1IpMtIiBJMgvfyEohWDGrDMKOKe5wc1" /><input id="regValue" name="regValue" type="hidden" value="xXx" />                            <div class="register">
+<form action="/account/register" autocomplete="off" id="form-register" method="post"><input name="__RequestVerificationToken" type="hidden" value="UpYKQZf33Ln2mAG6c0_od19GhpAJQowrVqXzkYgWEYxHKGEFUQfI18awaMmpF1H9J1C2_BG1xkrXadVbVXfU2xXfXQo1" /><input id="regValue" name="regValue" type="hidden" value="xXx" />                            <div class="register">
                                 <h2 class="title">&#220;CRETSİZ HESAP OLUŞTURUN</h2>
                                 <form id="quickRegister">
                                     <ul class="form">
@@ -275,40 +283,40 @@
                         <div class="row">
 <div class="index-list" id="indexPairList">
 
-        <div class="list-item" data-symbol="BTCTRY" pairPrice="22886">
+        <div class="list-item" data-symbol="BTCTRY" pairPrice="31465">
             <i class="currency-logo"></i>
             <label>BTC/TRY</label>
-            <output>22.886,00</output>
+            <output>31.465,00</output>
         </div>
-        <div class="list-item" data-symbol="BTCUSDT" pairPrice="4110">
+        <div class="list-item" data-symbol="BTCUSDT" pairPrice="5286">
             <i class="currency-logo"></i>
             <label>BTC/USDT</label>
-            <output>4.110,00</output>
+            <output>5.286,00</output>
         </div>
-        <div class="list-item" data-symbol="ETHTRY" pairPrice="789">
+        <div class="list-item" data-symbol="ETHTRY" pairPrice="943">
             <i class="currency-logo"></i>
             <label>ETH/TRY</label>
-            <output>789,00</output>
+            <output>943,00</output>
         </div>
-        <div class="list-item" data-symbol="LTCTRY" pairPrice="337">
+        <div class="list-item" data-symbol="LTCTRY" pairPrice="436.7">
             <i class="currency-logo"></i>
             <label>LTC/TRY</label>
-            <output>337,00</output>
+            <output>436,70</output>
         </div>
-        <div class="list-item" data-symbol="XRPTRY" pairPrice="1.74">
+        <div class="list-item" data-symbol="XRPTRY" pairPrice="1.82">
             <i class="currency-logo"></i>
             <label>XRP/TRY</label>
-            <output>1,74</output>
+            <output>1,82</output>
         </div>
-        <div class="list-item" data-symbol="XLMTRY" pairPrice="0.5996">
+        <div class="list-item" data-symbol="XLMTRY" pairPrice="0.5908">
             <i class="currency-logo"></i>
             <label>XLM/TRY</label>
-            <output>0.5996</output>
+            <output>0.5908</output>
         </div>
-        <div class="list-item" data-symbol="USDTTRY" pairPrice="5.58">
+        <div class="list-item" data-symbol="USDTTRY" pairPrice="5.9">
             <i class="currency-logo"></i>
             <label>USDT/TRY</label>
-            <output>5,58</output>
+            <output>5,90</output>
         </div>
 </div>
 
@@ -329,27 +337,27 @@
                 <div class="container">
                     <ul id='tmpl-market-inject' class="price-table">
     <li>
-        <output>22.886,00 <sup>TRY</sup></output>
+        <output>31.465,00 <sup>TRY</sup></output>
         <label>G&#252;ncel Fiyat</label>
     </li>
     <li>
-        <output>-30,00 <sup>TRY</sup></output>
-        <label>24s. Değişim<i class="arrow"><span style='color: #e83e3f' class='icon-up reverse'></span></i>%-0.13</label>
+        <output>747,00 <sup>TRY</sup></output>
+        <label>24s. Değişim<i class="arrow"><span style='color: #76b900' class='icon-up'></span></i>%2.43</label>
     </li>
     <li>
-        <output>23.110,00 <sup>TRY</sup></output>
+        <output>31.500,00 <sup>TRY</sup></output>
         <label>24s. En Y&#252;ksek Fiyat</label>
     </li>
     <li>
-        <output>22.824,00 <sup>TRY</sup></output>
+        <output>30.502,00 <sup>TRY</sup></output>
         <label>24s. En D&#252;ş&#252;k Fiyat</label>
     </li>
     <li>
-        <output>22.971,61 <sup>TRY</sup></output>
+        <output>31.067,56 <sup>TRY</sup></output>
         <label>24s. Ortalama Fiyat</label>
     </li>
     <li>
-        <output>245.148697 <sup>BTC</sup></output>
+        <output>215.16578725 <sup>BTC</sup></output>
         <label>24s. Hacim</label>
     </li>
 </ul>
