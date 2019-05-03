@@ -9,7 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <meta name="csrf-token" content="fl6nIlD8uiM2xR8IOc4MQPwjdfrKT2U3sxiaJvSH">
+        <meta name="csrf-token" content="17jH820ZV2aF6I51fjHMDXW1NWFb34sL4VL7h3O3">
 
         <title>Save Money & Buy BTC in Canada with Bank Wire | MyBTC.ca</title>
         <meta name="description" content="Buy Bitcoin with Bank Wire from any Canadian bank.  All Canadian banks and credit unions accepted.">
@@ -38,21 +38,21 @@
         <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css">
         <link href="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css" rel="stylesheet" type="text/css">
 
-        <link href="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/css/theme.css" rel="stylesheet">
-        <link href="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/css/theme-elements.css" rel="stylesheet">
-        <link href="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/css/animate.min.css" rel="stylesheet">
-        <link href="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/css/red.css" rel="stylesheet">
-        <link href="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/css/custom.css" rel="stylesheet">
+        <link href="/37d3032fce965b0a8be1d6f780471b0b/assets/css/theme.css" rel="stylesheet">
+        <link href="/37d3032fce965b0a8be1d6f780471b0b/assets/css/theme-elements.css" rel="stylesheet">
+        <link href="/37d3032fce965b0a8be1d6f780471b0b/assets/css/animate.min.css" rel="stylesheet">
+        <link href="/37d3032fce965b0a8be1d6f780471b0b/assets/css/red.css" rel="stylesheet">
+        <link href="/37d3032fce965b0a8be1d6f780471b0b/assets/css/custom.css" rel="stylesheet">
 
-        <script src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/js/modernizr.js"></script>
+        <script src="/37d3032fce965b0a8be1d6f780471b0b/assets/js/modernizr.js"></script>
 
         <!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <script src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/js/respond.min.js"></script>
+        <script src="/37d3032fce965b0a8be1d6f780471b0b/assets/js/respond.min.js"></script>
         <![endif]-->
 
         <!--[if IE]>
-        <link rel="stylesheet" href="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/css/ie.css">
+        <link rel="stylesheet" href="/37d3032fce965b0a8be1d6f780471b0b/assets/css/ie.css">
         <![endif]-->
 
             </head>
@@ -71,7 +71,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <div class="logo">
-                    <a href="https://mybtc.ca"><img src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/images/logo.png" alt="MyBTC Buy Canadian Bitcoin" /></a>
+                    <a href="https://mybtc.ca"><img src="/37d3032fce965b0a8be1d6f780471b0b/assets/images/logo.png" alt="MyBTC Buy Canadian Bitcoin" /></a>
                     <p class="tagline">Fastest Way to Buy Bitcoin in Canada</p>
                 </div>
             </div>
@@ -87,35 +87,35 @@
                                 <div class="row">
                                     <div class="col-sm-3">
                                         <h3 class="title">Interac e-Transfer</h3>
-                                        <a href="/buy-bitcoin-with-interac-e-transfer-canada"><img src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/images/etransfer.png" alt="Bitcoin to Canadian with Interac e-Transfer" /></a>
+                                        <a href="/buy-bitcoin-with-interac-e-transfer-canada"><img src="/37d3032fce965b0a8be1d6f780471b0b/assets/images/etransfer.png" alt="Bitcoin to Canadian with Interac e-Transfer" /></a>
                                     </div>
                                     <div class="col-sm-3">
                                         <h3 class="title">Bank Wire</h3>
-                                        <a href="/buy-bitcoin-with-bank-wire-canada"><img src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/images/bankwire.png" alt="Buy Bitcoin cheap with Bank Wire" /></a>
+                                        <a href="/buy-bitcoin-with-bank-wire-canada"><img src="/37d3032fce965b0a8be1d6f780471b0b/assets/images/bankwire.png" alt="Buy Bitcoin cheap with Bank Wire" /></a>
                                     </div>
                                     <div class="col-sm-3">
                                         <h3 class="title">Cash or Debit</h3>
-                                        <a href="/buy-bitcoin-in-person-canada"><img src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/images/in-person.png" alt="Buy bitcoin quick with cash or Interac debit card" /></a>
+                                        <a href="/buy-bitcoin-in-person-canada"><img src="/37d3032fce965b0a8be1d6f780471b0b/assets/images/in-person.png" alt="Buy bitcoin quick with cash or Interac debit card" /></a>
                                     </div>
                                     <div class="col-sm-3">
                                         <h3 class="title">Flexepin Vouchers</h3>
-                                        <a href="/buy-bitcoin-with-flexepin-canada"><img src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/images/flexepin.png" alt="Bitcoin with Flexepin" /></a>
+                                        <a href="/buy-bitcoin-with-flexepin-canada"><img src="/37d3032fce965b0a8be1d6f780471b0b/assets/images/flexepin.png" alt="Bitcoin with Flexepin" /></a>
                                     </div>
                                 </div>
                             </li>
                         </ul>
                     </li>
                     <li class="dropdown hidden-lg hidden-md hidden-sm">
-                        <a href="/buy-bitcoin-with-interac-e-transfer-canada">Buy Bitcoin with Interac e-Transfer<div class="pull-right"><img src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/images/etransfer_icon.png" alt="Interac e-Transfer BTC" /></div></a>
+                        <a href="/buy-bitcoin-with-interac-e-transfer-canada">Buy Bitcoin with Interac e-Transfer<div class="pull-right"><img src="/37d3032fce965b0a8be1d6f780471b0b/assets/images/etransfer_icon.png" alt="Interac e-Transfer BTC" /></div></a>
                     </li>
                     <li class="dropdown hidden-lg hidden-md hidden-sm">
-                        <a href="/buy-bitcoin-with-bank-wire-canada">Buy Bitcoin with Bank Wire<div class="pull-right"><img src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/images/bankwire_icon.png" alt="Canadian Bank Wire btc" /></div></a>
+                        <a href="/buy-bitcoin-with-bank-wire-canada">Buy Bitcoin with Bank Wire<div class="pull-right"><img src="/37d3032fce965b0a8be1d6f780471b0b/assets/images/bankwire_icon.png" alt="Canadian Bank Wire btc" /></div></a>
                     </li>
                     <li class="dropdown hidden-lg hidden-md hidden-sm">
-                        <a href="/buy-bitcoin-in-person-canada">Buy Bitcoin with Cash or Debit<div class="pull-right"><img src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/images/in-person_icon.png" alt="Buy bitcoin quick with cash or Interac debit card" /></div></a>
+                        <a href="/buy-bitcoin-in-person-canada">Buy Bitcoin with Cash or Debit<div class="pull-right"><img src="/37d3032fce965b0a8be1d6f780471b0b/assets/images/in-person_icon.png" alt="Buy bitcoin quick with cash or Interac debit card" /></div></a>
                     </li>
                     <li class="dropdown hidden-lg hidden-md hidden-sm">
-                        <a href="/buy-bitcoin-with-flexepin-canada">Buy Bitcoin with Flexepin<div class="pull-right"><img src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/images/flexepin_icon.png" alt="btc to Canadian with Flexepin" /></div></a>
+                        <a href="/buy-bitcoin-with-flexepin-canada">Buy Bitcoin with Flexepin<div class="pull-right"><img src="/37d3032fce965b0a8be1d6f780471b0b/assets/images/flexepin_icon.png" alt="btc to Canadian with Flexepin" /></div></a>
                     </li>
                     <li><a href="https://mybtc.ca/faq">FAQ</a></li>
                     <li><a href="https://mybtc.ca/contact">Contact</a></li>
@@ -134,7 +134,7 @@
         <div class="row">
             <div class="col-md-9">
                 <div class="box">
-                                                        <div class="pull-right"><img src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/images/bankwire.png" /></div>
+                                                        <div class="pull-right"><img src="/37d3032fce965b0a8be1d6f780471b0b/assets/images/bankwire.png" /></div>
                     <h1>Buy Bitcoin with Bank Wire</h1>
 
                     <p>Please enter the exact amount of Bitcoin you want to buy, or the dollar amount that you would like processed from your account balance, along with other required details. After pressing "Text Me" and entering your mobile PIN you'll be able to "Checkout", locking-in the live rate. If your account doesn't have a balance, the next page will provide instructions on how to fund it with Bank Wire.</p>
@@ -143,7 +143,7 @@
 
                     
                     <form method="post" id="buy-form" class="form">
-                        <input type="hidden" name="_token" value="fl6nIlD8uiM2xR8IOc4MQPwjdfrKT2U3sxiaJvSH">
+                        <input type="hidden" name="_token" value="17jH820ZV2aF6I51fjHMDXW1NWFb34sL4VL7h3O3">
 
                         <div class="row">
                             <div class="form-group col-md-3 col-xs-12">
@@ -194,7 +194,7 @@
                                                         </div>
 
                             <div class="form-group col-md-2 col-xs-6">
-                                <label for="code" class="control-label">SMS PIN <span class="required">*</span><img src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/images/info.png" data-toggle="popover" data-placement="right" title="What's a SMS PIN?" data-content="A SMS PIN is a code sent via text to your mobile phone after you enter your number and press the 'TEXT ME' button in green." /></label>
+                                <label for="code" class="control-label">SMS PIN <span class="required">*</span><img src="/37d3032fce965b0a8be1d6f780471b0b/assets/images/info.png" data-toggle="popover" data-placement="right" title="What's a SMS PIN?" data-content="A SMS PIN is a code sent via text to your mobile phone after you enter your number and press the 'TEXT ME' button in green." /></label>
                                 <input type="text" name="code" id="code" class="form-control" value="" />
                             </div>
                         </div>
@@ -222,7 +222,7 @@
 <div class="call-to-action call-to-action-ticker centered mb30">
     <div class="cta-txt">
         <h2>Live Rate</h2>
-        <h2 id="ticker">$<span>7,132.71</span> CAD</h2>
+        <h2 id="ticker">$<span>7,704.98</span> CAD</h2>
     </div>
 </div>
                 
@@ -341,7 +341,7 @@
         <li><p><u>Email Communication</u>.  By using the Services, You agree that MyBTC.ca will send You email to confirm transactions and otherwise administer the Services. You will also receive promotional emails from MyBTC.ca to the email address You provided, in accordance with anti-spam laws, unless You opt out of such email marketing.</p></li>
         <li><p><u>General</u>. These Terms of Use, together with any privacy policy that may be published on the Website, constitutes the entire agreement between the parties relating to the Website and Services and all related activities. These Terms of Use shall not be modified except in writing signed by both parties or by a new posting of these Terms of Use issued by MyBTC.ca. If any part of these Terms of Use is held to be unlawful, void, or unenforceable, that part shall be deemed severed and shall not affect the validity and enforceability of the remaining provisions. The failure of MyBTC.ca to exercise or enforce any right or provision under these Terms of Use shall not constitute a waiver of such right or provision. Any waiver of any right or provision by MyBTC.ca must be in writing and shall only apply to the specific instance identified in such writing. You may not assign the Terms of Use, or any rights or licenses granted hereunder, whether voluntarily, by operation of law, or otherwise without MyBTC.ca's prior written consent. These Terms of Use are governed by the laws of the Province of Ontario and the laws of Canada applicable therein, without regard to its conflicts of laws provisions. The parties hereby agree to attorn to the exclusive jurisdiction of the Courts of the Province of Ontario.</p></li>
         <li><p><u>English Language</u>. It is the express wish of the parties that these Terms and all related documents be drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.</p></li>
-        <li><p><u>Contact</u>. If You have any questions about these Terms or if You wish to make any complaint or claim with respect to the MyBTC.ca Website or Service, please contact Us at: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1677727b7f78567b6f746275387577">[email&#160;protected]</a></p></li>
+        <li><p><u>Contact</u>. If You have any questions about these Terms or if You wish to make any complaint or claim with respect to the MyBTC.ca Website or Service, please contact Us at: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2f4e4b4246416f42564d5b4c014c4e">[email&#160;protected]</a></p></li>
     </ol>
 </div>            </div>
             <div class="modal-footer">
@@ -384,19 +384,20 @@
         <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
         <script src="//cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-        <script src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/js/jquery.noty.packaged.min.js"></script>
-        <script src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/js/headhesive.min.js"></script>
-        <script src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/js/fhmm.js"></script>
-        <script src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/js/jquery.sticky-kit.min.js"></script>
+        <script src="/37d3032fce965b0a8be1d6f780471b0b/assets/js/jquery.noty.packaged.min.js"></script>
+        <script src="/37d3032fce965b0a8be1d6f780471b0b/assets/js/headhesive.min.js"></script>
+        <script src="/37d3032fce965b0a8be1d6f780471b0b/assets/js/fhmm.js"></script>
+        <script src="/37d3032fce965b0a8be1d6f780471b0b/assets/js/jquery.sticky-kit.min.js"></script>
 
-        <script src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/js/theme.js"></script>
-        <script src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/js/clock.js"></script>
-        <script src="/c63bc3eb0f9ea4b465635cc83910e0f7/assets/js/custom.js"></script>
+        <script src="/37d3032fce965b0a8be1d6f780471b0b/assets/js/theme.js"></script>
+        <script src="/37d3032fce965b0a8be1d6f780471b0b/assets/js/clock.js"></script>
+        <script src="/37d3032fce965b0a8be1d6f780471b0b/assets/js/clipboard.min.js"></script>
+        <script src="/37d3032fce965b0a8be1d6f780471b0b/assets/js/custom.js"></script>
 
             <script type="text/javascript">
         var fee     = 4.75,
             min_fee = 0,
-            rate    = 7132.71,
+            rate    = 7704.98,
             limits  = { min: 7500, max: 100000 };
     </script>
     </body>

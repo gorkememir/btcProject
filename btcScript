@@ -4,7 +4,7 @@
 cd ~/btcProject/
 
 #Arbitrage treshold in CAD
-TRS=150
+TRS=250
 
 #USD/TRY on www.altinkaynak.com
 	#Get the source code from Altinkaynak and output to wholeSite file. 
